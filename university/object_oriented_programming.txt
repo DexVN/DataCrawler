@@ -1,0 +1,1128 @@
+Question 1: Muốn chạy được chương trình java, chỉ cần cài phần mền nào sau đây?
+Answer: A. Netbeans
+Answer: B. Java Platform
+Answer: C. JDK
+Answer: D. Eclipse
+Correct Answer: Java Platform
+Correct Symbol: B
+--------------------
+Question 2: Khi sử dụng từ khóa new để tạo một đối tượng, nó được tạo ra ở đâu?
+Answer: A.  Stack
+Answer: B.  Garbage collector
+Answer: C. Heap
+Answer: D.  Queue
+Correct Answer: Heap
+Correct Symbol: C
+--------------------
+Question 3: Đọc đoạn mã lệnh sau1:public class Main {2:    public static void main(String[] args) {3:        int x;4:        System.out.println("x = " + x);5:    }6:}Sau khi thực thi chương trình sẽ in ra kết quả gì?
+Answer: A.  -1
+Answer: B. 1
+Answer: C. 0
+Answer: D.  Lỗi biên dịch: Uncompilable source code - variable x might not have been initialized
+Correct Answer:  Lỗi biên dịch: Uncompilable source code - variable x might not have been initialized
+Correct Symbol: D
+--------------------
+Question 4: Khả năng truy xuất vào các thành phần của một đối tượng trong khi vẫn đảm bảo che giấu các đặc tính riêng tư bên trong đối tượng được gọi là tính chất gì trong lập trình hướng đối tượng?
+Answer: A. Tính trừu tượng
+Answer: B. Tính đa hình
+Answer: C. Tính bao gói
+Answer: D. Tính kế thừa
+Correct Answer: Tính bao gói
+Correct Symbol: C
+--------------------
+Question 5: Trong 2 câu sau, câu nào đúng? Câu nào sai?Câu 1: Tất cả các đối tượng thuộc vào cùng một lớp có cùng thuộc tính và hành vi có thể có.Câu 2: Một phương thức được gọi là constructor sử dụng để hủy một đối tượng.
+Answer: A.  Câu 2 đúng, câu 1 sai
+Answer: B. Cả hai câu đều đúng
+Answer: C.  Cả hai câu đều sai
+Answer: D.  Câu 1 đúng, câu 2 sai
+Correct Answer:  Câu 1 đúng, câu 2 sai
+Correct Symbol: D
+--------------------
+Question 6: Phương thức nextLine thuộc lớp nào?
+Answer: A. Integer
+Answer: B. Scanner
+Answer: C. String
+Answer: D. System
+Correct Answer: Scanner
+Correct Symbol: B
+--------------------
+Question 7: Đâu là 2 đặc trưng cơ bản để phân biệt các đối tượng trong thế giới thực?
+Answer: A. Trạng thái và hành vi
+Answer: B. Hành vi và phương thức
+Answer: C. Trạng thái và thuộc tính
+Answer: D. Phương thức và hành động
+Correct Answer: Trạng thái và hành vi
+Correct Symbol: A
+--------------------
+Question 8: Việc định nghĩa một lớp mới bằng cách mở rộng một lớp đã có là tính chất gì trong lập trình hướng đối tượng?
+Answer: A. Tính đa hình
+Answer: B. Tính trừu tượng
+Answer: C. Tính bao gói
+Answer: D. Tính kế thừa
+Correct Answer: Tính kế thừa
+Correct Symbol: D
+--------------------
+Question 9: Khi biên dịch một file java ta được file nào trong các file sau?
+Answer: A. class
+Answer: B. bytecode
+Answer: C. msi
+Answer: D. exe
+Correct Answer: class
+Correct Symbol: A
+--------------------
+Question 10: Tên biến nào sau KHÔNG hợp lệ?
+Answer: A.  _3_
+Answer: B. _whatarevariable
+Answer: C. 2variable
+Answer: D.  variable2
+Correct Answer: 2variable
+Correct Symbol: C
+--------------------
+Question 11: Đâu là chú thích SAI trong java?
+Answer: A.  <!--a comment--!>
+Answer: B.  /**a comment*/
+Answer: C.  int x; //a comment
+Answer: D.  /* a comment */
+Correct Answer:  <!--a comment--!>
+Correct Symbol: A
+--------------------
+Question 12: Đối tượng là gì?
+Answer: A. Một biến
+Answer: B. Các lớp được tạo thể hiện từ đó
+Answer: C. Một thể hiện của lớp
+Answer: D.  Một tham chiếu đến một thuộc tính
+Correct Answer: Một thể hiện của lớp
+Correct Symbol: C
+--------------------
+Question 13: Đọc đoạn mã lệnh sau1:public class Main {2:    public static void main(String[] args) {3:        int x = -1;4:        String y = x + 3;5:        System.out.println("x = " + x + "y = " + y);6:    }7:}Sau khi thực thi chương trình sẽ in ra kết quả gì?
+Answer: A.  x=-1 y=-13
+Answer: B.  x=-1 y=4
+Answer: C.  x=-1 y=2
+Answer: D.  Lỗi biên dịch 
+Correct Answer:  Lỗi biên dịch
+Correct Symbol: D
+--------------------
+Question 14: Trong 2 câu sau, câu nào đúng? Câu nào sai?Câu 1: Một chương trình Java có thể chạy trên bất kỳ hệ điều hành nào?Câu 2: Java là ngôn ngữ lập trình hướng đối tượng
+Answer: A.  Câu 2 đúng, câu 1 sai
+Answer: B. Cả hai câu đều đúng
+Answer: C.  Câu 1 đúng, câu 2 sai
+Answer: D.  Cả hai câu đều sai
+Correct Answer: Cả hai câu đều đúng
+Correct Symbol: B
+--------------------
+Question 15: Từ khóa nào thông báo với trình biên dịch rằng phương thức không trả về bất cứ giá trị nào khi được thực thi?
+Answer: A. void
+Answer: B. public
+Answer: C. private
+Answer: D. int
+Correct Answer: void
+Correct Symbol: A
+--------------------
+Question 16: Đọc đoạn mã lệnh sau1:public class Test {2:    int x;3:    public void Test() {4:        System.out.println("x = " + x);5:    }6:    public Test(int x) {7:        this.x = x;8:        System.out.println("x = " + x);9:    }10:}Sau khi thực hiện lệnh new Test(2) chương trình sẽ in ra kết quả gì?
+Answer: A.  0
+Answer: B. -1
+Answer: C.  Lỗi biên dịch
+Answer: D.  2
+Correct Answer:  2
+Correct Symbol: D
+--------------------
+Question 17: Một thiết kế cho một đối tượng phần mềm được gọi là gì?
+Answer: A. Lớp - class
+Answer: B. Đối tượng - Object
+Answer: C. Thực thể - entity
+Answer: D. Giao diện – interface
+Correct Answer: Lớp - class
+Correct Symbol: A
+--------------------
+Question 18: Trong 2 phát biểu sau, phát biểu nào đúng? Phát biểu nào sai?Phát biểu 1: Tất cả các đối tượng thuộc vào cùng một lớp có cùng các đặc tính và các hành động có thể có.Phát biểu 2: Lớp là tập các đối tượng có các thuộc tính và hành vi không giống nhau.
+Answer: A. Cả hai phát biểu đều đúng
+Answer: B. Cả hai phát biểu đều sai
+Answer: C.  phát biểu 1 đúng, phát biểu 2 sai
+Answer: D.  Phát biểu 2 đúng, phát biểu 1 sai
+Correct Answer:  phát biểu 1 đúng, phát biểu 2 sai
+Correct Symbol: C
+--------------------
+Question 19: Hai đối tượng có thể giao tiếp với nhau thông qua:
+Answer: A. Lời gọi hàm của đối tượng được yêu cầu
+Answer: B. Truy xuất vào hành vi của đối tượng
+Answer: C. Gọi hàm tạo của đối tượng
+Answer: D. Truy xuất vào thuộc tính của đối tượng
+Correct Answer: Lời gọi hàm của đối tượng được yêu cầu
+Correct Symbol: A
+--------------------
+Question 20: Đâu KHÔNG phải là đặc điểm của ngôn ngữ Java?
+Answer: A.  An toàn
+Answer: B.  Đa dạng
+Answer: C. Hướng đối tượng
+Answer: D.  Khả chuyển
+Correct Answer:  Đa dạng
+Correct Symbol: B
+--------------------
+Question 21: Đọc đoạn code sau1: int x = 30;2: int y = 10;3: if (x = y) {4: System.out.println("x = " + x);5: }Kết quả là gì?
+Answer: A. Biên dịch lỗi.
+Answer: B. x = 30
+Answer: C. Đoạn code không có lỗi nhưng không đưa ra kết quả gì.
+Answer: D. x = 10
+Correct Answer: Biên dịch lỗi.
+Correct Symbol: A
+--------------------
+Question 22: Biểu thức nào có giá trị khác các biểu thức còn lại trong các biểu thức sau?Cho x=true thuộc kiểu boolean.
+Answer: A.  true
+Answer: B.  !x
+Answer: C.  1==1
+Answer: D.  x==true;
+Correct Answer:  !x
+Correct Symbol: B
+--------------------
+Question 23: Có mấy cách để truyền tham số vào cho một phương thức?
+Answer: A.  2
+Answer: B.  3
+Answer: C.  1
+Answer: D.  4
+Correct Answer:  2
+Correct Symbol: A
+--------------------
+Question 24: Để khởi tạo giá trị cho thuộc tính của lớp, KHÔNG được khởi tạo ở đâu?
+Answer: A.  Trong phương thức
+Answer: B. Trong khối lệnh bất kỳ
+Answer: C.  Tại thời điểm khai báo thuộc tính
+Answer: D.  Trong hàm tạo
+Correct Answer: Trong khối lệnh bất kỳ
+Correct Symbol: B
+--------------------
+Question 25: Để kiểm tra xem một số là chẵn hay lẻ, cần thực hiện những bước sau:1. Đọc số2. Chia số cho 23. Nếu số dư của phép chia bằng 0 thì là số chẵn4. Nếu không thì là số lẻThứ tự đúng của quá trình trên là:
+Answer: A.  2-4-1-3
+Answer: B.  4-2-1-3
+Answer: C.  1-2-4-3
+Answer: D.  1-2-3-4
+Correct Answer:  1-2-3-4
+Correct Symbol: D
+--------------------
+Question 26: Đọc đoạn code sau:1:public class Test {2:public int aMethod() {3:int i = 0;4:i++;5:return i;6:}7:public static void main (String[]args){8:Test test = new Test();9:test.aMethod();10:int j = test.aMethod();11:System.out.println(j);12:}13:}Kết quả là gì?
+Answer: A. 1
+Answer: B. 2
+Answer: C. 0
+Answer: D. Lỗi biên dịch
+Correct Answer: 1
+Correct Symbol: A
+--------------------
+Question 27: Cách thức truyền tham trị cho phương thức chỉ áp dụng cho kiểu dữ liệu nào?
+Answer: A. Class
+Answer: B. Object
+Answer: C. String
+Answer: D.  int/double/float
+Correct Answer:  int/double/float
+Correct Symbol: D
+--------------------
+Question 28: Đọc đoạn code sau1: int i =1,j =10;2: do {3: if(i++> - -j) {4: continue;5: }6: } while (i <5);7: System.out.println("i = " +i+ " and j = "+j);Kết quả là gì?
+Answer: A.  i = 6 and j = 6
+Answer: B.  i = 5 and j = 6
+Answer: C.  i = 5 and j = 5
+Answer: D.  i = 6 and j = 5
+Correct Answer:  i = 5 and j = 6
+Correct Symbol: B
+--------------------
+Question 29: Phát biểu nào đúng?
+Answer: A. Biến phải được khởi tạo khi khai báo trong hàm
+Answer: B. Biến được khai báo có thể lưu giữ bất cứ kiểu dữ liệu nào
+Answer: C. Tên biến $bank_account và _1account là hợp lệ
+Answer: D. Trong 1 khối lệnh chỉ được phép khai báo nhiều nhất một biến
+Correct Answer: Tên biến $bank_account và _1account là hợp lệ
+Correct Symbol: C
+--------------------
+Question 30: 01:class A {02:   int x = 10;03:   public void calTotal(A a){04:       a.x = 12;05:       06:System.out.println(a.x);07:   }08:}Khi thực hiện lệnh:A a = new A();a.calTotal(a);Giá trị của x sau khi thực hiện lệnh trên sẽ cho kết quả gì?
+Answer: A. 12
+Answer: B. 22
+Answer: C. 10
+Answer: D. 1012
+Correct Answer: 12
+Correct Symbol: D
+--------------------
+Question 31: Đâu là khai báo biến đúng trong java?(1) rollNumber(2) $rearly_salary(3) double(4) $$_(5) mount#balance
+Answer: A. 12345
+Answer: B. 123
+Answer: C. 124
+Answer: D. 125
+Correct Answer: 124
+Correct Symbol: C
+--------------------
+Question 32: Biểu thức sau trả về giá trị là bao nhiêu: 9/5
+Answer: A. 1.8
+Answer: B. 1
+Answer: C.  2
+Answer: D.  1.80
+Correct Answer: 1
+Correct Symbol: D
+--------------------
+Question 33: Với giá trị nào của x, biểu thức sau trả về giá trị true (x thuộc kiểu int).x%3=0
+Answer: A.  9
+Answer: B.  4
+Answer: C.  2
+Answer: D.  7
+Correct Answer:  9
+Correct Symbol: A
+--------------------
+Question 34: Kiểu dữ liệu nào trong java được dùng để lưu trữ một giá trị dạng đúng hoặc sai?
+Answer: A.  char
+Answer: B.  boolean
+Answer: C.  byte
+Answer: D.  bool
+Correct Answer:  boolean
+Correct Symbol: B
+--------------------
+Question 35: 1. public class X {2. public static void main (String[] args) {3. byte b = 127;4. byte c = 126;5. byte d = b + c;6. }7. }Đâu là câu đúng về đoạn mã trên?
+Answer: A. Chương trình biên dịch thành công và d nhận giá trị 1.
+Answer: B. Lỗi dòng 5 ngăn chương trình thực thi
+Answer: C. Lỗi dòng 3 và 4 ngăn chương trình thực thi
+Answer: D. Chương trình biên dịch thành công và d nhận giá trị 253.
+Correct Answer: Lỗi dòng 5 ngăn chương trình thực thi
+Correct Symbol: B
+--------------------
+Question 36: Biểu thức sau9.0/5>1trả về giá trị là bao nhiêu:
+Answer: A. false
+Answer: B.  true
+Answer: C.  0
+Answer: D.  1
+Correct Answer:  true
+Correct Symbol: B
+--------------------
+Question 37: Toán tử nào thực hiện phép chia lấy phần dư?
+Answer: A.  //
+Answer: B.  %%
+Answer: C.  %
+Answer: D.  /
+Correct Answer:  %
+Correct Symbol: C
+--------------------
+Question 38: Khi một đối tượng được tạo cần sử dụng từ khóa gì kết hợp với hàm tạo?
+Answer: A. new
+Answer: B. insteanof
+Answer: C. main
+Answer: D. public
+Correct Answer: new
+Correct Symbol: A
+--------------------
+Question 39: Biểu thức sau4/10*10trả về giá trị là bao nhiêu:
+Answer: A. 4
+Answer: B. 10
+Answer: C. 0
+Answer: D. 4.0
+Correct Answer: 0
+Correct Symbol: D
+--------------------
+Question 40: Xét 2 câu sau:Câu 1: Biến được khai báo bên trong lớp được dùng để lưu trữ các giá trị thuộc tính của đối tượngCâu 2: Biến địa phương là biến được khai báo bên trong phương thức và các khối lệnh.Câu nào đúng? Câu nào sai?
+Answer: A. Cả 2 câu đều sai
+Answer: B.  Cả 2 câu đều đúng
+Answer: C. Câu 1 đúng, câu 2 sai
+Answer: D. Câu 1 sai, câu 2 đúng
+Correct Answer:  Cả 2 câu đều đúng
+Correct Symbol: B
+--------------------
+Question 41: Với giá trị nào của x, biểu thức sau trả về giá trị true (x thuộc kiểu int).x/3=0
+Answer: A. 2
+Answer: B. 7
+Answer: C. 4
+Answer: D. 9
+Correct Answer: 2
+Correct Symbol: A
+--------------------
+Question 42: Cho hai lớp Student và Main như sau:package java.school; public class Student {}--package java.test; public class Main {public static void main(String[] args) {school.Student s = new school.Student();}}Khi biên dịch lớp Main có lỗi biên dịch không? Nếu có là lỗi nào sau:
+Answer: A. Có lỗi biên dịch:Add import java.school.Student
+Answer: B. Không có lỗi biên dịch.
+Answer: C. Có lỗi biên dịch:package school does not exist
+Answer: D. Có lỗi biên dịch:can not find constructor Student() for Student.
+Correct Answer: Có lỗi biên dịch:package school does not exist
+Correct Symbol: C
+--------------------
+Question 43: Mặc định nếu thuộc tính của lớp chưa xác định bổ từ truy xuất thì sẽ thuộc loại nào?
+Answer: A. default
+Answer: B. public
+Answer: C. protected
+Answer: D. private
+Correct Answer: default
+Correct Symbol: A
+--------------------
+Question 44: Cho lớp Student như sau:public class Student {private String mark;public String getMark() {return mark;}public void setMark(String mark) {this.mark = mark;}}và s là thể hiện của lớp Student.Đoạn mã nào sau cho phép thay đổi điểm của s thành "10"?
+Answer: A.  s.mark=10;
+Answer: B.  s.mark="10"
+Answer: C. s.setMark("10");
+Answer: D.  s.setMark(10);
+Correct Answer: s.setMark("10");
+Correct Symbol: C
+--------------------
+Question 45: 1.1:package a;1.2:class A1{}1.3://///////2.1:package b;2.2:2.3: class B1{2.4: public void test(){2.5:      A1 a1 = new A1();2.6: }2.7: }Muốn sử dụng lớp A1 của gói a thì dòng 2 phải điền gì?
+Answer: A. package a;
+Answer: B. Không điền gì
+Answer: C.  import a;
+Answer: D. import a.*;
+Correct Answer: import a.*;
+Correct Symbol: D
+--------------------
+Question 46: 1:///////package a2:package a;3:class A{}4:///////package b5:package b;6:class A{}7://////default package8:class Test {9:public static void main(String[] args){10:A a = new A();11:System.out.println(a.toString());12:}13:}Chương trình sẽ in ra cái gì?
+Answer: A. Biên dịch thành công, nhưng chạy chương trình lỗi
+Answer: B. Chương trình sẽ in ra đối tượng a thuộc lớp A
+Answer: C. Chương trình không in ra gì.
+Answer: D. Lỗi dòng khởi tạo lớp A: A a = new A();
+Correct Answer: Lỗi dòng khởi tạo lớp A: A a = new A();
+Correct Symbol: D
+--------------------
+Question 47: Đoạn mã sau có lỗi biên dịch gì?public class Person {private String name;private int age;public static void main(String[] args) {Person p = new Person();p.name="Tom";System.out.println(p.name);}}
+Answer: A.  name has private access.
+Answer: B.  name has public access.
+Answer: C. age has private access.
+Answer: D. Không có lỗi biên dịch.
+Correct Answer: Không có lỗi biên dịch.
+Correct Symbol: D
+--------------------
+Question 48: Đoạn mã sau có lỗi biên dịch gì?class Person {protected String name; public int age;};public class Main { public static voidmain(String[] args) {Person p = new Person();p.name="Tom";}}
+Answer: A. Không có lỗi biên dịch.
+Answer: B. name has protected access.
+Answer: C. age has protected access.
+Answer: D. name has public access.
+Correct Answer: name has protected access.
+Correct Symbol: B
+--------------------
+Question 49: Cho hai lớp Student và Main như sau:package java.school;public class Student {}--package java.test;public class Main {public static void main(String[] args) {java.school.Student s = new java.school.Student();}}Khi biên dịch lớp Main có lỗi biên dịch không? Nếu có là lỗi nào sau:
+Answer: A. Có lỗi biên dịch: can not find  constructor Student() for Student.
+Answer: B. Không có lỗi biên dịch.
+Answer: C. Có lỗi biên dịch: Add import java.school.Student
+Answer: D. Có lỗi biên dịch:can not find symbol test.Student
+Correct Answer: Không có lỗi biên dịch.
+Correct Symbol: B
+--------------------
+Question 50: Chương trình sẽ in ra kết quả gì khi thực thi? Chương trình sẽ in ra kết quả gì khi thực thi?1.0: package pac01;1.1: public class ClassA { 1.2:int xA;1.3:public String yA; 1.4: }---------2.0: package pac01; 2.1: public class Test {2.2:public static void main(String[] args) {2.3:ClassA a = new ClassA();2.4:a.xA = 12;2.5:a.yA = "Hello"; 2.6:System.out.println("a.xA= " + a.xA + "; a.yA = " +a.yA);2.7:}2.8: }
+Answer: A. Lỗi biên dịch dòng 2.4
+Answer: B. Lỗi biên dịch dòng 2.4, 2.6
+Answer: C. Lỗi biên dịch dòng 2.5
+Answer: D. a.xA = 12; a.yA = Hello
+Correct Answer: a.xA = 12; a.yA = Hello
+Correct Symbol: D
+--------------------
+Question 51: Các lớp muốn được sử dụng bên ngoài gói trong các chương trình khác phải được khai báo với bổ từ truy xuất nào?
+Answer: A.  private
+Answer: B.  default
+Answer: C.  public
+Answer: D.  protected
+Correct Answer:  public
+Correct Symbol: C
+--------------------
+Question 52: Cho hai lớp Student và Main như sau:package java.school;public class Student {}--package java.test;public class Main {public static void main(String[] args) {Student s = new Student();}}Kết quả khi biên dịch lớp Main:
+Answer: A. Có lỗi biên dịch ở package java.school
+Answer: B. Có lỗi biên dịch vì chưa khai báo lớp Student
+Answer: C. Không có lỗi biên dịch.
+Answer: D. Có lỗi biên dịch ở lớp Student
+Correct Answer: Có lỗi biên dịch vì chưa khai báo lớp Student
+Correct Symbol: B
+--------------------
+Question 53: Khai báo lớp Student trong package java.class sau có lỗi biên dịch hay không, nếu có thì là lỗi gì?package java.class;class Student {}
+Answer: A. Lỗi tên package không hợp lệ
+Answer: B. Không có lỗi biên dịch
+Answer: C. Có lỗi biên dịch package must be java
+Answer: D. Có lỗi biên dịch vì Student is empty
+Correct Answer: Lỗi tên package không hợp lệ
+Correct Symbol: A
+--------------------
+Question 54: Đâu là khai báo lớp Student trong package java.school đúng:
+Answer: A. public class java.school.Student {}
+Answer: B. package java.school;public class Student {}
+Answer: C. package java.school;public class java.school.Student {}
+Answer: D. package java.school;public class school.Student {}
+Correct Answer: package java.school;public class Student {}
+Correct Symbol: B
+--------------------
+Question 55: Bạn đang viết một đoạn mã cho 1 lớp, lớp này nằm trong package test và sử dụng các thành phần trong gói java.util. Lựa chọn đoạn mã để khởi đầu cho file dữ liệu nguồn.
+Answer: A. package test;
+Answer: B. import java.util.*;
+Answer: C. import java.util.*; package test;
+Answer: D. package test; import java.util.*;
+Correct Answer: package test; import java.util.*;
+Correct Symbol: D
+--------------------
+Question 56: G/s đã tạo ra 2 gói là HiSchool và CollegeTrong gói HiSchool ta khai báo lớp Student như sau:public class Student {}Trong gói College ta khai báo lớp Student như sau:public class Student {} Hỏi có lỗi gì xẩy ra?
+Answer: A. Không có lỗi biên dịch.
+Answer: B. Có lỗi biên dịch:package must be java
+Answer: C. Có lỗi biên dịch:can not create two same class name.
+Answer: D. Có lỗi biên dịch:Only one Student class can be public
+Correct Answer: Không có lỗi biên dịch.
+Correct Symbol: A
+--------------------
+Question 57: Đoạn mã nào sau cho phép thay đổi điểm của s thành 10?Cho lớp Student như sau: public class Student {private int mark; public int getMark() {return mark;}public void setMark(int mark) {this.mark = mark;}}và s là đối tường s của Student.
+Answer: A. s.setMark(10.0);
+Answer: B. s.mark=10.0;
+Answer: C. s.mark=10;
+Answer: D. s.setMark(10);
+Correct Answer: s.setMark(10);
+Correct Symbol: D
+--------------------
+Question 58: Xét 2 câu sau:Câu 1: Một thành viên protected của một lớp có thể được truy xuất từ bất kỳ lớp nào trong cùng một gói và từ một lớp con nằm bên ngoài gói nếu lớp bên ngoài đó là lớp con.Câu 2: Một thành viên của một lớp được khai báo là private không những không thể được truy xuất từ bên trong lớp mà còn không nơi nào bên ngoài lớp.Câu nào đúng? Câu nào sai?
+Answer: A. Câu 1 sai, câu 2 đúng
+Answer: B. Câu 1 đúng, câu 2 sai
+Answer: C.  Cả 2 câu cùng đúng
+Answer: D. Cả 2 câu cùng sai
+Correct Answer: Câu 1 đúng, câu 2 sai
+Correct Symbol: B
+--------------------
+Question 59: Xét 2 câu sau:Câu 1: Trong khi tạo một gói, mã nguồn phải được đặt trong cùng một thư mục với tên của gói.Câu 2: Scanner là lớp thuộc gói java.utilCâu nào đúng? Câu nào sai?
+Answer: A.  Câu 1 đúng, câu 2 sai
+Answer: B. Cả hai câu đều đúng
+Answer: C.  Câu 2 đúng, câu 1 sai
+Answer: D. Cả hai câu đều sai
+Correct Answer: Cả hai câu đều đúng
+Correct Symbol: B
+--------------------
+Question 60: Đọc đoạn mã sau:1.0: package pac02;1.1: public class ClassA { 1.2:private int xA; 1.3:private String yA; 1.4:}2.0: package pac01;2.1: import pac02.ClassA; 2.2: public class Test {2.3:public static void main(String[] args) {2.4:ClassA a = new ClassA();2.5:a.xA = 12;2.6:a.yA = "Hello"; 2.7:System.out.println("a.xA= " + a.xA + "; a.yA = " +a.yA);2.8:}2.9: }Chương trình sẽ in ra kết quả gì khi thực thi?
+Answer: A. a.xA = 12; a.yA = Hello
+Answer: B. Lỗi biên dịch dòng 2.6
+Answer: C. Lỗi biên dịch dòng 2.5, 2.6, 2.7
+Answer: D. Lỗi biên dịch dòng 2.5
+Correct Answer: Lỗi biên dịch dòng 2.5, 2.6, 2.7
+Correct Symbol: C
+--------------------
+Question 61: 1: package a;2: class A{protected int x;}3: class B{4: public void test(){5: A a = new A();6: a.x = 9;7: System.out.println(a.x);8: }9:public static void main(String[] agrs)10:     {11:         B b1=new B();12:         b1.test();13:     }14: }Khi chạy đoạn chương trình trên sẽ thông báo gì?
+Answer: A.  x không nhận giá trị gì
+Answer: B.  9
+Answer: C. Chương trình lỗi dòng 7
+Answer: D. Chương trình lỗi dòng 6
+Correct Answer:  9
+Correct Symbol: B
+--------------------
+Question 62: Kích thước mảng thuộc kiểu dữ liệu gì?
+Answer: A. Bất cứ kiểu dữ liệu nào hợp lệ
+Answer: B. Số nguyên
+Answer: C. Số thực
+Answer: D. Chuỗi
+Correct Answer: Số nguyên
+Correct Symbol: B
+--------------------
+Question 63: Cho xâu kí tự s=”ABCDEF”. Để lấy kỳ tự thứ ‘E’ của xâu ký tự s(String) dùng câu lệnh nào sau đây?
+Answer: A. s[4]
+Answer: B. s.charAt(5)
+Answer: C. s.charAt(4)
+Answer: D. s[5]
+Correct Answer: s.charAt(4)
+Correct Symbol: C
+--------------------
+Question 64: Phát biểu sau nào là SAI
+Answer: A. Mảng là cấu trúc dữ liệu có khả năng lưu trữ nhiều thành phần (phần tử) dữ liệu với kiểu khác nhau
+Answer: B. Chỉ số mảng bắt đầu bằng 0
+Answer: C. Mảng N phần tử được đánh chỉ số từ 0 đến N - 1
+Answer: D. Mảng có kích thước không đổi trong toàn bộ chương trình
+Correct Answer: Mảng là cấu trúc dữ liệu có khả năng lưu trữ nhiều thành phần (phần tử) dữ liệu với kiểu khác nhau
+Correct Symbol: A
+--------------------
+Question 65: Chương trình sau in ra màn hình số mấy?01: public class Main{02:    public static void main(String[] args) {03:        String names[] = {"John","Anna","Peter","Victor","David"};04: System.out.println(names.length);05:    }06: }
+Answer: A. 4
+Answer: B. undefined
+Answer: C. 5
+Answer: D. 10
+Correct Answer: 5
+Correct Symbol: C
+--------------------
+Question 66: Lệnh nào sau đây cho biết khai báo mảng gồm 3 phần tử?
+Answer: A.  public int []a = new int[3];
+Answer: B.   public int [3] a = new int[];
+Answer: C.   public [] int a = int[3];
+Answer: D.  public int a [3] ;
+Correct Answer:  public int []a = new int[3];
+Correct Symbol: A
+--------------------
+Question 67: Trong các khai báo sau đâu là khai báo KHÔNG hợp lệ? 
+Answer: A. int a4[][] = {{}, {}, {}};
+Answer: B.  int a3[][] = new int[2][];
+Answer: C. int a2[][] = new int[2][3];
+Answer: D. int a1[][] = new int[][3];
+Correct Answer: int a1[][] = new int[][3];
+Correct Symbol: D
+--------------------
+Question 68: Lệnh nào SAI?
+Answer: A.  float f3[] = new float[3];
+Answer: B.  float f5[] = { 1.0f, 2.0f, 2.0f };
+Answer: C. float[] f1 = new float[3];
+Answer: D. float f2[] = new float[];
+Correct Answer: float f2[] = new float[];
+Correct Symbol: D
+--------------------
+Question 69: Chỉ số mảng bắt đầu từ
+Answer: A.  -1
+Answer: B.  1
+Answer: C.  0
+Answer: D.  Không xác định
+Correct Answer:  0
+Correct Symbol: C
+--------------------
+Question 70: Cho khai báo mảng sau:1: String[][] str = {"lap", "trinh", "java"};2: System.out.println(str[0][0]);Lệnh trên in ra cái gì?
+Answer: A. Lỗi biên dịch ở dòng 1
+Answer: B.  java
+Answer: C. trinh
+Answer: D. Không in ra gì
+Correct Answer: Lỗi biên dịch ở dòng 1
+Correct Symbol: A
+--------------------
+Question 71: Đọc đoạn mã sau1:String s, t;2:s = "Hello";3:t = "" + "my" + "";4:s.append(t);5:s.toLowerCase();6:s += "friend";7:System.out.println(s);Kết quả sẽ là ?
+Answer: A. Biên dịch lỗi
+Answer: B. hello my friend
+Answer: C.  hello my Friend
+Answer: D. Hello my friend
+Correct Answer: Biên dịch lỗi
+Correct Symbol: A
+--------------------
+Question 72: Xét 2 câu sau:Câu 1: Nếu 2 đối tượng bằng nhau trong cùng một mảng và mảng đó được sắp xếp, các phần tử bằng nhau không thể thay đổi thứ tự của chúng?Câu 2: Chỉ số mảng bắt đầu từ 1Câu nào đúng? Câu nào sai?
+Answer: A. Cả hai câu đều đúng
+Answer: B.  Câu 2 đúng, câu 1 sai
+Answer: C.  Câu 1 đúng, câu 2 sai
+Answer: D.  Cả hai câu đều sai
+Correct Answer:  Cả hai câu đều sai
+Correct Symbol: D
+--------------------
+Question 73: Phát biểu nào sau đây là đúng:
+Answer: A. Một phần tử của mảng không thể truyền vào trong một phương thức.
+Answer: B. Biểu thức array.length được sử dụng để trả về số phần tử trong mảng
+Answer: C. Chỉ số của mảng có thể sử dụng kiểu số thực (float, double)
+Answer: D. Mảng có thể lưu giữ các phần tử thuộc nhiều kiểu dữ liệu khác nhau
+Correct Answer: Biểu thức array.length được sử dụng để trả về số phần tử trong mảng
+Correct Symbol: B
+--------------------
+Question 74: Tìm câu SAI
+Answer: A. Cho phép khởi tạo giá trị của mảng ngay trong khai báo
+Answer: B. Các phần tử của mảng chiếm một số byte như nhau
+Answer: C. Các phần tử của mảng được sắp xếp liên tục trong bộ nhớ
+Answer: D. Với mảng int x[3][4] để lấy giá trị phần tử cuối cùng của mảng ta viết y=x[3][4]
+Correct Answer: Với mảng int x[3][4] để lấy giá trị phần tử cuối cùng của mảng ta viết y=x[3][4]
+Correct Symbol: D
+--------------------
+Question 75:  Khai báo nào sau đây được dùng để tạo ra hằng số?
+Answer: A.  int const ARRAY_SIZE = 10;
+Answer: B. final int ARRAY_SIZE = 10;
+Answer: C. const int ARRAY_SIZE = 10;
+Answer: D.  int final ARRAY_SIZE = 10;
+Correct Answer: final int ARRAY_SIZE = 10;
+Correct Symbol: B
+--------------------
+Question 76: Đoạn chương trình sau sẽ in ra thông tin gì trên màn hình?11: String a = "ABCD";12: String b = a.toLowerCase();13: b.replace(‘a’, ‘d’);14: b.replace(‘b’, ‘c’);15: System.out.println(b);
+Answer: A. dccd
+Answer: B. abcd
+Answer: C. dcba
+Answer: D. ABCD
+Correct Answer: abcd
+Correct Symbol: B
+--------------------
+Question 77: Lệnh khai báo nào dưới đây là hợp lệ?
+Answer: A. int[] b = new  int[100];
+Answer: B.  float a, b[] = new float[a];
+Answer: C.  int size = 11; float f[size];
+Answer: D.  int size; float f[] = new float[size];
+Correct Answer: int[] b = new  int[100];
+Correct Symbol: A
+--------------------
+Question 78: 01: int index = 1;02: int [] foo = new int [3];03: int bar = foo [index];04: int baz = bar + index;Kết quả baz là?
+Answer: A.  baz có giá trị là 1
+Answer: B.  Ngoại lệ ném ra
+Answer: C. baz có giá trị là 0
+Answer: D.  baz có giá trị là 2
+Correct Answer:  baz có giá trị là 1
+Correct Symbol: A
+--------------------
+Question 79: Sau lệnh khởi tạo dưới đây mảng a có bao nhiêu phần tử?char a[] = {'k', '5', '0', 'c', '\'', '\0'}; 
+Answer: A. Khởi tạo mảng sai
+Answer: B. 5
+Answer: C. 8
+Answer: D. 6
+Correct Answer: 6
+Correct Symbol: D
+--------------------
+Question 80: Lệnh sau in ra cái gì?1: final int ARRAY_SIZE = 5;2: ARRAY_SIZE = 10;3: System.out.println("size = " + ARRAY_SIZE);
+Answer: A. Lỗi ở dòng 3
+Answer: B. size = 10
+Answer: C. size = 5
+Answer: D. Lỗi ở dòng 2
+Correct Answer: Lỗi ở dòng 2
+Correct Symbol: D
+--------------------
+Question 81: Chương trình sau in ra màn hình xâu nào?01: public class Main{02:    public static void main(String[] args) {03:        String names[] = {"John","Anna","Peter","Victor","David"};04: System.out.println(names[2]);05:    }06:}
+Answer: A. Peter
+Answer: B. Victor
+Answer: C. Anna
+Answer: D. Có lỗi biên dịch: use new keyword to create object
+Correct Answer: Peter
+Correct Symbol: A
+--------------------
+Question 82: Xét 2 câu sau:Câu 1: Một phương thức bị ghi đè (overriden method) có thể nằm trong cùng một lớp.Câu 2: overloading method cho phép trong một lớp có thể có nhiều hơn một phương thức trùng tên nhau với tham số giống nhauCâu nào đúng? Câu nào sai?
+Answer: A.  Cả 2 câu đều đúng
+Answer: B.  Cả 2 câu đều sai
+Answer: C. Câu 1 sai, câu 2 đúng
+Answer: D.  Câu 1 đúng, câu 2 sai
+Correct Answer:  Cả 2 câu đều sai
+Correct Symbol: B
+--------------------
+Question 83: Đoạn mã sau có lỗi biên dịch nào?class Student {public String name;}public class Man extends Student{private String name;}
+Answer: A. Có lỗi biên dịch:for name access modifier in Man for name is weaker in Student.
+Answer: B. Có lỗi biên dịch:name has private access in Man.
+Answer: C. Có lỗi biên dịch:name has public access in Student.
+Answer: D. Không có lỗi biên dịch.
+Correct Answer: Không có lỗi biên dịch.
+Correct Symbol: D
+--------------------
+Question 84: Đọc đoạn mã sau1: class TestSuper {2: TestSuper(int i) { }3: }4: class TestSub extends TestSuper{ }5: class TestAll {6: public static void main (String [] args) {7:new TestSub(TestSuper(3););8: }9: }Khẳng định nào sau đây là đúng?
+Answer: A. Chương trình chạy bình thường và không in ra thông tin gì
+Answer: B. Chương trình sẽ in ra số 0
+Answer: C. Lỗi biên dịch
+Answer: D. Chương trình sẽ in ra số 3
+Correct Answer: Lỗi biên dịch
+Correct Symbol: C
+--------------------
+Question 85: Đoạn mã sau in ra màn hình xâu ký tự nào sau:class Student {public String sayHello(){return "Student";}}public class Man extends Student{public String sayHello() {return super.sayHello();}public static void main(String[] args) {Man m = new Man();System.out.println(m.sayHello());}}
+Answer: A.  Man
+Answer: B. Student
+Answer: C. Student  Man
+Answer: D. Man Student
+Correct Answer: Student
+Correct Symbol: D
+--------------------
+Question 86: Các phương thức thuộc cùng một lớp và có cùng một tên nhưng khác nhau về số lượng các tham số truyền vào gọi là gì?
+Answer: A. Các phương thức bị nạp chồng
+Answer: B. Chỉ là phương thức thông thường
+Answer: C. Các phương thức bị ghi đè
+Answer: D.  Các phương thức có khả năng chia sẻ
+Correct Answer: Các phương thức bị nạp chồng
+Correct Symbol: A
+--------------------
+Question 87: 1: class A {int x;}2: class B extends A{3:   public void method(){4:    x = 5;5:   System.out.println(x)6:  }7:}Đoạn mã trên x nhận giá trị gì?
+Answer: A.  Lỗi biên dịch
+Answer: B.  x = 5
+Answer: C.  x = -1
+Answer: D.  x = 0
+Correct Answer:  x = 5
+Correct Symbol: B
+--------------------
+Question 88: Đoạn lệnh nào sẽ đưa ra lỗi biên dịch?
+Answer: A. class A { A() {}}class B { public B() {} }
+Answer: B.  class A { public A(int x) {} }
+Answer: C.  class A {}class B extends A { B() {}}
+Answer: D. class Z { public Z(int) {} }class A extends Z { }
+Correct Answer: class Z { public Z(int) {} }class A extends Z { }
+Correct Symbol: D
+--------------------
+Question 89: Đoạn mã sau có lỗi biên dịch nào?class Student {}public class Man extends Student{public static void main(String[] args) {Student m = new Man();}}
+Answer: A. Có lỗi biên dịch: Không thể khai báo biến m thuộc lớp Man
+Answer: B. Không có lỗi biên dịch.
+Answer: C. Do not use extends to make subclass..
+Answer: D. Có lỗi biên dịch:Incompatible type, required Student, found Man.
+Correct Answer: Có lỗi biên dịch: Không thể khai báo biến m thuộc lớp Man
+Correct Symbol: A
+--------------------
+Question 90: Đoạn mã sau có kết quả như thế nào?class Student {private String name; }public class Man extends Student{protected String name =”Peter”;}
+Answer: A. Thuộc tính name của cả lớp Student và lớp Man đều có giá trị là “Peter”
+Answer: B. Có lỗi biên dịch:name has private access in Student.
+Answer: C. Không có lỗi biên dịch.
+Answer: D. Giá trị của thuộc tính name của lớp student là “Peter”
+Correct Answer: Không có lỗi biên dịch.
+Correct Symbol: C
+--------------------
+Question 91: Đọc đoạn mã sau:1: class Super {2: public Integer getLength() { return new Integer(4); }3: }4:5: public class Sub extends Super {6: public Long GetLength() { return new Long(5); }7:8: public static void main(String[] args) {9: Super sooper = new Super();10: Sub sub = new Sub();11: System.out.println(12: sooper.getLength().toString() + "," +13: sub.getLength().toString() );14: }15: }Chương trình sẽ in ra thông tin gì?
+Answer: A. 4,4
+Answer: B. 5,4
+Answer: C. 4,5
+Answer: D. 5,5
+Correct Answer: 4,4
+Correct Symbol: A
+--------------------
+Question 92: Đoạn mã sau in ra màn hình xâu ký tự nào sau:class Student {publicString sayHello(){return "Student";}}public class Man extends Student{publicString sayHello() {return super.sayHello();}publicstaticvoid main(String[] args) {Student m = new Student(); System.out.println(m.say Hello());}}
+Answer: A. Man
+Answer: B.  Student Man
+Answer: C.  Man Student
+Answer: D. Student
+Correct Answer: Student
+Correct Symbol: D
+--------------------
+Question 93: Một lớp kế thừa từ một lớp khác được gọi là gì?
+Answer: A.  interface
+Answer: B. super-class
+Answer: C. abstract
+Answer: D. sub-class
+Correct Answer: sub-class
+Correct Symbol: D
+--------------------
+Question 94: 1: class A {2:   int x;3:   public void method(){4:    x = 5;5:   System.out.println(x)6:  }7:}8: class B extends A{9:   public void method(){10:    x = 6;11:   System.out.println(x)12: }13:}Chỉ ra lệnh SAI khi muốn tạo đối tượng A hay B.
+Answer: A. A a = new B();
+Answer: B.  A a = new A();
+Answer: C.  B b = new B();
+Answer: D.  B b = new A();
+Correct Answer:  B b = new A();
+Correct Symbol: D
+--------------------
+Question 95: Đọc đoạn mã sau1: class A {2: A() { }3: }4:5: class B extends A {6: }Câu lệnh nào sau là đúng nói về lớp B?
+Answer: A. Lớp B không có constructor
+Answer: B. constructor của lớp B không được bao gồm lệnh gọi hàm this().
+Answer: C. constructor của lớp B không có tham số
+Answer: D. constructor của lớp B bao gồm lệnh gọi hàm super().
+Correct Answer: constructor của lớp B không có tham số
+Correct Symbol: C
+--------------------
+Question 96: Cho một phần của mã trong lớp Widget:1: class Widget extends Thinggee {2:     private int widgetCount = 0;3:     int addWidget(){4:         widgetCount++;5:         return widgetCount;6:     }7:     String wName;8:     public Widget(int mx, String t){9:          wName = "I am Widget #" + addWidget();10:    }11: }Ý nghĩa của từ private trong dòng 2 là gì?
+Answer: A. Vì widgetCount là private, nên chỉ những phương thức trong lớp Widget và các lớp dẫn xuất (derived classes) mới có thể truy xuất nó
+Answer: B. Nếu một lớp khác cố gắng truy xuất biến widgetCount  thì lỗi sẽ xảy ra
+Answer: C. Vì widgetCount là private, nên chỉ phương thức addWidget() mới có thể truy xuất nó
+Answer: D. Vì widgetCount là private, nên tất cả phương thức trong lớp Widget và các lớp khác đều có thể truy xuất tới.
+Correct Answer: Nếu một lớp khác cố gắng truy xuất biến widgetCount  thì lỗi sẽ xảy ra
+Correct Symbol: B
+--------------------
+Question 97: Đoạn mã sau có kết quả như thế nào?class Student {private String name; }public class Man extends Student{private String name;public static void main(String[] args) {Student m = new Student();m.name="Peter";}}
+Answer: A. In ra chữ “student”
+Answer: B. Có lỗi biên dịch
+Answer: C. in ra chữ “Peter”
+Answer: D. Không có lỗi biên dịch.
+Correct Answer: Có lỗi biên dịch
+Correct Symbol: B
+--------------------
+Question 98: 1: class A {}2: class B{}3: class C extends A, B{}Đâu là câu SAI khi nói về lớp A, B, C?
+Answer: A.  Mỗi một lớp A, B hoặc C khi khai báo nên đặt trong một file.
+Answer: B.  Có thể khai báo lớp C kế thừa từ hai lớp A và B như đoạn mã tại dòng 3
+Answer: C.   Ba lớp A, B, C có thể đặt trên cùng một file
+Answer: D.  Khi lưu dữ liệu vào file tên lớp và tên file nên trùng với nhau.
+Correct Answer:  Có thể khai báo lớp C kế thừa từ hai lớp A và B như đoạn mã tại dòng 3
+Correct Symbol: B
+--------------------
+Question 99: Nếu phương thức của bạn ghi đè một trong số các phương thức của lớp cha, bạn có thể gọi phương thức bị ghi đè thông qua từ khóa nào?
+Answer: A. parent
+Answer: B. super
+Answer: C. static
+Answer: D. this
+Correct Answer: super
+Correct Symbol: B
+--------------------
+Question 100: Đoạn mã sau có lỗi biên dịch KHÔNG? Nêu KHÔNG thì in ra màn hình kết quả nào sau:class Student {protectedString sayHello(){return "Student";}}public class Man extends Student{ privateString sayHello() {return "man";}}
+Answer: A. Man
+Answer: B. Student
+Answer: C. Có lỗi biên dịch.
+Answer: D. Student Man
+Correct Answer: Có lỗi biên dịch.
+Correct Symbol: C
+--------------------
+Question 101: Đoạn mã sau có lỗi biên dịch không? Nếu có là lỗi nào sau?class Student {protected String name; public Student(Stringname) {this.name=name;}}public class Man extends Student{publicMan(String name) {super(name);}}
+Answer: A. Không có lỗi biên dịch.
+Answer: B.  Có lỗi biên dịch:Có lỗi  biêndịch:protected variable name in Student is not in use inclass Man;can not find symbolconstructor Student()
+Answer: C. Có lỗi   biên   dịch:protectedvariable name in Student isnot in use in class Man.
+Answer: D. Có lỗi biên dịch: can not find symbol constructor Student()
+Correct Answer: Không có lỗi biên dịch.
+Correct Symbol: A
+--------------------
+Question 102: interface A { public void methodA();}abstract class B {public void methodB(){ System.out.println("B");}}public class Test extends B implements A{public void methodA(){ System.out.println("A"); }public static void main(String[]args){A a = new Test();a.methodA();B b = new Test();b.methodB();B b2 = new B();           b2.methodB();}}Chương trình khi chạy sẽ in ra cái gì?
+Answer: A. A, B
+Answer: B. Lỗi biên dịch: B is abstract; cannot be instantiated
+Answer: C. Biên dịch thành công, nhưng chạy thì lỗi.
+Answer: D. A, B, B
+Correct Answer: Lỗi biên dịch: B is abstract; cannot be instantiated
+Correct Symbol: B
+--------------------
+Question 103: Khi muốn triển khai một phương thức là abstract thì phương thức này phải nằm trong thành phần nào? 
+Answer: A. Lớp tĩnh
+Answer: B.  Lớp thông thường với phạm vi truy cập là public
+Answer: C. Lớp abstract
+Answer: D. Lớp thông thường với phạm vi truy cập là private
+Correct Answer: Lớp abstract
+Correct Symbol: C
+--------------------
+Question 104: Đâu là khai báo đúng về interface?
+Answer: A. interface C{public void print();}
+Answer: B.  interface B{private void print();}
+Answer: C.  abstract interface A{print();}
+Answer: D. interface A{void print(){int x;};}
+Correct Answer: interface C{public void print();}
+Correct Symbol: A
+--------------------
+Question 105: Đâu là lệnh đúng về tạo interface?
+Answer: A. public Interface NewInterface{}
+Answer: B. interface public NewInterface{}
+Answer: C. public interface NewInterface{}
+Answer: D. public NewInterface interface{}
+Correct Answer: public interface NewInterface{}
+Correct Symbol: C
+--------------------
+Question 106: Chọn mã để điền vào dòng 2 sao cho có lỗi khi biên dịch.1:public class Animal{2:3:}
+Answer: A. float run(){return 10.1}
+Answer: B. int run(){return 0}
+Answer: C. public void run(){}
+Answer: D. public void run();
+Correct Answer: public void run();
+Correct Symbol: D
+--------------------
+Question 107: Xét 2 câu sau:Câu 1: Tất cả các phương thức trong lớp abstract phải khai báo là abstract?Câu 2: Phương thức abstract là phương thức chưa được cài đặt phần thân.Câu nào đúng? Câu nào sai?
+Answer: A. Cả 2 câu đều đúng
+Answer: B. Câu 1 sai, Câu 2 đúng
+Answer: C.  Cả 2 câu đều sai
+Answer: D. Câu 1 đúng, Câu 2 sai
+Correct Answer: Câu 1 sai, Câu 2 đúng
+Correct Symbol: B
+--------------------
+Question 108: Đoạn mã nào có lỗi biên dich sau:Horse is not abstract and does not override abstract method run() in Animal
+Answer: A. abstract class Animal{ abstract int run();}abstract class Horse extends Animal{}
+Answer: B. abstract class Animal{abstract void run();}public class Horseextends Animal{}
+Answer: C. abstract class Animal{ abstract void run();}abstract public class Horse {}
+Answer: D. abstract class Animal{ abstract void run();}abstract class Horse {}
+Correct Answer: abstract class Animal{abstract void run();}public class Horseextends Animal{}
+Correct Symbol: B
+--------------------
+Question 109: Đọc đoạn mã sau:1: abstract class abstractIt {2: abstract float getFloat ();3: }4: public class AbstractTest extends AbstractIt {5: private float f1= 1.0f;6: public float getFloat () {return f1;}7: }Kết quả khi chạy chương trình?
+Answer: A.  Lỗi sinh ra ở dòng 6
+Answer: B. Biên dịch không lỗi, nhưng khi chạy lỗi runtime
+Answer: C. Lỗi sinh ra ở dòng 2
+Answer: D. Biên dịch thành công
+Correct Answer: Biên dịch thành công
+Correct Symbol: D
+--------------------
+Question 110: Xét 2 câu sau:Câu 1: Phương thức được khai báo với từ khóa abstract được sử dụng khi bạn muốn viết các đoạn code đầy đủ trong nó.Câu 2: Phương thức được khai báo với từ khóa final được sử dụng khi bạn muốn viết các đoạn code đầy đủ trong nó.Câu nào đúng? Câu nào sai?
+Answer: A. Câu 1 đúng, Câu 2 sai
+Answer: B. Câu 1 sai, Câu 2 đúng
+Answer: C.  Cả 2 câu đều đúng
+Answer: D. Cả 2 câu đều sai
+Correct Answer: Cả 2 câu đều sai
+Correct Symbol: D
+--------------------
+Question 111: Đâu là một khai báo interface đúng?
+Answer: A. public interface MyInterface {public int sum(int x, int y){return x+y;}}
+Answer: B. public interface MyInterface {default int x;}
+Answer: C. public interface MyInterface {static int MAX=10;}
+Answer: D. public interface MyInterface {private static int MAX=10;}
+Correct Answer: public interface MyInterface {static int MAX=10;}
+Correct Symbol: C
+--------------------
+Question 112: Các phương thức mà chưa được cài đặt cụ thể có thể được đặt trong?
+Answer: A. Chỉ trong interface
+Answer: B. Chỉ trong các lớp là abstract
+Answer: C. Có thể đặt trong bất cứ lớp nào
+Answer: D. Cả lớp abstract và interface
+Correct Answer: Cả lớp abstract và interface
+Correct Symbol: D
+--------------------
+Question 113: Đâu là cách viết để một lớp triển khai một interface
+Answer: A.  interface Summable {}class Math : Summable{}
+Answer: B. interface Summable {}class Math implementsSummable{}
+Answer: C. interface Summable {}class Math:: Summable{}
+Answer: D. interface Summable {}classMathextendsSummable{}
+Correct Answer: interface Summable {}class Math implementsSummable{}
+Correct Symbol: B
+--------------------
+Question 114: Đoạn mã nào sau đây có lỗi biên dịch.
+Answer: A. public interface Summable {}class Mathematician implements Summable{public static void main(String[] args) {Summable s = new Summable();}}
+Answer: B. public interface Summable {}class Mathematician implements Summable{public static void main(String[] args) {Mathematician s = new Mathematician();}}
+Answer: C. public interface Summable {}class Mathematician implements Summable{public static void main(String[] args) {Summable s = new Mathematician();}}
+Answer: D. public interface Summable {}class Mathematician implements Summable{public static void main(String[] args) {Object s = new Mathematician();}}
+Correct Answer: public interface Summable {}class Mathematician implements Summable{public static void main(String[] args) {Summable s = new Summable();}}
+Correct Symbol: A
+--------------------
+Question 115: Đoạn mã nào sau đây KHÔNG có lỗi biên dịch?
+Answer: A. interface Eatable {} interface Runnable {}public interface Animal extends Eatable and Runnable{}
+Answer: B. interface Eatable {} interface Runnable {}publicinterfaceAnimal extends Eatable,Runnable{}
+Answer: C. interface Eatable {} interface Runnable {}publicinterfaceAnimal implements Eatable,Runnable{}
+Answer: D. interface Eatable {} interface Runnable {}publicinterfaceAnimal implement Eatable,Runnable{}
+Correct Answer: interface Eatable {} interface Runnable {}publicinterfaceAnimal extends Eatable,Runnable{}
+Correct Symbol: B
+--------------------
+Question 116: abstract class A{}class B extends A{}Đâu là lệnh KHÔNG hợp lệ?
+Answer: A. A a = new A();
+Answer: B.  B b = new A();
+Answer: C.  A a = new B();
+Answer: D.  new B();
+Correct Answer: A a = new A();
+Correct Symbol: A
+--------------------
+Question 117: Đọc đoạn mã sau:1:  public abstract class Test {2:  public abstract void methodA();3:4:  public abstract void methodB()5:  {6:  System.out.printIn("Hello");7:   }8:  }Làm thế nào để đoạn mã trên biên dịch thành công?
+Answer: A. Cài đặt cụ thể phần thân cho phương thức methodA()
+Answer: B.  Xóa từ khóa abstract ở dòng 2
+Answer: C.  Thay thế từ khóa public ở dòng 2 thành private
+Answer: D. Xóa từ khóa abstract ở dòng 4
+Correct Answer: Xóa từ khóa abstract ở dòng 4
+Correct Symbol: D
+--------------------
+Question 118: Bạn có thể ngăn chặn một lớp có thể tạo lớp con bằng cách sử dụng từ khóa ?
+Answer: A. final
+Answer: B. protected
+Answer: C. private
+Answer: D. static
+Correct Answer: final
+Correct Symbol: A
+--------------------
+Question 119: Kiểm tra xem dòng lệnh nào là SAI khi tạo interface sau?1:publicinterface TestInterface{2:void methodDemo(int value) {3:4:System.out.println("Hi: " + value);5:}6:}
+Answer: A. Tạo interface trên là hợp lệ
+Answer: B.  Dòng 4
+Answer: C. Dòng 2
+Answer: D. Dòng từ 2 đến 4
+Correct Answer: Dòng từ 2 đến 4
+Correct Symbol: D
+--------------------
+Question 120: Một lớp kế thừa từ lớp abstract thì từ khóa nào sau đây được sử dụng để cài đặt các phương thức của lớp cha? 
+Answer: A. static
+Answer: B. abstract
+Answer: C. public
+Answer: D. private
+Correct Answer: abstract
+Correct Symbol: B
+--------------------
+Question 121: Chỉ ra các cách định nghĩa lớp abstract hợp lệ?Chỉ ra các cách định nghĩa lớp abstract hợp lệ?
+Answer: A. class A {abstract void unfinished();}
+Answer: B. public   class   abstract   A{abstract void unfinished();}
+Answer: C. class A {abstract void unfinished(){}}
+Answer: D. abstract class A {abstract void unfinished();}
+Correct Answer: abstract class A {abstract void unfinished();}
+Correct Symbol: D
+--------------------
+Question 122: Đọc đoạn code sau:public class Test{public static void main(String[]args){try {return;}finally {System.out.println("Finally");}}}Kết quả là gì?
+Answer: A. Đoạn code sẽ không biên dịch được vì khối catch bị lỗi
+Answer: B. Chương trình chạy và in ra "Finally"
+Answer: C. Chương trình biên dịch nhưng ngoại lệ ném ra trong quá trình chạy
+Answer: D. Chương trình chạy nhưng không in ra cái gì
+Correct Answer: Chương trình chạy và in ra "Finally"
+Correct Symbol: B
+--------------------
+Question 123: Giả sử tại câu lệnh statement2 sinh lỗi:try { statement1; statement2; statement3;}catch (Exception1 ex1) {}catch (Exception2 ex2) {}statement4;Điều gì sẽ KHÔNG đúng khi cài đặt đoạn code trên.
+Answer: A.  Nếu các Exception1 bắt được lỗi thì câu lệnh statement4 vẫn thực hiện.
+Answer: B. Lệnh statement3 vẫn thực hiện
+Answer: C. Nếu các Exception1, Exception2 bắt được lỗi thì câu lệnh statement4 thực hiện.
+Answer: D. Nếu các Exception1, Exception2 không bắt được lỗi thì chương trình sẽ dừng lại và sinh lỗi.
+Correct Answer: Lệnh statement3 vẫn thực hiện
+Correct Symbol: B
+--------------------
+Question 124: 11. try {12. int x = 0;13. int y = 5 / x;14. } catch (Exception e) {15. System.out.println("ArithmeticException");16. } catch (Exception ae){17. System.out.println("Arithmetic Exception");18. }19. System.out.println("finished");  }Chương trình sẽ in ra kết quả gì?
+Answer: A. finished
+Answer: B.  Arithmetic Exception
+Answer: C.  Lỗi biên dịch
+Answer: D.  Exception
+Correct Answer:  Arithmetic Exception
+Correct Symbol: B
+--------------------
+Question 125: Chọn cách tạo exception mới đúng trong các khai báo sau:
+Answer: A.  class MyException
+Answer: B.  public class MyException{}
+Answer: C.  public interface MyException extends Exception{}
+Answer: D.  public class MyException extends Exception{}
+Correct Answer:  public class MyException extends Exception{}
+Correct Symbol: D
+--------------------
+Question 126: 1: Scanner c = new Scanner(System.in);2: int x = c.next();3: System.out.println("x = " + x);Chương trình trên sẽ thực thi thế nào?
+Answer: A. Tại dòng 2 khi người dùng nhập giá trị 5, chương trình sẽ in ra x =
+Answer: B. Tại dòng 2 khi người dùng nhập giá trị 5, chương trình sẽ in ra x = 5
+Answer: C.  Đối tượng NumberFormatException được tung ra để bắt lỗi chương trình.
+Answer: D. Chương trình không thể chạy vì lỗi dòng 2 do không thể nhập chuỗi và gán cho số nguyên
+Correct Answer: Chương trình không thể chạy vì lỗi dòng 2 do không thể nhập chuỗi và gán cho số nguyên
+Correct Symbol: D
+--------------------
+Question 127: Trong chương trình thứ tự của các lệnh như thế nào là SAI?
+Answer: A.  try
+Answer: B.  try...finally
+Answer: C.  try...catch...catch...finally
+Answer: D. try...catch...finally
+Correct Answer:  try
+Correct Symbol: D
+--------------------
+Question 128: 1. public class X {2. public static void main(String [] args) {3. try {4. badMethod();5. System.out.print("A");6. }7. catch (Exception ex) {8. System.out.print("B");9. }10. finally {11. System.out.print("C");12. }13. System.out.print("D");14. }15. public static void badMethod() {16. throw new RuntimeException();17. }18. }Chương trình sẽ in ra kết quả gì?
+Answer: A. ABC
+Answer: B. BC
+Answer: C. AB
+Answer: D. BCD
+Correct Answer: BCD
+Correct Symbol: D
+--------------------
+Question 129: 1. public class X {2. public static void main(String [] args) {3. try {4. badMethod();5. System.out.print("A");6. }7. catch (Exception ex) {8. System.out.print("B");9. }10. finally {11. System.out.print("C");12. }13. System.out.print("D");14. }15. public static void badMethod() {}17. }Chương trình sẽ in ra kết quả gì?
+Answer: A. AC
+Answer: B.  ABCD
+Answer: C.  BD
+Answer: D.  ACD
+Correct Answer:  ACD
+Correct Symbol: D
+--------------------
+Question 130: Xét 2 câu sau:Câu 1: Theo sau khối lệnh try bắt buộc phải là khối catchCâu 2: Theo sau khối lệnh try có thể là một hoặc nhiều khối catch hoặc khối finallyCâu nào đúng? Câu nào sai
+Answer: A. Cả hai câu đều đúng
+Answer: B.  Cả hai câu đều sai
+Answer: C.  Câu 1 đúng, Câu 2 sai
+Answer: D.  Câu 2 đúng, Câu 1 sai
+Correct Answer:  Câu 2 đúng, Câu 1 sai
+Correct Symbol: D
+--------------------
+Question 131: Đoạn chương trình sau có lỗi biên dịch gi?01:public class Main 02:{03:public static void main(String[] args) {04:try { 05:System.out.println("Tr ying");06:}catch(Exception e){ 07:System.out.println("Ar ithmeticException");08:}catch (ArithmeticException ioe){ 09:System.out.println("Ex ception");10:}finally{ 11:System.out.println("Fi nally");12:}13:}}
+Answer: A.  Có lỗi biên dịch: exceptionjava.lang.ArithmethicException has been already caught
+Answer: B. Có lỗi biên dịch:java.lang.ArithmethicExceptio n is not foundCó lỗi biên dịch:java.lang.Exception is not found
+Answer: C. Có lỗi biên dịch:java.lang.ArithmethicExceptio n is not found
+Answer: D.  Không có lỗi biên dịch
+Correct Answer:  Có lỗi biên dịch: exceptionjava.lang.ArithmethicException has been already caught
+Correct Symbol: A
+--------------------
+Question 132: Đoạn mã sau khi thực thi chương trình sẽ in ra kết quả gì?1: public class TestException {2:     public static void main(String[] args) {3:         try {4:             method();5:             System.out.println("After the method call");6:         } catch (RuntimeException ex) {7:             System.out.println("RuntimeException");8:         } catch (Exception e) {9:             System.out.println("Exception");10:         }11:     }12:     static void method() throws Exception {13:         System.out.println(1 / 0);14:     }15: }
+Answer: A. ArithmeticException
+Answer: B.  RuntimeException
+Answer: C.  Exception
+Answer: D. After the method call
+Correct Answer:  RuntimeException
+Correct Symbol: B
+--------------------
+Question 133: Đọc đoạn code sau:public class Test {public static void aMethod() throws Exception {try {throw new Exception();} finally {System.out.println("finally");}}public static void main(String args[]) {try {aMethod();} catch (Exception e) {System.out.println("exception");}System.out.println("finished");}}Kết quả là gì?
+Answer: A. finally, exception, finished
+Answer: B. exception, finished
+Answer: C. finally
+Answer: D. Lỗi biên dịch.
+Correct Answer: finally, exception, finished
+Correct Symbol: A
+--------------------
+Question 134:  Đâu là câu sai về ngoại lệ?
+Answer: A.  Sử dụng ngoại lệ giúp cho quá trình xử lý lỗi nhanh và chính xác.
+Answer: B. Ngoại lệ trong java là một đối tượng miêu tả trạng thái lỗi xảy ra trong một đoạn mã.
+Answer: C.  Ngoại lệ xảy ra có thể do lỗi chương trình
+Answer: D.  Ngoại lệ sinh ra làm hệ thống ngừng thực thi.
+Correct Answer:  Ngoại lệ sinh ra làm hệ thống ngừng thực thi.
+Correct Symbol: D
+--------------------
+Question 135: Đâu là thứ tự thực thi SAI trong khối try/catch/finally?
+Answer: A. try...catch...catch...finally
+Answer: B. try…catch…. finally
+Answer: C. finally
+Answer: D. try...finally
+Correct Answer: finally
+Correct Symbol: D
+--------------------
+Question 136: 1: int x = 10;2: double y = 0.0;3:System.out.println("Ket qua phep toan: " + (x/y));Đoạn mã trên khi thực thi sẽ in ra kết quả gì?
+Answer: A. Ket qua phep toan: Infinity
+Answer: B. Ket qua phep toan: 0
+Answer: C. Ket qua phep toan
+Answer: D. Lỗi biên dich
+Correct Answer: Ket qua phep toan: Infinity
+Correct Symbol: A
+--------------------
+Question 137: Đâu là thứ tự thực thi đúng trong khối try/catch/finally?
+Answer: A. catch. finally
+Answer: B. try. finally
+Answer: C. try...finally.catch
+Answer: D. catch...try.finally
+Correct Answer: try. finally
+Correct Symbol: B
+--------------------
+Question 138: Lựa chọn câu trả lời đúng?
+Answer: A. Từ khóa throw được sử dụng để ném ra ngoại lệ do người dùng tự định nghĩa
+Answer: B. Khi tạo một ngoại lệ do người dùng tự định nghĩa, phải kế thừa từ lớp Exception hoặc lớp Runtime
+Answer: C. Ngoại lệ do người dùng tự định nghĩa không được xử lý trong khối try/catch
+Answer: D. Khi tạo một ngoại lệ do người dùng tự định nghĩa, phải kế thừa từ lớp RuntimeException
+Correct Answer: Từ khóa throw được sử dụng để ném ra ngoại lệ do người dùng tự định nghĩa
+Correct Symbol: A
+--------------------
+Question 139: Đâu là câu đúng?
+Answer: A.  Khối try có thể có nhiều hơn một khối catch tương ứng.
+Answer: B.  Khối try chỉ có một khối catch tương ứng
+Answer: C.  Khối try có thể đứng độc lập không cần khối catch hay finally.
+Answer: D.  Khối finally có thể đứng độc lập không gắn với khối try.
+Correct Answer:  Khối try có thể có nhiều hơn một khối catch tương ứng.
+Correct Symbol: A
+--------------------
+Question 140:  Đoạn mã sau có lỗi biên dịch gì?public class Main{public static void main(String[] args) {try {String s = "John";}}} 
+Answer: A. Không có lỗi biên dịch.
+Answer: B. Có lỗi biên dịch: statementString s="John";never throws an exception
+Answer: C.  Có lỗi biên dịch: try without catch or finally
+Answer: D. Có lỗi biên dịch: add import String.
+Correct Answer:  Có lỗi biên dịch: try without catch or finally
+Correct Symbol: C
+--------------------
+Question 141: Đoạn mã sau sẽ in ra mà hình xâu ký tự gì?public class Main{public static void main(String[] args) {try { System.out.println("Tryin g");}catch(Exception e){ System.out.println("Exce ption");}finally{ System.out.println("Finall y");}}}
+Answer: A. Trying Finally
+Answer: B. Trying
+Answer: C. Trying Exception
+Answer: D. Trying Exception Final
+Correct Answer: Trying Finally
+Correct Symbol: A
+--------------------

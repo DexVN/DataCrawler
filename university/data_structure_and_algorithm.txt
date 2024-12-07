@@ -1,0 +1,704 @@
+Question 1: Đâu là kiểu dữ liệu cơ bản trong các kiểu dữ liệu dưới đây?
+Answer: A. Kiểu mảng.
+Answer: B. Kiểu số nguyên.
+Answer: C. Kiểu tệp tin.
+Answer: D. Kiểu cấu trúc bản ghi.
+Correct Answer: Kiểu số nguyên.
+Correct Symbol: B
+--------------------
+Question 2: Hãy cho biết giá trị của “con trỏ” là gì?
+Answer: A. Là địa chỉ vị trí của con trỏ
+Answer: B. Là giá trị tại một vùng bộ nhớ
+Answer: C. Là địa chỉ đến một vùng bộ nhớ nhất định.
+Answer: D. Là giá trị của các kiểu dữ liệu khác.
+Correct Answer: Là địa chỉ đến một vùng bộ nhớ nhất định.
+Correct Symbol: C
+--------------------
+Question 3: Kiểu dữ liệu cơ bản là gì?
+Answer: A. Là kiểu dữ liệu không đòi hỏi kĩ thuật cao trong xử lý.
+Answer: B. Là kiểu dữ liệu đơn giản.
+Answer: C. Là kiểu dữ liệu giúp cho việc lập trình dễ dàng hơn.
+Answer: D. Là kiểu dữ liệu có sẵn trên hầu hết các máy tính và được hỗ trợ trong hầu hết các ngôn ngữ lập trình.
+Correct Answer: Là kiểu dữ liệu có sẵn trên hầu hết các máy tính và được hỗ trợ trong hầu hết các ngôn ngữ lập trình.
+Correct Symbol: D
+--------------------
+Question 4: Kiểu dữ liệu con trỏ được dùng để làm gì?
+Answer: A. Được dùng để lưu vị trí con trỏ.
+Answer: B. Được dùng để trỏ tới một giá trị.
+Answer: C. Được dùng để lưu giá trị của ô nhớ.
+Answer: D. Được dùng để lưu các con trỏ đến bất kỳ một kiểu dữ liệu nào khác.
+Correct Answer: Được dùng để lưu các con trỏ đến bất kỳ một kiểu dữ liệu nào khác.
+Correct Symbol: D
+--------------------
+Question 5: Yêu cầu khi chọn kiểu dữ liệu cho chương trình là?
+Answer: A. Kiểu dữ liệu càng lớn càng tốt.
+Answer: B. Có thể chọn bất cứ kiểu dữ liệu nào
+Answer: C. Kiểu dữ liệu cần sát với kiểu giá trị của các thông tin đó trong thực tế.
+Answer: D. Kiểu dữ liệu càng nhỏ càng tốt.
+Correct Answer: Câu trả lời đúng là: Kiểu dữ liệu cần sát với kiểu giá trị của các thông tin đó trong thực tế.
+Correct Symbol: 
+--------------------
+Question 6: Hãy cho biết kết quả của phép MOD hai số nguyên có kiểu gì?
+Answer: A. Kiểu số thực.
+Answer: B. Kiểu ký tự.
+Answer: C. Kiểu số nguyên.
+Answer: D. Kiểu logic.
+Correct Answer: Câu trả lời đúng là: Kiểu số nguyên.
+Correct Symbol: 
+--------------------
+Question 7: Hãy cho biết ý nghĩa của kiểu dữ liệu logic (Boolean)
+Answer: A. Dùng trong các phép so sánh.
+Answer: B. Dùng để biểu diễn các giá trị logic bao gồm 2 giá trị đúng (true) và sai (false).
+Answer: C. Dùng trong các phép toán logic.
+Answer: D. Dùng trong tính toán số học.
+Correct Answer: Dùng để biểu diễn các giá trị logic bao gồm 2 giá trị đúng (true) và sai (false).
+Correct Symbol: B
+--------------------
+Question 8: Hãy cho biết ưu điểm của các kiểu dữ liệu trừu tượng.
+Answer: A. Giúp cho người lập trình không phải quá quan tâm đến các cách thức biểu diễn cụ thể các dữ liệu đó trên máy tính.
+Answer: B. Giúp cho giải thuật đơn giản hơn.
+Answer: C. Giúp cho người dùng dễ sử dụng chương trình.
+Answer: D. Giúp cho người lập trình dễ viết chương trình.
+Correct Answer: Giúp cho người lập trình không phải quá quan tâm đến các cách thức biểu diễn cụ thể các dữ liệu đó trên máy tính.
+Correct Symbol: A
+--------------------
+Question 9: Kiểu truy cập các phần tử trong một mảng là kiểu truy cập nào trong các kiểu dưới đây?
+Answer: A. Kiểu truy cập nhanh
+Answer: B. Kiểu truy cập song song
+Answer: C. Kiểu truy cập tuần tự.
+Answer: D. Kiểu truy cập ngẫu nhiên
+Correct Answer: Kiểu truy cập ngẫu nhiên
+Correct Symbol: D
+--------------------
+Question 10: Đâu là một trong những tiêu chí khi chọn ngôn ngữ diễn đạt giải thuật ?
+Answer: A. Gần với ngôn ngữ lập trình hiện có.
+Answer: B. Chọn ngôn ngữ nào bạn thích
+Answer: C. Ngôn ngữ tiếng Việt.
+Answer: D. Ngôn ngữ càng gần với ngôn ngữ máy càng tốt
+Correct Answer: Gần với ngôn ngữ lập trình hiện có.
+Correct Symbol: A
+--------------------
+Question 11: Chọn định nghĩa đúng nhất cho từ Giải thuật?
+Answer: A. Là một tập hợp hữu hạn của các chỉ thị hay phương cách được định nghĩa rõ ràng cho việc hoàn tất một số sự việc từ một trạng thái ban đầu cho trước; khi các chỉ thị này được áp dụng triệt để thì sẽ dẫn đến kết quả sau cùng như đã dự đoán.
+Answer: B. Là các giải thích về các thuật ngữ trong tin học.
+Answer: C. Là tập hợp các lệnh xử lý dữ liệu.
+Answer: D. Là cách biểu diễn cấu trúc dữ liệu dưới dạng giả mã, ngôn ngữ tự nhiên, sơ đồ khối…
+Correct Answer: Câu trả lời đúng là: Là một tập hợp hữu hạn của các chỉ thị hay phương cách được định nghĩa rõ ràng cho việc hoàn tất một số sự việc từ một trạng thái ban đầu cho trước; khi các chỉ thị này được áp dụng triệt để thì sẽ dẫn đến kết quả sau cùng như đã dự đoán.
+Correct Symbol: 
+--------------------
+Question 12: Hãy cho biết kiểu dữ liệu trừu tượng là gì?
+Answer: A. Là kiểu dữ liệu mới do người dùng tự định nghĩa
+Answer: B. Là kiểu dữ liệu đa năng phù hợp với mọi loại giá trị.
+Answer: C. Là kiểu dữ liệu không có giới hạn về độ lớn.
+Answer: D. Là kiểu dữ liệu do hệ thống tự sinh ra.
+Correct Answer: Là kiểu dữ liệu mới do người dùng tự định nghĩa
+Correct Symbol: A
+--------------------
+Question 13: Kiểu dữ liệu nào thuộc loại kiểu dữ liệu cơ bản?
+Answer: A. ARRAY
+Answer: B. POINTER
+Answer: C. RECORD
+Answer: D. STRING
+Correct Answer: POINTER
+Correct Symbol: B
+--------------------
+Question 14: Cho danh sách L = (0, 3, 7, 2, 4, 9). Đâu là danh sách con của L?
+Answer: A. (0, 3, 4, 9)
+Answer: B. (0, 3, 4, 2, 9)
+Answer: C. (0, 3, 7, 2)
+Answer: D. (0, 3, 2, 7)
+Correct Answer: (0, 3, 7, 2)
+Correct Symbol: C
+--------------------
+Question 15: Định nghĩa cấu trúc dữ liệu của danh sách liên kết đôi được mô tả như sau:Typedef Kieu_du_lieu ElementType;typedef struct NodeType{    ElementType Data;    struct NodeType  *next, *prev;}Node ;Hãy chọn mô tả đúng nhất cho khai báo NodeType *next
+Answer: A. Con trỏ trỏ tới địa chỉ vùng nhớ của phần tử trước đó trong danh sách liên kết đôi.
+Answer: B. Con trỏ trỏ tới địa chỉ vùng nhớ của phần tử đầu tiên trong danh sách liên kết đôi.
+Answer: C. Con trỏ trỏ tới phần dữ liệu
+Answer: D.  Vùng liên kết quản lý địa chỉ phần tử kế tiếp
+Correct Answer: Câu trả lời đúng là: Vùng liên kết quản lý địa chỉ phần tử kế tiếp
+Correct Symbol: 
+--------------------
+Question 16: Cho danh sách L = (1, 8, 9, 2, 4, 0, 6, 7, 5). Thủ tục DSC_L(Pos1; Pos2: position ; var List: ListType) để đưa ra một danh sách con của List bắt đầu từ vị trí Pos1 đến vị trí Pos2 và trả giá trị cho List. Thủ tục Delete_L(Pos: position ; var List: ListType) để xóa một phần tử tại vị trí Pos khỏi danh sách List. Thủ tục Insert_L(Pos: position ; X: Item; var List: ListType) để thêm một phần tử X vào vị trí Pos trong danh sách List.  Khi đó nếu ta thực hiện liên tiếp DSC_L(2,7,L), Delete_L (2,L), Insert_L(2,3,L) thì kết quả sẽ được danh sách L như sau?
+Answer: A. (1, 3, 4, 0, 6, 7)
+Answer: B. (8, 3, 2, 4, 0, 6)
+Answer: C. (8, 2, 3, 4, 0, 6)
+Answer: D. (8, 3, 9, 4, 0, 6)
+Correct Answer: Câu trả lời đúng là: (8, 3, 2, 4, 0, 6)
+Correct Symbol: 
+--------------------
+Question 17: Khi cài đặt danh sách bằng mảng, với độ dài là n thì thao tác chèn một phần tử vào danh sách có độ phức tạp:
+Answer: A. O(2n).
+Answer: B. O(n).
+Answer: C. O(n2).
+Answer: D. O(n.log2(n)).
+Correct Answer: O(n).
+Correct Symbol: B
+--------------------
+Question 18: Với cấu trúc dữ liệu như sautypedef struct DNode{int Key;DNode * NextNode;DNode * PreNode;} DOneNode;typedef DOneNode * DPointerType;typedef struct DLLPairNode{DPointerType  DLLFirst;DPointerType  DLLLast;} DLLPType;Hãy cho biết hàm sau dùng để làm gì?void DLLTravelling (DLLPType DList){DPointerType CurrNode = DList.DLLFirst;while (CurrNode != NULL){cout << CurrNode->Key;CurrNode =  CurrNode->NextNode ;}return;}
+Answer: A. Thêm một phần tử vào danh sách
+Answer: B. Duyệt danh sách
+Answer: C. Duyệt qua các nút trong danh sách và hiển thị nội dung của mỗi nút
+Answer: D. Xoá một phần tử khỏi danh sách
+Correct Answer: Câu trả lời đúng là: Duyệt qua các nút trong danh sách và hiển thị nội dung của mỗi nút
+Correct Symbol: 
+--------------------
+Question 19: Một danh sách rỗng khi:
+Answer: A. độ dài của danh sách không xác định
+Answer: B. độ dài của danh sách bằng 1
+Answer: C. độ dài của danh sách bằng 0
+Answer: D. tổng giá trị các phần tử của danh sách bằng 0
+Correct Answer: độ dài của danh sách bằng 0
+Correct Symbol: C
+--------------------
+Question 20: Biểu diễn danh sách bằng mảng được mô tả như sau:#define Max_Size Ntypedef Kieu_du_lieu E_Type;struct ListType{E_Type Element[Max_Size];int Size;} List;Điều kiện danh sách đầy là:
+Answer: A. List.Size = Max_Size
+Answer: B. List = Max_Size
+Answer: C. Size = 0
+Answer: D. Size.List = Max_Size
+Correct Answer: Câu trả lời đúng là: List.Size = Max_Size
+Correct Symbol: 
+--------------------
+Question 21: Định nghĩa nào là đúng với danh sách liên kết?
+Answer: A. Danh sách liên kết là tập hợp các phần tử mà giữa chúng có một sự nối kết với nhau thông qua vùng liên kết của chúng.
+Answer: B. Danh sách liên kết là tập hợp các phần tử mà đặt kề cận với nhau trong vùng nhớ.
+Answer: C. Danh sách liên kết là cấu trúc dữ liệu tự định nghĩa.
+Answer: D. Danh sách liên kết là cấu trúc dữ liệu dạng cây.
+Correct Answer: Câu trả lời đúng là: Danh sách liên kết là tập hợp các phần tử mà giữa chúng có một sự nối kết với nhau thông qua vùng liên kết của chúng.
+Correct Symbol: 
+--------------------
+Question 22: Trong việc ứng dụng danh sách liên kết để tính toán giá trị của một đa thức 1 ẩn bậc n, để lưu trữ đa thức trong danh sách liên kết thì mỗi nút của danh sách thường có mấy trường:
+Answer: A. 2
+Answer: B. 4
+Answer: C. 1
+Answer: D. 3
+Correct Answer: Câu trả lời đúng là: 3
+Correct Symbol: 
+--------------------
+Question 23: Lựa chọn câu đúng nhất về danh sách liên kết đôi (Doubly Linked List)
+Answer: A. Vùng liên kết của một phần tử trong danh sách liên đôi có 01 mối liên kết với 02 phần tử khác trong danh sách.
+Answer: B.  Vùng liên kết của một phần tử trong danh sách liên đôi có 02 mối liên kết, 01 với phần tử trước và 01 với phần tử  sau nó trong danh sách.
+Answer: C. Vùng liên kết của một phần tử trong danh sách liên đôi có 02 mối liên kết với 01 phần tử khác trong danh sách.
+Answer: D. Vùng liên kết của một phần tử trong danh sách liên đôi có 02 mối liên kết với phần tử đầu và cuối của danh sách.
+Correct Answer: Câu trả lời đúng là: Vùng liên kết của một phần tử trong danh sách liên đôi có 02 mối liên kết, 01 với phần tử trước và 01 với phần tử  sau nó trong danh sách.
+Correct Symbol: 
+--------------------
+Question 24: Cho danh sách L = (1, 5, 3, 2, 4, 0, 6). Thủ tục Delete_L(Pos: position ; var List: ListType) để xóa một phần tử tại vị trí Pos khỏi danh sách List. Khi đó nếu ta thực hiện liên tiếp Delete_L(2,L), Delete_L(4,L) thì kết quả sẽ được danh sách L như sau?
+Answer: A.  (1, 3, 4, 0, 6)
+Answer: B. (1, 3, 2, 0, 6)
+Answer: C.  (1, 2, 4, 0, 6)
+Answer: D. (1, 5, 2, 4, 6)
+Correct Answer: Câu trả lời đúng là: (1, 3, 2, 0, 6)
+Correct Symbol: 
+--------------------
+Question 25: Lựa chọn định nghĩa đúng nhất về danh sách?
+Answer: A. Danh sách là tập hợp các phần tử có cùng kiểu dữ liệu.
+Answer: B. Danh sách là tập hợp các phần tử mà giữa chúng có một mối liên hệ nào đó.
+Answer: C. Danh sách là tập hợp các phần tử có kiểu dữ liệu xác định và giữa chúng có một mối liên hệ nào đó.
+Answer: D. Danh sách là tập hợp các phần tử có cùng giá trị
+Correct Answer: Câu trả lời đúng là: Danh sách là tập hợp các phần tử có kiểu dữ liệu xác định và giữa chúng có một mối liên hệ nào đó.
+Correct Symbol: 
+--------------------
+Question 26: Trong định nghĩa danh sách liên kết đôi, mỗi nút gồm bao nhiêu thành phần?
+Answer: A. 4 thành phần
+Answer: B. 3 thành phần
+Answer: C. 1 thành phần
+Answer: D. 2 thành phần
+Correct Answer: Câu trả lời đúng là: 3 thành phần
+Correct Symbol: 
+--------------------
+Question 27: Trong việc cài đặt ngăn xếp bằng mảng A[…], nếu hiện tại ngăn xếp có n phần tử thì phần tử mới nhất vừa được đưa vào ngăn xếp vị trí nào trong mảng?
+Answer: A. A[n]
+Answer: B. A[1]
+Answer: C. A[0]
+Answer: D. A[n-1]
+Correct Answer: Câu trả lời đúng là: A[n-1]
+Correct Symbol: 
+--------------------
+Question 28: Cho biểu thức số học dạng Balan như sau: 1 2 3 4 *- + 5 6 4 8 – – + *. Việc tính toán giá trị biểu thức này khi dùng Stack được cài đặt bằng mảng thì phần tử được đẩy vào Stack lần thứ 10 có giá trị là bao nhiêu?
+Answer: A. 6
+Answer: B. 7
+Answer: C. 5
+Answer: D. 4
+Correct Answer: Câu trả lời đúng là: 4
+Correct Symbol: 
+--------------------
+Question 29: Trong việc cài đặt ngăn xếp bằng mảng A[…], ta sử dụng một biến top_id để lưu giữ đỉnh của ngăn xếp, nếu hiện tại ngăn xếp chưa có phần tử thì giá trị của top_id là bao nhiêu?
+Answer: A. -1
+Answer: B. n-1
+Answer: C. 0
+Answer: D. n
+Correct Answer: Câu trả lời đúng là: -1
+Correct Symbol: 
+--------------------
+Question 30: Cấu trúc dữ liệu nào tương ứng với nguyên lý LIFO.
+Answer: A. Queue
+Answer: B. Stack
+Answer: C. Linked List
+Answer: D. Tree
+Correct Answer: Câu trả lời đúng là: Stack
+Correct Symbol: 
+--------------------
+Question 31: Cho biểu thức số học dạng Balan như sau: abc +* de /- với các giá trị a=1; b=2; c=3; d=8; e=4; thì giá trị của biểu thức là:
+Answer: A. 3
+Answer: B. 2
+Answer: C. 4
+Answer: D. 1
+Correct Answer: Câu trả lời đúng là: 3
+Correct Symbol: 
+--------------------
+Question 32: Cho biểu thức số học dạng Balan như sau: 1 2 3 4 *- + 5 6 4 8 – – + *. Việc tính toán giá trị biểu thức này khi dùng Stack được cài đặt bằng mảng thì phần tử được đẩy vào Stack lần thứ 8 có giá trị là bao nhiêu?
+Answer: A. 6
+Answer: B. 8
+Answer: C. 5
+Answer: D. 7
+Correct Answer: Câu trả lời đúng là: 5
+Correct Symbol: 
+--------------------
+Question 33: Cho biểu thức số học dạng thông thường: a * (b + c) - d/eĐâu là biểu diễn biểu thức này dưới dạng biểu thức Balan?
+Answer: A. abc + * de /-
+Answer: B. ab * c + de /-
+Answer: C. abc +* de -/
+Answer: D. abc *+ de /-
+Correct Answer: Câu trả lời đúng là: abc + * de /-
+Correct Symbol: 
+--------------------
+Question 34: Cho biểu thức số học dạng thông thường: (a+b)*(c-(d/e))Đâu là biểu diễn biểu thức này dưới dạng biểu thức Balan?
+Answer: A. ab + cde /-*
+Answer: B. abc *+ de /-
+Answer: C. ab + cde */-
+Answer: D. ab *+ cde /-
+Correct Answer: Câu trả lời đúng là: ab + cde /-*
+Correct Symbol: 
+--------------------
+Question 35: Cho biểu thức số học dạng thông thường: (a+b)*(c-(d-e))Đâu là biểu diễn biểu thức này dưới dạng biểu thức Balan?
+Answer: A. ab + cde *--
+Answer: B. ab + cde --*
+Answer: C. abc *+ de --
+Answer: D. ab *+ cde --
+Correct Answer: Câu trả lời đúng là: ab + cde --*
+Correct Symbol: 
+--------------------
+Question 36: Việc cài đặt ngăn xếp bằng mảng được thực hiện qua khai báo dưới đây:#define max Ntypedef  int ElementType;struct Stack{int Top_id;ElementType Element[max];};Stack S; Ý nghĩa đúng nhất của S là:
+Answer: A. Tên của Stack
+Answer: B. Độ lớn cực đại của Stack
+Answer: C. Kiểu dữ liệu của các phần tử trong Stack
+Answer: D. Chứa các phần tử của Stack
+Correct Answer: Câu trả lời đúng là: Tên của Stack
+Correct Symbol: 
+--------------------
+Question 37: Cho biểu thức số học dạng Balan như sau: 1 2 3 4 *- + 5 6 4 8 – – + *. Việc tính toán giá trị biểu thức này khi dùng Stack được cài đặt bằng mảng thì số phần tử tối thiểu của mảng phải là bao nhiêu?
+Answer: A. 5
+Answer: B. 8
+Answer: C. 6
+Answer: D. 7
+Correct Answer: Câu trả lời đúng là: 5
+Correct Symbol: 
+--------------------
+Question 38: Khi dùng Stack được cài đặt bằng mảng để đổi số tự nhiên N = 70 (hệ cơ số 10) sang hệ nhị phân thì số phần tử tối thiểu của mảng phải là bao nhiêu?
+Answer: A. 7
+Answer: B. 4
+Answer: C. 6
+Answer: D. 5
+Correct Answer: Câu trả lời đúng là: 7
+Correct Symbol: 
+--------------------
+Question 39: Việc cài đặt ngăn xếp bằng mảng được thực hiện qua khai báo dưới đây:#define max Ntypedef  int ElementType;struct Stack{int Top_id;ElementType Element[max];};Stack S; Ý nghĩa đúng nhất của ElementType là:
+Answer: A. Kiểu dữ liệu của các phần tử trong Stack
+Answer: B. Vị trí đỉnh hiện tại của Stack
+Answer: C. Số phần tử hiện thời của Stack
+Answer: D. Chứa các phần tử của Stack
+Correct Answer: Câu trả lời đúng là: Kiểu dữ liệu của các phần tử trong Stack
+Correct Symbol: 
+--------------------
+Question 40: Cấu trúc dữ liệu nào khi cài đặt bằng mảng ta phải cần 2 biến vị trí để quản lý danh sách các phần tử
+Answer: A. Ngăn xếp
+Answer: B. Cây
+Answer: C. Hàng đợi
+Answer: D. Danh sách
+Correct Answer: Câu trả lời đúng là: Hàng đợi
+Correct Symbol: 
+--------------------
+Question 41: Khi cài đặt hàng đợi bằng mảng, nếu ta đặt tên các biến như sau: biến T thể hiện vị trí đuôi, biến H thể hiện vị trí đầu. Thao tác lấy ra 1 phần tử của hàng đợi trong trường hợp: “giá trị của H đúng bằng kích thước của mảng” sẽ:
+Answer: A. Tăng H lên 1 đơn vị
+Answer: B. Giá trị H được gán bằng 1
+Answer: C. Không thực hiện được
+Answer: D. Giảm H đi 1 đơn vị
+Correct Answer: Câu trả lời đúng là: Giá trị H được gán bằng 1
+Correct Symbol: 
+--------------------
+Question 42: Khi cài đặt hàng đợi bằng mảng, nếu ta đặt tên các biến như sau: biến T thể hiện vị trí đuôi, biến H thể hiện vị trí đầu. Thao tác thêm 1 phần tử vào hàng đợi trong trường hợp: “giá trị của T đúng bằng kích thước của mảng trong khi số lượng phần tử của hàng đợi vẫn nhỏ hơn kích thước của mảng” sẽ:
+Answer: A. Không thực hiện được
+Answer: B. Giảm T đi 1 đơn vị
+Answer: C. Giá trị T được gán bằng 1
+Answer: D. Tăng T lên 1 đơn vị
+Correct Answer: Câu trả lời đúng là: Giá trị T được gán bằng 1
+Correct Symbol: 
+--------------------
+Question 43: Việc cài đặt hàng đợi bằng mảng được thực hiện qua khai báo dưới đây:#define max Ntypedef int ELEMENT;struct QUEUE_ARRAY{ELEMENT ele[max];int capacity, H, T, S ;} q; Ý nghĩa đúng nhất của ELEMENT là:
+Answer: A. Kiểu dữ liệu của các phần tử trong Hàng đợi
+Answer: B. Vị trí đỉnh hiện tại của Hàng đợi
+Answer: C. Số phần tử hiện thời của Hàng đợi
+Answer: D. Chứa các phần tử của Hàng đợi
+Correct Answer: Câu trả lời đúng là: Kiểu dữ liệu của các phần tử trong Hàng đợi
+Correct Symbol: 
+--------------------
+Question 44: Việc cài đặt hàng đợi bằng mảng được thực hiện qua khai báo dưới đây:#define max Ntypedef int ELEMENT;struct QUEUE_ARRAY{ELEMENT ele[max];int capacity, H, T, S;} q; Ý nghĩa đúng nhất của q là:
+Answer: A. Kiểu dữ liệu của các phần tử trong hàng đợi
+Answer: B. Độ lớn cực đại của hàng đợi
+Answer: C. Tên của hàng đợi
+Answer: D. Chứa các phần tử của hàng đợi
+Correct Answer: Câu trả lời đúng là: Tên của hàng đợi
+Correct Symbol: 
+--------------------
+Question 45: Khi cài đặt hàng đợi bằng mảng, nếu ta đặt tên các biến như sau: biến T thể hiện vị trí đuôi, biến H thể hiện vị trí đầu. Thao tác thêm 1 phần tử vào hàng đợi sẽ:
+Answer: A. Tăng H lên 1 đơn vị
+Answer: B. Giảm T đi 1 đơn vị
+Answer: C. Tăng T lên 1 đơn vị
+Answer: D. Giảm H đi 1 đơn vị
+Correct Answer: Câu trả lời đúng là: Tăng T lên 1 đơn vị
+Correct Symbol: 
+--------------------
+Question 46: Việc cài đặt hàng đợi bằng mảng được thực hiện qua khai báo dưới đây:#define max Ntypedef int ELEMENT;struct QUEUE_ARRAY{ELEMENT ele[max];int capacity, H, T, S;} q; Ý nghĩa đúng nhất của S là:
+Answer: A. Vị trí đỉnh hiện tại của hàng đợi
+Answer: B. Độ lớn cực đại của hàng đợi
+Answer: C. Số phần tử hiện thời của hàng đợi
+Answer: D. Kiểu dữ liệu của các phần tử trong hàng đợi
+Correct Answer: Câu trả lời đúng là: Số phần tử hiện thời của hàng đợi
+Correct Symbol: 
+--------------------
+Question 47: Để cài đặt thàng đợi bằng danh sách liên kết, trước tiên ta phải định nghĩa kiểu phần tử cho danh sách. Mỗi phần tử của danh sách liên kết phải có bao nhiêu trường:
+Answer: A. 3
+Answer: B. 2
+Answer: C. 4
+Answer: D. 1
+Correct Answer: Câu trả lời đúng là: 2
+Correct Symbol: 
+--------------------
+Question 48: Việc bổ sung thêm phần tử vào hàng đợi được thực hiện bằng đoạn mã dưới đây:void ENQUEUE(QUEUE_ARRAY q, ELEMENT e){if (IS_FULL(q)!= 0)printf("hang doi day khong the chen them");else{if (q.T == q.capacity–1)q.T=0;else…………..;q.ele[q.T]=e;q.S=q.S+1;}}Hãy lựa chọn câu trả lời đúng nhất nội dung điền vào chỗ trống (.........) của đoạn mã trên: 
+Answer: A. q.T=q.S+1
+Answer: B. q.T=q.T+1
+Answer: C. q.T=1
+Answer: D. q.T=q.T-1
+Correct Answer: Câu trả lời đúng là: q.T=q.T+1
+Correct Symbol: 
+--------------------
+Question 49: Việc lấy một phần tử từ hàng đợi được thực hiện bằng đoạn mã dưới đây:ELEMENT DEQUEUE(QUEUE_ARRAY q){ELEMENT e;if (IS_EMPTY(q)!= 0)printf("hang doi rong khong the lay phan tu ra");else{e = q.ele[q.H];q.H =q.H + 1;q.S = ........;if (q.H == q.capacity)q.H = 0;}return e;}Hãy lựa chọn câu trả lời đúng nhất nội dung điền vào chỗ trống (.........) của đoạn mã trên:
+Answer: A. q.H - 1
+Answer: B. q.S + 1
+Answer: C. q.H + 1
+Answer: D. q.S - 1
+Correct Answer: Câu trả lời đúng là: q.S - 1
+Correct Symbol: 
+--------------------
+Question 50: Khi lấy ra một phần tử của hàng đợi thì phần tử đó ở vị trí:
+Answer: A. Đầu tiên của hàng đợi
+Answer: B. Không thể lấy ra một phần tử nào của hàng đợi
+Answer: C. Bất kỳ vị trí nào
+Answer: D. Cuối cùng của hàng đợi
+Correct Answer: Câu trả lời đúng là: Đầu tiên của hàng đợi
+Correct Symbol: 
+--------------------
+Question 51: Cấu trúc dữ liệu nào tương ứng với nguyên lý FIFO
+Answer: A. Tree
+Answer: B. Queue
+Answer: C. Linked List
+Answer: D.  Stack
+Correct Answer: Câu trả lời đúng là: Queue
+Correct Symbol: 
+--------------------
+Question 52: Việc kiểm tra hàng đợi có rỗng không được thực hiện bằng đoạn mã dưới đây:int IS_EMPTY(QUEUE_ARRAY q){if (………)return 1;elsereturn 0;} Hãy lựa chọn câu trả lời đúng nhất nội dung điền vào chỗ trống (.........) của đoạn mã trên:
+Answer: A. q.S == 0
+Answer: B. S == 0
+Answer: C. q.S == 1
+Answer: D. q.S == -1
+Correct Answer: Câu trả lời đúng là: q.S == 0
+Correct Symbol: 
+--------------------
+Question 53: Cho một biểu diễn cây như sau:Bậc của đỉnh e là 
+Answer: A. .1
+Answer: B.  2
+Answer: C.  3
+Answer: D.  0
+Correct Answer: Câu trả lời đúng là: 2
+Correct Symbol: 
+--------------------
+Question 54: Hãy cho biết độ cao của một cây được xác định như thế nào?
+Answer: A. Là độ dài đường đi từ một lá bất kỳ đến gốc.
+Answer: B. Là độ dài đường đi dài nhất từ gốc tới lá.
+Answer: C. Là độ dài đường đi từ gốc tới một lá bất kỳ.
+Answer: D. Không có khái niệm này
+Correct Answer: Là độ dài đường đi dài nhất từ gốc tới lá.
+Correct Symbol: B
+--------------------
+Question 55: Quan hệ phân cấp giữa các nút trong cây được gọi là quan hệ gì?
+Answer: A. Không có quan hệ.
+Answer: B. Quan hệ cha – con.
+Answer: C. Quan hệ chú – cháu.
+Answer: D. Quan hệ anh – em.
+Correct Answer: Quan hệ cha – con.
+Correct Symbol: B
+--------------------
+Question 56: Cho một biểu diễn cây như sau: Đâu là tập các lá của cây: 
+Answer: A. {4, 5, 6, 7, 8, 9}
+Answer: B. {3, 4, 5, 6, 7, 8, 9}
+Answer: C. {4, 5, 6, 8, 9}
+Answer: D. {3, 4, 5, 6, 8, 9}
+Correct Answer: Câu trả lời đúng là: {4, 5, 6, 8, 9}
+Correct Symbol: 
+--------------------
+Question 57: Cho một biểu diễn cây như sau:Mức của đỉnh 3 là : 
+Answer: A. 2
+Answer: B. 3
+Answer: C. 1
+Answer: D. 0
+Correct Answer: 2
+Correct Symbol: A
+--------------------
+Question 58: Có bao nhiêu thao tác trên cây nhị phân?
+Answer: A. Có 1 thao tác.
+Answer: B. Có 3 thao tác.
+Answer: C. Có 7 thao tác
+Answer: D. Có 5 thao tác.
+Correct Answer: Có 5 thao tác.
+Correct Symbol: D
+--------------------
+Question 59: Đỉnh trong của một cây là đỉnh như thế nào?
+Answer: A. Là đỉnh có 1 hoặc 2 con
+Answer: B. Là đỉnh không có cha.
+Answer: C. Là đỉnh không có con.
+Answer: D. Là đỉnh có ít nhất 1 con.
+Correct Answer: Là đỉnh có ít nhất 1 con.
+Correct Symbol: D
+--------------------
+Question 60: Hãy cho biết kết quả duyệt trung thứ tự (duyệt nút gốc giữa) của cây nhị phân sau.
+Answer: A. BDECA.
+Answer: B. ABCDE.
+Answer: C. BADCE.
+Answer: D. BACDE.
+Correct Answer: BADCE.
+Correct Symbol: C
+--------------------
+Question 61: Các phần tử của cây thì được gọi là gì?
+Answer: A. Là nút.
+Answer: B. Là cạnh
+Answer: C. Là cung.
+Answer: D. Là lá.
+Correct Answer: Là nút.
+Correct Symbol: A
+--------------------
+Question 62: Các đỉnh của cây có bậc bằng 0 thì được gọi là gì?
+Answer: A. Là Cầu.
+Answer: B. Là Ngọn.
+Answer: C. Là Gốc.
+Answer: D. Là Lá.
+Correct Answer: Là Lá.
+Correct Symbol: D
+--------------------
+Question 63: Đâu là phương pháp duyệt hậu thứ tự một cây nhị phân?
+Answer: A. Duyệt cây con bên phải sau đó tới cây con bên trái rồi tới nút gốc.
+Answer: B. Nút gốc được duyệt trước sau đó duyệt đến cây con bên trái rồi tới cây con bên phải.
+Answer: C. Duyệt cây con bên trái sau đó tới nút gốc rồi tới cây con bên phải.
+Answer: D. Nút gốc được duyệt trước sau đó duyệt đến cây con bên phải rồi tới cây con bên trái.
+Correct Answer: Duyệt cây con bên phải sau đó tới cây con bên trái rồi tới nút gốc.
+Correct Symbol: A
+--------------------
+Question 64: Cho thuật toán tìm kiếm sau, với điều kiện các giá trị của mảng đã được sắp theo thứ tự tăng dần:typedef <kiểu_dữ_liệu> KeyType;int LinearSearch(KeyType X, dataArray R,int n){int i;for(i = 0;i < n;i++){if(R[i]== X) return(i);else if(X < R[i]) return(–1);}return(–1);}Khi đó, nếu tìm giá trị X = 85 trong mảng được sắp xếp theo thứ tự tăng dần như sau:10, 20, 30, 40, 50, 60,70, 80, 90, 100Chọn câu đúng nhất trong trường hợp xấu nhất khi không tìm thấy phần tử nào có giá trị bằng X
+Answer: A. Số phép so sánh: Smax = 9
+Answer: B. Số phép so sánh: Smax = 27
+Answer: C. Số phép so sánh: Smax = 30
+Answer: D. Số phép so sánh: Smax = 15
+Correct Answer: Câu trả lời đúng là: Số phép so sánh: Smax = 27
+Correct Symbol: 
+--------------------
+Question 65: Xét thủ tục sau:int TimKiemNP (int M[], int First, int Last, int X){if (First > Last)return (-1);int Mid = (First + Last)/2;if (X == M[Mid])return (Mid);if (X < M[Mid])return(TimKiemNP (M, First, Mid – 1, X));elsereturn(TimKiemNP (M, Mid + 1, Last, X));}Lựa chọn câu đúng nhất để mô tả thủ tục trên
+Answer: A. Hàm tìm kiếm không đệ quy phần tử có giá trị là X trên mảng các phần tử từ chỉ số từ Last đến chỉ số First
+Answer: B. Hàm tìm kiếm đệ quy phần tử có giá trị là X trên mảng các phần tử từ chỉ số từ First đến chỉ số Last
+Answer: C. Hàm tìm kiếm đệ quy phần tử có giá trị là X trên mảng các phần tử từ chỉ số từ Last đến chỉ số First
+Answer: D. Hàm tìm kiếm phần tử có giá trị là X trên mảng các phần tử từ chỉ số từ First đến chỉ số Last
+Correct Answer: Câu trả lời đúng là: Hàm tìm kiếm đệ quy phần tử có giá trị là X trên mảng các phần tử từ chỉ số từ First đến chỉ số Last
+Correct Symbol: 
+--------------------
+Question 66: Đâu là một điều kiện của việc xóa một nút của cây nhị phân tìm kiếm?
+Answer: A. Cây nhận được sau khi xóa là cây nhị phân đầy đủ
+Answer: B. Cây nhận được sau khi xóa là cây nhị phân tìm kiếm
+Answer: C. Cây nhận được sau khi xóa là cây nhị phân hoàn chỉnh
+Answer: D. Cây nhận được sau khi xóa là cây nhị phân được sắp xếp
+Correct Answer: Cây nhận được sau khi xóa là cây nhị phân tìm kiếm
+Correct Symbol: B
+--------------------
+Question 67: Khi xóa một nút của cây nhị phân tìm kiếm, trường hợp nút cần xóa là nút có đủ hai nút gốc cây con. Đâu là định nghĩa đúng nhất cho khái niệm "nút tiền nhiệm"?
+Answer: A. Nút cực phải của cây con trái
+Answer: B. Nút có khóa lớn nhất
+Answer: C. Nút có khóa nhỏ nhất
+Answer: D. Nút cực trái của cây con phải
+Correct Answer: Nút cực phải của cây con trái
+Correct Symbol: A
+--------------------
+Question 68: Cho thuật toán sauint LinearSearch (float M[], int N, float X){   int k = 0;M[N] = X;while (M[k] != X) //n+1 lank++;if (k < N)return (1);else return (-1);}Chọn câu đúng nhất trong trường hợp xấu nhất khi không tìm thấy phần tử nào có giá trị bằng X: 
+Answer: A. Số phép gán: Gmax = 2Số phép so sánh: Smax = N + 2 
+Answer: B. Số phép gán: Gmax = 2Số phép so sánh: Smax =2 N + 2
+Answer: C. Số phép gán: Gmax = 1Số phép so sánh: Smax = N + 2 
+Answer: D. Số phép gán: Gmax = NSố phép so sánh: Smax = N + 1 
+Correct Answer: Câu trả lời đúng là: Số phép gán: Gmax = NSố phép so sánh: Smax = N + 1
+Correct Symbol: 
+--------------------
+Question 69: Bạn hãy cho biết độ phức tạp của giải thuật tìm kiếm tuần tự.
+Answer: A. O(n.log2(n)).
+Answer: B. O(n2).
+Answer: C. O(2n).
+Answer: D. O(n).
+Correct Answer: O(n).
+Correct Symbol: D
+--------------------
+Question 70: Đoạn mã giả dưới đây mô tả thuật toán gì?Thuật toán:B1: k = 0B2: IF (M[k] != X) AND (k < N)B2.1: k++B2.2: Lặp lại B2B3: IF k < NThông báo tìm thấy tại vị trí kB4: ELSEKhông tìm thấy.B5: Kết thúc
+Answer: A. Tìm nhị phân phần tử có giá trị X
+Answer: B. Tìm phần tử nhỏ nhất của mảng M bao gồm N phần tử
+Answer: C. Tìm phần tử lớn nhất của mảng M.
+Answer: D. Tìm tuyến tính phần tử có giá trị X
+Correct Answer: Câu trả lời đúng là: Tìm tuyến tính phần tử có giá trị X
+Correct Symbol: 
+--------------------
+Question 71: Cho thuật toán tìm kiếm nhị phân sau:Bước 1: đặt First = 0 và Last = n – 1;Bước 2: Found = –1;//Found là biến lưu vị trí tìm thấy X trong mảngBước 3: while((First <= Last)&&(Found == –1)){ Mid =(First + Last)/2;if(X < R[Mid]) Last = Mid – 1;else if(X > R[Mid]) First = Mid + 1;else Found = Mid;}Đâu là điều kiện của mảng R[] để thực hiện thuật toán?
+Answer: A. Giá trị các phần tử <=(First + Last)/2 
+Answer: B. Được sắp giảm 
+Answer: C. Được sắp tăng
+Answer: D. Số phần tử > (First + Last)
+Correct Answer: Được sắp tăng
+Correct Symbol: C
+--------------------
+Question 72: Cho hàm tìm kiếm tuần tự như sautypedef <kiểu_dữ_liệu> KeyType;int Sequential_Search(dataArray R,KeyType X,int n);{int i;i=0;while((R[i]!= X)&&(i < n)){i++;}if(i < n) return (1);else return(–1);} Chọn khẳng định đúng nhất:
+Answer: A. Hàm sẽ trả về -1 nếu tìm thấy phần tử có giá trị là X
+Answer: B. Hàm sẽ trả về 1 nếu không tìm thấy phần tử có giá trị là X
+Answer: C. Hàm sẽ trả về 0 nếu không tìm thấy phần tử có giá trị là X
+Answer: D. Hàm sẽ trả về -1 nếu không tìm thấy phần tử có giá trị là X
+Correct Answer: Câu trả lời đúng là: Hàm sẽ trả về -1 nếu không tìm thấy phần tử có giá trị là X
+Correct Symbol: 
+--------------------
+Question 73: Cho thuật toán tìm kiếm sau, với điều kiện các giá trị của mảng đã được sắp theo thứ tự tăng dần:typedef <kiểu_dữ_liệu> KeyType;int LinearSearch(KeyType X, dataArray R,int n){int i;for(i = 0;i < n;i++){if(R[i]== X) return(i);else if(X < R[i]) return(–1);}return(–1);}Chọn câu đúng nhất trong trường hợp xấu nhất khi không tìm thấy phần tử nào có giá trị bằng X:
+Answer: A. Số phép so sánh: Smax = 2N
+Answer: B. Số phép so sánh: Smax = 2N+1
+Answer: C. Số phép so sánh: Smax = 3N
+Answer: D. Số phép so sánh: Smax = 3N+1
+Correct Answer: Câu trả lời đúng là: Số phép so sánh: Smax = 3N
+Correct Symbol: 
+--------------------
+Question 74: Cho thuật toán tìm kiếm sautypedef <kiểu_dữ_liệu> KeyType;int Sequential_Search(dataArray R,KeyType X,int n);{int i;i=0;while((R[i]!= X)&&(i < n)){i++;}if(i < n) return (1);else return(–1);}Khi đó, nếu tìm giá trị X = 34 trong mảng sau: 11, 23, 33, 34, 35, 62,71, 80, 95, 100Chọn câu đúng nhất cho số phép so sánh trong vòng lặp while:
+Answer: A. Số phép so sánh: S = 8
+Answer: B. Số phép so sánh: S= 10
+Answer: C. Số phép so sánh: S = 9
+Answer: D. Số phép so sánh: S = 7
+Correct Answer: Câu trả lời đúng là: Số phép so sánh: S = 8
+Correct Symbol: 
+--------------------
+Question 75: Cho thuật toán tìm kiếm trên cây nhị phân tìm kiếm như sau:Bước 1: đặt con trỏ Root = BST;Bước 2: nếu (Root = NULL) hoặc (Root –> infor = X)Kết thúc thuật toán;Bước 3: ngược lại:nếu (Root –> infor > X)Root = Root –> left;//tìm X ở cây con bên tráiBước 4: ngược lại nếu(Root –> infor < X)Root = Root –> right;//tìm X ở cây con bên phảiBước 5: lặp lại bước 2;Và cây nhị phân tìm kiếm sau:Khoá cần tìm kiếm X = 40 thì số lần thực hiện Bước 2 là?
+Answer: A. 3
+Answer: B. 2
+Answer: C. 1
+Answer: D. 4
+Correct Answer: Câu trả lời đúng là: 3
+Correct Symbol: 
+--------------------
+Question 76: Đâu là cây nhị phân tìm kiếm trong các cây nhị phân sau?
+Answer: A. 
+Answer: B. 
+Answer: C. 
+Answer: D. 
+Correct Answer: 
+Correct Symbol: D
+--------------------
+Question 77: Cho dãy số  gồm 8 phần tử: 5, 3, 7, 4, 1, 2, 9, 12.Ta có thể chia dãy trên thành ít nhất bao nhiêu dãy con không giảm? 
+Answer: A. 6
+Answer: B. 5
+Answer: C. 3
+Answer: D. 4
+Correct Answer: Câu trả lời đúng là: 4
+Correct Symbol: 
+--------------------
+Question 78: Theo thuật toán Quick sort, về nguyên tắc thì điều kiện nào sau đây dùng để chọn khóa chốt? 
+Answer: A. Chọn ngẫu nhiên
+Answer: B. Là phần tử có giá trị lớn nhất
+Answer: C. Luôn ở vị trí chính giữa của dãy
+Answer: D. Là phần tử có giá trị nhỏ nhất
+Correct Answer: Câu trả lời đúng là: Chọn ngẫu nhiên
+Correct Symbol: 
+--------------------
+Question 79: Theo thuật toán Merge sort, trong lần phân hoạch đầu tiên thì số phân hoạch theo phương pháp trộn trực tiếp so với số phân hoạch theo phương pháp trộn tự nhiên là? 
+Answer: A. Lớn hơn
+Answer: B. Không biết trước, tùy vào tình trạng của dãy ban đầu
+Answer: C. Bằng nhau
+Answer: D. Nhỏ hơn
+Correct Answer: Không biết trước, tùy vào tình trạng của dãy ban đầu
+Correct Symbol: B
+--------------------
+Question 80: Cho các bước của thuật toán sắp dãy sắp xếp một dãy a1, a2,…, an theo thứ tự tăng dần như sau :Bước 1: i = 1;Bước 2:đặtx = A[i];j = i – 1;Bước 3: while (j >= 0) && (x < A[j])A[j + 1] = A[j];j––;Bước 4: đặt A[j + 1] = x ;i++;Bước 5: nếu i < = n – 1 lặp lại bước 2 ngược lại thì kết thúc Bạn cho biết đây là thuật toán sắp xếp nào?
+Answer: A. Quick sort.
+Answer: B. Nổi bọt – Bubble sort.
+Answer: C. Chèn trực tiếp – Insertion sort.
+Answer: D. Chọn trực tiếp – Selection sort.
+Correct Answer: Câu trả lời đúng là: Chèn trực tiếp – Insertion sort.
+Correct Symbol: 
+--------------------
+Question 81: Bạn hãy cho biết độ phức tạp của việc sắp xếp tăng dần một dãy số bằng thuật toán chèn trực tiếp trong trường hợp dãy đã được sắp tăng với n là số phần tử của dãy?
+Answer: A. O(lg n)
+Answer: B. O(2n).
+Answer: C. O(n2).
+Answer: D. O(n).
+Correct Answer: O(n).
+Correct Symbol: D
+--------------------
+Question 82: Cho các bước của thuật toán sắp dãy sắp xếp một dãy a1, a2,…, an theo thứ tự tăng dần theo thuật toán Selection sort như sau :Bước 1: i = 0;Bước 2: tìm phần tử A[min] nhỏ nhất trong dãy từ A[i] tới A[n–1]Bước 3: hoán vị A[min] và A[i]Bước 4 : nếu i <= n – 2 thì i = i + 1, lặp lại bước 2, ngược lại thì dừng Trường hợp tốt nhất, khi dãy phần tử cần sắp xếp có thứ tự tăng dần:
+Answer: A. Số phép gán: Sgán = (n-1)*(n+6)2
+Answer: B. Số phép gán: Sgán = 0
+Answer: C. Số phép gán: Sgán = 2n(n-1)2
+Answer: D. Số phép gán: Sgán = 2n – 1
+Correct Answer: Câu trả lời đúng là: Số phép gán: Sgán = 0
+Correct Symbol: 
+--------------------
+Question 83: Thủ tục mô tả thuật toán sắp xếp chọn (Selection Sort):void SapXepChon (T M[], int N){ int K = 0, PosMin;int Temp;while (K < N-1){T Min = M[K];PosMin = K;for (int Pos = K+1; Pos < N; Pos++)if (Min > M[Pos]){Min = M[Pos];PosMin = Pos}................................... [1]................................... [2]................................... [3]K++;}return;}Chọn câu lệnh thích hợp để đưa vào [1], [2], [3] với mục tiêu hoán vị M[K] và M[PosMin]
+Answer: A. Temp = M[K] ;M[PosMin] = M[K];M[PosMin] = Temp ;
+Answer: B. M[K] = Temp;M[K] = M[PosMin];M[PosMin] = Temp ;
+Answer: C. Temp = M[K] ;M[K] = M[PosMin];M[PosMin] = Temp ;
+Answer: D. Temp = M[K] ;Temp = M[PosMin];M[PosMin] = Temp;
+Correct Answer: Câu trả lời đúng là: Temp = M[K] ;M[K] = M[PosMin];M[PosMin] = Temp ;
+Correct Symbol: 
+--------------------
+Question 84: Tên của thuật toán sắp xếp mà tư tưởng của nó là phân hoạch dãy ban đầu thành các dãy con có vị trí tương đối với một phần tử trong dãy? 
+Answer: A. Bubble sort.
+Answer: B. Heap sort.
+Answer: C. Merge sort.
+Answer: D. Quick sort.
+Correct Answer: Quick sort.
+Correct Symbol: D
+--------------------
+Question 85: Bạn hãy cho biết độ phức tạp của việc sắp xếp tăng dần một dãy số bằng thuật toán Quick sort trong trường hợp tồi nhất với n là số phần tử của dãy. 
+Answer: A. O(n.lgn)
+Answer: B. O(n).
+Answer: C. O(n2).
+Answer: D. O(2n).
+Correct Answer: O(n2).
+Correct Symbol: C
+--------------------
+Question 86: Bạn hãy cho biết độ phức tạp của việc sắp xếp tăng dần một dãy số bằng thuật toán Heap sort trong trường hợp tồi nhất với n là số phần tử của dãy.
+Answer: A. Không biết trước, tùy vào tình trạng của dãy ban đầu
+Answer: B. O(n3)
+Answer: C. O(n2)
+Answer: D. O(nlog2n)
+Correct Answer: Câu trả lời đúng là: O(nlog2n)
+Correct Symbol: 
+--------------------
+Question 87: Cho các bước của thuật toán sắp dãy sắp xếp một dãy a1, a2,…, an theo thứ tự tăng dần theo thuật toán Insertion sort như sau :Bước 1: i = 1;Bước 2:đặtx = A[i];j = i – 1;Bước 3: while (j >= 0) && (x < A[j])A[j + 1] = A[j];j––;Bước 4: đặt A[j + 1] = x ;i++;Bước 5: nếu i < = n – 1 lặp lại bước 2 ngược lại thì kết thúcTrường hợp tốt nhất, khi dãy phần tử cần sắp xếp có thứ tự tăng:
+Answer: A. Số phép so sánh: Sso sánh = n(n-1)2
+Answer: B. Số phép so sánh: Sso sánh = 2n – 1
+Answer: C. Số phép so sánh: Sso sánh = n(n – 1)
+Answer: D. Số phép so sánh: Sso sánh = n – 1
+Correct Answer: Câu trả lời đúng là: Số phép so sánh: Sso sánh = n – 1
+Correct Symbol: 
+--------------------
+Question 88: Thủ tục mô tả thuật toán sắp xếp chèn trực tiếp (Insertion sort):#define  Max_Size …typedef Kieu_du_lieu KeyType;typedef  struct KeyArray{KeyType Array[Max_Size];int n;};KeyArray Sortinsert( KeyArray a){int i,j;KeyType x;i = 1;while ( i <= a.n – 1 ){ x = a.Array[i] ; j = i – 1;while (( j >= 0 )&&(x < a.Array[j])){a.Array[j + 1] = a.Array[j]; j ––;}………… ;i++;}return a;}Chọn câu lệnh thích hợp để đưa vào (............) với mục tiêu đưa giá trị cần chèn vào vị trí.
+Answer: A. a.Array[j] = x
+Answer: B. a.Array[j-1] = x
+Answer: C. a.Array[i] = x
+Answer: D. a.Array[j+1] = x
+Correct Answer: Câu trả lời đúng là: a.Array[j+1] = x
+Correct Symbol: 
+--------------------

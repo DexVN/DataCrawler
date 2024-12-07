@@ -1,0 +1,648 @@
+Question 1: Mối quan hệ giữa JIT và CLR?
+Answer: A. CLR là một phần của JIT
+Answer: B. JIT và CLR không liên quan đến nhau
+Answer: C. JIT là một phần của CLR
+Answer: D. JIT chính là CLR
+Correct Answer: JIT là một phần của CLR
+Correct Symbol: C
+--------------------
+Question 2: Ngôn ngữ C# được xây dựng trên nền tảng ngôn ngữ nào?
+Answer: A. Delphi
+Answer: B. C/C++
+Answer: C. Turbo Pascal
+Answer: D. Visual Basic
+Correct Answer: C/C++
+Correct Symbol: B
+--------------------
+Question 3: Một chương trình C# chỉ chạy được trên máy có cài đặt chương trình nào?
+Answer: A. Java
+Answer: B. Visual Studio 6.0
+Answer: C. Virtual Java Machine
+Answer: D. .NET Framework
+Correct Answer: .NET Framework
+Correct Symbol: D
+--------------------
+Question 4: Thành phần nào tạo nên .NET? 
+Answer: A. Các sản phẩm .NET
+Answer: B. Các dịch vụ .NET.
+Answer: C. Visual Studio .NET.
+Answer: D. IDE và .NET framework.
+Correct Answer: IDE và .NET framework.
+Correct Symbol: D
+--------------------
+Question 5: IDE là một thành phần của khối nào sau đây?
+Answer: A. IL
+Answer: B. CLR
+Answer: C. JIT
+Answer: D. NET FRAMEWORK
+Correct Answer: NET FRAMEWORK
+Correct Symbol: D
+--------------------
+Question 6: Ngôn ngữ MSIL là?
+Answer: A. Mã nguồn ngôn ngữ Java
+Answer: B. Ngôn ngữ trung gian 
+Answer: C. Mã nguồn ngôn ngữ VB.NET
+Answer: D. Mã nguồn ngôn ngữ C# 
+Correct Answer: Ngôn ngữ trung gian
+Correct Symbol: B
+--------------------
+Question 7: .NET platform được xây dựng trên giao thức internet nào?
+Answer: A. IP
+Answer: B. HTTP/IP
+Answer: C. TCP/IP
+Answer: D. SOAP
+Correct Answer: TCP/IP
+Correct Symbol: C
+--------------------
+Question 8: Tính hướng đối tượng của C# thể hiện ở tính chất nào?
+Answer: A. Đa hình và đa thành phần
+Answer: B. Đóng gói và tổng quát hoá
+Answer: C. Kế thừa, đa hình và đóng gói
+Answer: D. Kế thừa và hướng cấu trúc
+Correct Answer: Kế thừa, đa hình và đóng gói
+Correct Symbol: C
+--------------------
+Question 9: Vai trò của CLR là gì?
+Answer: A. Biên dịch chương trình thành 01 file exe
+Answer: B. Biên dịch chương trình thành mã máy
+Answer: C. Biên dịch chương trình thành 01 file dll
+Answer: D. Quản lý bộ nhớ và biên dịch chương trình thành ngôn ngữ chung
+Correct Answer: Quản lý bộ nhớ và biên dịch chương trình thành ngôn ngữ chung
+Correct Symbol: D
+--------------------
+Question 10: Một chương trình C# sau khi biên dịch trở thành loại mã nào?
+Answer: A. Visual C#
+Answer: B. CLR
+Answer: C. Visual Basic
+Answer: D. IL
+Correct Answer: IL
+Correct Symbol: D
+--------------------
+Question 11: Chức năng của JIT là?
+Answer: A. Chuyển IL sang mã máy
+Answer: B. Chuyển mã C# thành IL
+Answer: C. Chuyển IL thành các gói tin exe
+Answer: D. Chuyển các lớp thư viện thành IL
+Correct Answer: Chuyển IL sang mã máy
+Correct Symbol: A
+--------------------
+Question 12: Mã nguồn C# không yêu cầu tập tin nào sau đây?
+Answer: A. Header
+Answer: B. MSIL
+Answer: C. CIL
+Answer: D. CS
+Correct Answer: Header
+Correct Symbol: A
+--------------------
+Question 13: Từ nào sau đây là từ khóa của C#?
+Answer: A. swich
+Answer: B. default
+Answer: C. Abstract
+Answer: D. White.
+Correct Answer: default
+Correct Symbol: B
+--------------------
+Question 14: Sau khi khai báo biến thì?
+Answer: A. Không cần khởi.
+Answer: B. Có thể khởi tạo ngay hoặc có thể gán trước khi sử dụng.
+Answer: C. Phải khởi tạo ngay.
+Answer: D. Sau khi khởi tạo phải gán trước khi sử dụng.
+Correct Answer: Có thể khởi tạo ngay hoặc có thể gán trước khi sử dụng.
+Correct Symbol: B
+--------------------
+Question 15: Kiểu dữ liệu byte là số nguyên có giá trị trong khoảng?
+Answer: A. 0 đến 256 
+Answer: B. 0 đến 255
+Answer: C. -128 đến 128
+Answer: D. -128 đến 127
+Correct Answer: 0 đến 255
+Correct Symbol: B
+--------------------
+Question 16: Kiểu dữ liệu sbyte là số nguyên có giá trị trong khoảng?
+Answer: A. 0 đến 255
+Answer: B. -128 đến 128
+Answer: C. -128 đến 127
+Answer: D. 0 đến 256 
+Correct Answer: -128 đến 127
+Correct Symbol: C
+--------------------
+Question 17: Biến kiểu dữ liệu giá trị sau khi khai báo thì được lưu ở đâu?
+Answer: A. ROM
+Answer: B. stack
+Answer: C. FROM
+Answer: D. heap
+Correct Answer: stack
+Correct Symbol: B
+--------------------
+Question 18: Từ nào sau đây không phải từ khóa của C#?
+Answer: A. main
+Answer: B. float
+Answer: C. int
+Answer: D. const
+Correct Answer: main
+Correct Symbol: A
+--------------------
+Question 19: Biến kiểu dữ liệu tham chiếu sau khi khai báo thì lưu ở đâu?
+Answer: A. cach
+Answer: B. EFROM
+Answer: C. FROM
+Answer: D. heap
+Correct Answer: heap
+Correct Symbol: D
+--------------------
+Question 20: Ngôn ngữ lập trình C# là ngôn ngữ có khoảng … từ khóa?
+Answer: A. 90.
+Answer: B. Trên 200
+Answer: C. Trên 100
+Answer: D. 80
+Correct Answer: 80
+Correct Symbol: D
+--------------------
+Question 21: Khi khai báo biến thì thành phần bắt buộc phải có là?
+Answer: A. Kiểu dữ liệu và tên biến
+Answer: B. Tên biến
+Answer: C. Kiểu dữ liệu.
+Answer: D. Từ khóa
+Correct Answer: Kiểu dữ liệu và tên biến
+Correct Symbol: A
+--------------------
+Question 22: Đối với việc đặt tên biến trong C# thì?
+Answer: A. Có phân biệt chữ hoa chữ thường
+Answer: B. Không phân biệt chữ hoa chữ thường.
+Answer: C. Có thể dùng từ khóa
+Answer: D. Có thể hai biến trùng nhau
+Correct Answer: Có phân biệt chữ hoa chữ thường
+Correct Symbol: A
+--------------------
+Question 23: Thành phần nào sau đây sẽ bị huỷ khi phương thức trong lớp kết thúc?
+Answer: A. Biến trong phương thức
+Answer: B. Biến trong hàm main
+Answer: C. Thuộc tính của đối tượng
+Answer: D. Thuộc tính của lớp
+Correct Answer: Biến trong phương thức
+Correct Symbol: A
+--------------------
+Question 24: Từ khoá nào được dùng để tạo đối tượng trong C#? 
+Answer: A. new
+Answer: B. virtual 
+Answer: C. overridden
+Answer: D. sealed
+Correct Answer: new
+Correct Symbol: A
+--------------------
+Question 25: Hàm tạo mặc định khởi tạo gán các giá trị mặc định nào sau đây không đúng?
+Answer: A. Biến chuỗi bằng rỗng
+Answer: B. Biến logic bằng false
+Answer: C. Biến chuỗi bằng 0
+Answer: D. Biến số bằng 0
+Correct Answer: Biến chuỗi bằng 0
+Correct Symbol: C
+--------------------
+Question 26: Chọn loại biến khai báo ngoài phương thức tĩnh có thể sử dụng hợp lệ trong thân phương thức tĩnh?
+Answer: A. Chỉ các biến static
+Answer: B. Tất cả các biến
+Answer: C. Các biến public 
+Answer: D. Các biến private
+Correct Answer: Chỉ các biến static
+Correct Symbol: A
+--------------------
+Question 27: class main { static long afield = 123 ; static main() { Console.Write(afield); } main() { afield = 1000; Console.WriteLine(afield); } static void Main(String[] args) { main obj = new main(); } } Chọn đáp án đúng khi cho chạy đoạn chương trình trên?
+Answer: A. 123 
+Answer: B. 1231000 
+Answer: C. 1000123 
+Answer: D. 1000 
+Correct Answer: 1231000
+Correct Symbol: B
+--------------------
+Question 28: class Book{int num1=1; int num2; public static void Main(){ int num3=3; Console.WriteLine(num1+num2+num3); } } Kết quả khi cho chạy đoạn chương trình trên?
+Answer: A. Các mã không biên dịch vì biến num3 chưa được khởi tạo
+Answer: B. Lỗi chưa khai báo biến num1 và num2
+Answer: C. 0
+Answer: D. 4
+Correct Answer: Lỗi chưa khai báo biến num1 và num2
+Correct Symbol: B
+--------------------
+Question 29: Những thành phần của lớp có bổ từ truy cập nào thì chỉ có thể được truy cập bởi những phương thức của lớp?
+Answer: A. Public
+Answer: B. Protected
+Answer: C. Private
+Answer: D. Internal
+Correct Answer: Private
+Correct Symbol: C
+--------------------
+Question 30: class A{public static void Main () { int i=0; switch (i) { default: System.Console.Write (i); break; case 1: System.Console.Write ("{0}",1); goto default; case 0: System.Console.Write ("{0}",0); goto case 1; } } } Kết quả khi cho chạy đoạn chương trình trên?
+Answer: A. 010
+Answer: B. Báo lỗi biên dịch 
+Answer: C. 101
+Answer: D. 100
+Correct Answer: 010
+Correct Symbol: A
+--------------------
+Question 31: Những thành phần của lớp có bổ từ truy cập nào thì có thể được truy cập bởi những phương thức của bất cứ lớp nào trong cùng khối hợp ngữ với nó?
+Answer: A. Internal
+Answer: B. Public
+Answer: C. Protected
+Answer: D. Protected internal
+Correct Answer: Internal
+Correct Symbol: A
+--------------------
+Question 32: public class SuperClass{public SuperClass (string s) { }}public class SubClass{public SubClass() {}public static void Main(){SuperClass s = new SuperClass("The");}}Điều gì xảy ra khi cho chạy đoạn mã trên?
+Answer: A. Không tìm thấy hàm tạo phù hợp trong lớp SuperClass
+Answer: B. Không thực hiện lệnh gán SubClass cho SuperClass
+Answer: C. Không có lỗi
+Answer: D. Lỗi truyền tham số hàm tạo
+Correct Answer: Không có lỗi
+Correct Symbol: C
+--------------------
+Question 33: Điều gì xảy ra khi lớp dẫn xuất override phương thức khai báo sealed? 
+Answer: A. Biên dịch và chạy bình thường và cho kết quả đúng
+Answer: B.  Lỗi biên dịch
+Answer: C.  Lỗi runtime
+Answer: D.  Biên dịch và chạy bình thường nhưng khi chạy cho kết quả sai
+Correct Answer:  Lỗi biên dịch
+Correct Symbol: B
+--------------------
+Question 34: Bổ từ truy cập dùng khai báo giao diện là?
+Answer: A. public
+Answer: B. protected
+Answer: C. Bất cứ bổ từ nào
+Answer: D. private
+Correct Answer: Bất cứ bổ từ nào
+Correct Symbol: C
+--------------------
+Question 35: Điều gì xảy ra khi một lớp kế thừa lớp sealed?
+Answer: A. Biên dịch và chạy bình thường nhưng khi chạy cho kết quả sai
+Answer: B. Lỗi runtime
+Answer: C. Biên dịch và chạy bình thường và cho kết quả đúng
+Answer: D. Lỗi biên dịch
+Correct Answer: Lỗi biên dịch
+Correct Symbol: D
+--------------------
+Question 36: <Bổ từ truy cập> class <tên lớp>: one, two, three, fourTrong số các lớp và giao diện thay thế vào vị trí của “one, two, three, four” thì thay thế nào hợp lệ?
+Answer: A. Class1, Class2, interface1, interface2
+Answer: B. Class1, interface1, interface2, interface3
+Answer: C. interface1, interface2, Class1, Class2
+Answer: D. interface1, interface2, interface3, Class1
+Correct Answer: Class1, interface1, interface2, interface3
+Correct Symbol: B
+--------------------
+Question 37: Bổ từ truy cập dùng khai báo giao diện là?
+Answer: A. private
+Answer: B. Bất cứ bổ từ nào
+Answer: C. protected
+Answer: D. public
+Correct Answer: Bất cứ bổ từ nào
+Correct Symbol: B
+--------------------
+Question 38: Để kiểm tra sự thực thi giao diện của đối tượng và thực hiện ngay phép gán thì dùng từ khóa nào?
+Answer: A. as
+Answer: B. is
+Answer: C. this
+Answer: D. new
+Correct Answer: as
+Correct Symbol: A
+--------------------
+Question 39:  Từ khoá nào dùng để định nghĩa cho giao diện? 
+Answer: A. output
+Answer: B. abstract
+Answer: C. input
+Answer: D. interface
+Correct Answer: interface
+Correct Symbol: D
+--------------------
+Question 40: abstract class Class{public abstract void getNumber();public abstract void getHeight();public bool isEmpty(){return (true);}}abstract class ClassA:Class{public abstract void getWidth();}class ClassB:ClassA{ }Đoạn code trên cần sửa lỗi như thế nào?
+Answer: A. Lớp ClassB không được kế thừa lớp ClassA mà phải kế thừa lớp Class
+Answer: B. Bỏ lệnh “return (true);” và thực hiện các phương thức: getNumber(), getHeight(), isEmpty(), getWidth().
+Answer: C. Tên lớp “Class” đổi lại thành tên khác như Lop1, lop2,…
+Answer: D. Bỏ “abstract” trong các phương thức getNumber(), getHeight(), isEmpty()
+Correct Answer: Bỏ lệnh “return (true);” và thực hiện các phương thức: getNumber(), getHeight(), isEmpty(), getWidth().
+Correct Symbol: B
+--------------------
+Question 41: Phát biểu nào đúng cho việc đặt tên của giao diện?
+Answer: A. Thường có tiền tố là “interface”
+Answer: B. Bắt buộc phải có tiền tố là chữ “I”.
+Answer: C. Thường có tiền tố là chữ “I”
+Answer: D. Đặt trước từ khoá “interface”
+Correct Answer: Thường có tiền tố là chữ “I”
+Correct Symbol: C
+--------------------
+Question 42: abstract class Class{public abstract void getNumber();}class ClassA:Class{ }Đoạn chương trình trên có lỗi gì sau đây?
+Answer: A. Lớp ClassA phải khai báo là abstract
+Answer: B. Tên lớp cơ sở không hợp lệ
+Answer: C. Phương thức getNumber() khai báo public là không hợp lệ
+Answer: D. Lớp ClassA không định nghĩa phương thức getNumber()
+Correct Answer: Lớp ClassA không định nghĩa phương thức getNumber()
+Correct Symbol: D
+--------------------
+Question 43: public class SuperClass{public SuperClass (string s) { }}public class SubClass: SuperClass {public static void Main(){SubClass s = new SuperClass ("The"); }}Điều gì xảy ra khi biên dịch đoạn mã trên?
+Answer: A. Báo lỗi dòng 5
+Answer: B. Không có lỗi
+Answer: C. Báo lỗi dòng 2
+Answer: D. Báo lỗi dòng 9
+Correct Answer: Báo lỗi dòng 9
+Correct Symbol: D
+--------------------
+Question 44: Lớp lồng bên trong một lớp được khai báo với từ khoá nào?
+Answer: A. internal
+Answer: B. protected
+Answer: C. private
+Answer: D. public
+Correct Answer: internal
+Correct Symbol: A
+--------------------
+Question 45: Thứ tự khởi tạo khi tạo một biến đối tượng là gì?
+Answer: A. Gọi hàm tạo lớp cơ sở trước
+Answer: B. Gọi hàm tạo lớp dẫn xuất trước
+Answer: C. Khởi tạo các biến lớp dẫn xuất sau đó mới gọi hàm tạo.
+Answer: D. Gọi hai hàm tạo cùng một lúc
+Correct Answer: Gọi hàm tạo lớp cơ sở trước
+Correct Symbol: A
+--------------------
+Question 46: Để một luồng bắt đầu thì phải thực hiện thao tác nào?
+Answer: A. Tạo đối tượng luồng
+Answer: B. Gọi phương thức suspend của đối tượng luồng
+Answer: C. Cho một đối tượng luồng khác dừng
+Answer: D. Gọi phương thức Start của đối tượng luồng.
+Correct Answer: Gọi phương thức Start của đối tượng luồng.
+Correct Symbol: D
+--------------------
+Question 47: Trong các khai báo sau, khai báo nào đúng khi thực hiện kế thừa lớp cơ sở là lớp student1 và lớp dẫn xuất là lớp student2?
+Answer: A. public student2:student1
+Answer: B. student1 public:student2
+Answer: C. student2 public:student1
+Answer: D. public student1:student2
+Correct Answer: public student2:student1
+Correct Symbol: A
+--------------------
+Question 48: Chọn phương thức khai báo đúng?
+Answer: A. public void virtual Display(){}
+Answer: B. public virtual static void Display() { }
+Answer: C. public static virtual void Display() { }
+Answer: D. public virtual void Display(){}
+Correct Answer: public virtual void Display(){}
+Correct Symbol: D
+--------------------
+Question 49: Phát biểu nào sau đây về kế thừa trong C# là SAI? 
+Answer: A. Một trong những đặc tính của .NET là các lớp có thể kế thừa từ các lớp được viết từ ngôn ngữ khác
+Answer: B. Trong C#, có thể kế thừa một lớp được viết từ ngôn ngữ khác của .NET
+Answer: C. Trong C#, một lớp chỉ kế thừa các lớp của C# tạo ra
+Answer: D. Những ngôn ngữ khác trong .NET có thể kế thừa từ các lớp của C# tạo ra
+Correct Answer: Trong C#, một lớp chỉ kế thừa các lớp của C# tạo ra
+Correct Symbol: C
+--------------------
+Question 50: Trong ngôn ngữ C#, người lập trình có thể quyết định phủ quyết một phương thức ảo bằng cách khai báo tường minh từ khóa?
+Answer: A. override
+Answer: B. abstract
+Answer: C. new
+Answer: D. virtual
+Correct Answer: override
+Correct Symbol: A
+--------------------
+Question 51: C# cho phép một lớp kế thừa từ mấy lớp?
+Answer: A. Ba
+Answer: B. Hai
+Answer: C. Một
+Answer: D. Nhiều
+Correct Answer: Một
+Correct Symbol: C
+--------------------
+Question 52: Chọn khai báo đúng để tạo lớp B kế thừa lớp A trong C#?
+Answer: A. class A:class B
+Answer: B. class B:A 
+Answer: C. class A:B 
+Answer: D. class B:class A 
+Correct Answer: class B:A
+Correct Symbol: B
+--------------------
+Question 53: Sự đặc biệt hoá thể hiện trong C# thông qua tính chất nào?
+Answer: A. Hướng đối tượng
+Answer: B. Kế thừa
+Answer: C. Đa nhiệm
+Answer: D. Theo luồng
+Correct Answer: Kế thừa
+Correct Symbol: B
+--------------------
+Question 54: Phương thức thể hiện tính đa hình được khai báo trong lớp cơ sở bằng từ khoá nào sau đây?
+Answer: A. base
+Answer: B. virtual
+Answer: C. new
+Answer: D. abstract
+Correct Answer: virtual
+Correct Symbol: B
+--------------------
+Question 55: class ClassA:ClassB.Khai báo nào sau đây là SAI?
+Answer: A. ClassA c1=new ClassB();
+Answer: B. ClassB c1=new ClassB();
+Answer: C. ClassB c1=new ClassA();
+Answer: D. ClassA c1=new ClassA();
+Correct Answer: ClassA c1=new ClassB();
+Correct Symbol: A
+--------------------
+Question 56: Trong C# thì xâu ký tự được tạo bởi lớp nào?
+Answer: A. StringBuilder
+Answer: B. String và StringBuilder
+Answer: C. String
+Answer: D. ToString
+Correct Answer: String và StringBuilder
+Correct Symbol: B
+--------------------
+Question 57: class Test{static void Main(){int[] Array1= {3,2,1};int i=Array.IndexOf(Array1,3);Console.WriteLine(i);Console.Read();}}Kết quả khi cho chạy đoạn chương trình trên?
+Answer: A. 3
+Answer: B. 0
+Answer: C. 1
+Answer: D. 2
+Correct Answer: 0
+Correct Symbol: B
+--------------------
+Question 58: Trong ngôn ngữ C#, đâu là kiểu dữ liệu hợp lệ?
+Answer: A. String
+Answer: B. ToString
+Answer: C. String và string
+Answer: D. string
+Correct Answer: String và string
+Correct Symbol: C
+--------------------
+Question 59: Trong C# thì giao diện định nghĩa các phương thức điều khiển tập hợp là gì?
+Answer: A. IEnumerator
+Answer: B. IHashtable
+Answer: C. ICollection
+Answer: D. IEnumerable
+Correct Answer: ICollection
+Correct Symbol: C
+--------------------
+Question 60: Cấu trúc nào đúng cho khai báo chỉ mục?
+Answer: A. public int this(int var1)
+Answer: B. public int classname[int index]
+Answer: C. static int this[int var1]
+Answer: D. protected int this[int var1]
+Correct Answer: protected int this[int var1]
+Correct Symbol: D
+--------------------
+Question 61: Biểu thức quy tắc trong C# được xây dựng từ lớp nào?
+Answer: A.  Lớp Regex của C
+Answer: B. Lớp Regex của Perl
+Answer: C.  Lớp Regex của C++
+Answer: D.  Lớp Regex của Java
+Correct Answer: Lớp Regex của Perl
+Correct Symbol: B
+--------------------
+Question 62: int @Main;int[] Static = new int[3];@Main = 100 * Static[1]; Console.WriteLine(@Main);Kết quả khi cho chạy đoạn chương trình trên?
+Answer: A. 100
+Answer: B. Lỗi dòng 2
+Answer: C. 0
+Answer: D. Lỗi dòng 3
+Correct Answer: 0
+Correct Symbol: C
+--------------------
+Question 63: Phát biểu nào về phương thức ToString() là SAI?
+Answer: A. Có thể thực hiện override
+Answer: B. Luôn luôn phải được gọi tường minh
+Answer: C. Làm tham số trong phương thức Write() thì nó được gọi ngầm định
+Answer: D. Có thể thực hiện gọi ngầm định trong một số trường hợp
+Correct Answer: Luôn luôn phải được gọi tường minh
+Correct Symbol: B
+--------------------
+Question 64: Lệnh nào đúng để tạo mảng kiểu bool có ba phần tử?
+Answer: A. bool[] b=new bool[3];
+Answer: B. bool[3] b=new bool[3]={true,true,true};
+Answer: C. bool[3] b={true,true,true};
+Answer: D. bool[] b={“true,true,true”};
+Correct Answer: bool[] b=new bool[3];
+Correct Symbol: A
+--------------------
+Question 65: Lớp biểu thức quy tắc của C# nằm trong vùng không gian tên nào?
+Answer: A. System.Text.RegularExpressions
+Answer: B. System.Regex
+Answer: C. System.Regexp
+Answer: D. System.Text
+Correct Answer: System.Text.RegularExpressions
+Correct Symbol: A
+--------------------
+Question 66: Dung lượng ArrayList thay đổi như thế nào khi thành phần đưa vào lớn hơn dung lượng thực tế của nó?
+Answer: A. Dung lượng không thay đổi
+Answer: B. Báo lỗi
+Answer: C. Dung lượng tăng gấp 3
+Answer: D. Dung lượng tăng gấp đôi
+Correct Answer: Dung lượng tăng gấp đôi
+Correct Symbol: D
+--------------------
+Question 67: namespace ConsoleApplication9{public class A{public static void Main(){A objA = new A();Type t1 = objA.GetType();Console.WriteLine(t1);Console.Read();}}}Kết quả khi cho chạy đoạn chương trình trên?
+Answer: A. Báo lỗi biên dịch
+Answer: B. objA is: Space1.A 
+Answer: C. ConsoleApplication9.A
+Answer: D. System.A
+Correct Answer: ConsoleApplication9.A
+Correct Symbol: C
+--------------------
+Question 68: Dòng lệnh nào sau đây được dùng để khai báo một ArrayList
+Answer: A. ArrayList[] al = new ArrayList;
+Answer: B. ArrayList[] al = new ArrayList();
+Answer: C. ArrayList al = new ArrayList();
+Answer: D. arraylist al = new arraylist();
+Correct Answer: ArrayList al = new ArrayList();
+Correct Symbol: C
+--------------------
+Question 69: Cấu trúc dữ liệu Stack nằm trong vùng không gian tên nào?
+Answer: A. System.Array
+Answer: B. System.ArrayList
+Answer: C. System.Collections
+Answer: D. System.Stack
+Correct Answer: System.Collections
+Correct Symbol: C
+--------------------
+Question 70: Khai báo đối tượng như sauObject x = new Object();Object y = new Object();Trong các lệnh sau lệnh nào SAI?
+Answer: A. x.GetHashCode();
+Answer: B. x.Equals(x)
+Answer: C. x.Equals(x,y)
+Answer: D. x.Equals(y)
+Correct Answer: x.GetHashCode();
+Correct Symbol: A
+--------------------
+Question 71: Từ khoá để khai báo sự kiện trong C# là gì?
+Answer: A. Event
+Answer: B. event()
+Answer: C. events
+Answer: D. event
+Correct Answer: event
+Correct Symbol: D
+--------------------
+Question 72: Tham số thứ nhất của trình xử lý sự kiện phải là gì?
+Answer: A. Tham số kiểu float
+Answer: B. Đối tượng thuộc lớp dẫn xuất từ EventArgs.
+Answer: C. Tham số kiểu int
+Answer: D. Đối tượng phát sinh sự kiện
+Correct Answer: Đối tượng phát sinh sự kiện
+Correct Symbol: D
+--------------------
+Question 73: Có delegate xử lý sự kiện như sau:public delegate void HandlerName(object obj, EventArgs arg);Trong các khai báo sự kiện sau, khai báo nào đúng?
+Answer: A. event   public HandlerName  OnEventName;
+Answer: B. public event OnEventName HandlerName;
+Answer: C. public event  HandlerName  OnEventName;
+Answer: D. public event HandlerName  OnEventName();
+Correct Answer: public event  HandlerName  OnEventName;
+Correct Symbol: C
+--------------------
+Question 74: Một delegate có thể gọi bao nhiêu phương thức một lúc?
+Answer: A. Hai
+Answer: B. Ba
+Answer: C. Nhiều
+Answer: D. Một
+Correct Answer: Một
+Correct Symbol: D
+--------------------
+Question 75: Lớp dẫn xuất từ EventArgs chứa những thông tin về?
+Answer: A. delegate
+Answer: B. event
+Answer: C. collection
+Answer: D. interface
+Correct Answer: event
+Correct Symbol: B
+--------------------
+Question 76: Tham số thứ hai của trình xử lý sự kiện phải là gì?
+Answer: A. Đối tượng thuộc lớp dẫn xuất từ EventArgs
+Answer: B. Đối tượng phát sinh sự kiện
+Answer: C. Tham số kiểu float
+Answer: D. Tham số kiểu int
+Correct Answer: Đối tượng thuộc lớp dẫn xuất từ EventArgs
+Correct Symbol: A
+--------------------
+Question 77: Khi thực thi một uỷ nhiệm (delegate) cần quan tâm tới điều gì sau đây?
+Answer: A. Tên phương thức
+Answer: B. Thuộc tính và kiểu trả về
+Answer: C.  Kiểu trả về
+Answer: D. Thuộc tính
+Correct Answer: Thuộc tính và kiểu trả về
+Correct Symbol: B
+--------------------
+Question 78: Một multicast delegate cho phép nhận toán tử nào sau đây?
+Answer: A. +=
+Answer: B. /=
+Answer: C. *=
+Answer: D. !=
+Correct Answer: +=
+Correct Symbol: A
+--------------------
+Question 79: 1. delegate void SimpleDelegate();2. class Test{ 3. static void F() { 4. System.Console.WriteLine(“Test.F”); 5. } 6. static void Main() { 7. SimpleDelegate d = new SimpleDelegate(F); 8. d(); 9. } 10. } Kết quả khi cho biên dịch và chạy đoạn chương trình trên?
+Answer: A. Lỗi dòng 2
+Answer: B. Lỗi dòng 7
+Answer: C. Báo lỗi dòng 8: Không có tham số
+Answer: D. Biên dịch và chạy thành công kết quả: Test.F
+Correct Answer: Biên dịch và chạy thành công kết quả: Test.F
+Correct Symbol: D
+--------------------
+Question 80: Một multicast delegate KHÔNG cho phép nhận toán tử nào sau đây?
+Answer: A. *
+Answer: B. +
+Answer: C. +=
+Answer: D. -
+Correct Answer: *
+Correct Symbol: A
+--------------------
+Question 81: Trong các khai báo delegate “tinhtb” sau, khai báo nào đúng cho phép tính hai số có kiểu trả về là kiểu số nguyên?
+Answer: A. delegate public int tinhtb(int x,int y);
+Answer: B. public delegate int tinhtb(int x,int y);
+Answer: C. public int delegate tinhtb(int x,int y);
+Answer: D. int public delegate tinhtb(int x,int y);
+Correct Answer: public delegate int tinhtb(int x,int y);
+Correct Symbol: B
+--------------------

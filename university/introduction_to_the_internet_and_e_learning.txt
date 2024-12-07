@@ -1,0 +1,1088 @@
+Question 1: Thuật ngữ "Internet" xuất hiện lần đầu vào khoảng năm nào?
+Answer: A. 1974
+Answer: B. 1984
+Answer: C. 1964
+Answer: D. 1980
+Correct Answer: 1974
+Correct Symbol: A
+--------------------
+Question 2: Internet được hình thành từ dự án nào sau đây?
+Answer: A. Từ một dự án nghiên cứu của Bộ quốc phòng Anh.
+Answer: B. Từ một dự án nghiên cứu của Bộ giáo dục Anh.
+Answer: C. Từ một dự án nghiên cứu của Bộ quốc phòng Mỹ.
+Answer: D. Từ một dự án nghiên cứu của Bộ giáo dục Mỹ.
+Correct Answer: Từ một dự án nghiên cứu của Bộ quốc phòng Mỹ.
+Correct Symbol: C
+--------------------
+Question 3: Khi nói về chức năng của các nhà cung cấp dịch vụ Internet ở Việt Nam, có 2 phát biểu như sau: PB1: OSP cấp quyền truy cập Internet qua mạng viễn thông và các dịch vụ như: Email, Web, FTP, Telnet, Chat. PB2: ICP cung cấp các thông tin về: kinh tế, giáo dục, thể thao, chính trị, quân sự (thường xuyên cập nhật thông tin mới theo định kỳ) đưa lên mạng. Hỏi khẳng định nào sau đây là đúng?
+Answer: A. PB1 sai, PB2 đúng.
+Answer: B. PB1 sai, PB2 sai.
+Answer: C. PB1 đúng, PB2 sai.
+Answer: D. PB1 đúng, PB2 đúng.
+Correct Answer: PB1 sai, PB2 đúng.
+Correct Symbol: A
+--------------------
+Question 4: ICP là viết tắt của cụm từ tiếng Anh nào?
+Answer: A. International Communication Protocol.
+Answer: B. International Communication Processing.
+Answer: C. Internet Cab Provider.
+Answer: D. Internet Content Provider.
+Correct Answer: Internet Content Provider.
+Correct Symbol: D
+--------------------
+Question 5: Khi nói về chức năng của các nhà cung cấp dịch vụ Internet ở Việt Nam, có 2 phát biểu như sau: PB1: IAP có thể thực hiện cả chức năng của ISP nhưng ngược lại thì không. PB2: ICP cung cấp các dịch vụ trên cơ sở ứng dụng Internet như: mua bán qua mạng, giao dịch ngân hàng, tư vấn, đào tạo… Hỏi khẳng định nào sau đây là đúng?
+Answer: A. PB1 đúng, PB2 đúng.
+Answer: B. PB1 sai, PB2 sai.
+Answer: C. PB1 đúng, PB2 sai.
+Answer: D. PB1 sai, PB2 đúng.
+Correct Answer: PB1 đúng, PB2 sai.
+Correct Symbol: C
+--------------------
+Question 6: IXP là viết tắt của cụm từ tiếng Anh nào?
+Answer: A. Internet Exchange Provider.
+Answer: B. International Exchange Protocol.
+Answer: C. Improve External Protocol.
+Answer: D. Internet Extent Protocol.
+Correct Answer: Internet Exchange Provider.
+Correct Symbol: A
+--------------------
+Question 7: Mạng diện rộng WAN là viết tắt của cụm từ tiếng Anh nào?
+Answer: A. Wire Area Network.
+Answer: B. WiMAX Area Network.
+Answer: C. Wide Area Network.
+Answer: D. Web Area Network.
+Correct Answer: Wide Area Network.
+Correct Symbol: C
+--------------------
+Question 8: Mạng đô thị MAN là viết tắt của cụm từ tiếng Anh nào?
+Answer: A. Metropolitan Address Network.
+Answer: B. Metropolitan Area Network.
+Answer: C. Metropolitan Access Network.
+Answer: D. Metropolitan Application Network.
+Correct Answer: Metropolitan Area Network.
+Correct Symbol: B
+--------------------
+Question 9: HTML là tên viết tắt của cụm từ nào?
+Answer: A. HyperText Media Languages.
+Answer: B. HyperText Markup Languages.
+Answer: C. HyperText Markup Learn.
+Answer: D. HyperText Media Languages.
+Correct Answer: HyperText Markup Languages.
+Correct Symbol: B
+--------------------
+Question 10: Mạng ARPANET hình thành vào khoảng năm nào?
+Answer: A. 1979
+Answer: B. 1974
+Answer: C. 1969
+Answer: D. 1960
+Correct Answer: 1969
+Correct Symbol: C
+--------------------
+Question 11: Việt Nam hòa vào mạng Internet toàn cầu vào khoảng năm nào?
+Answer: A. 1987
+Answer: B. 1990
+Answer: C. 2000
+Answer: D. 1997
+Correct Answer: 1997
+Correct Symbol: D
+--------------------
+Question 12: Mạng cục bộ LAN là viết tắt của cụm từ tiếng Anh nào?
+Answer: A. Local Area Network.
+Answer: B. Local Address Network.
+Answer: C. Link Area Network.
+Answer: D. Link Address Network.
+Correct Answer: Local Area Network.
+Correct Symbol: A
+--------------------
+Question 13: Khẳng định nào sau đây là sai?
+Answer: A. Internet là một mạng máy tính rất lớn kết nối các mạng máy tính khác nhau trên khắp toàn cầu.
+Answer: B. Internet là từ viết tắt của Inter-network.
+Answer: C. Internet là từ viết tắt của International Terminal Network.
+Answer: D. Các mạng máy tính liên kết với nhau dựa trên bộ giao thức TCP/IP.
+Correct Answer: Internet là từ viết tắt của International Terminal Network.
+Correct Symbol: C
+--------------------
+Question 14: TCP/IP là viết tắt của cụm từ tiếng Anh nào?
+Answer: A. Telecoms Communication Protocol/ Internet Protocol.
+Answer: B. Transmision Control Protocol/ Internet Protocol.
+Answer: C. Transport Control Processing/ Internet Processing.
+Answer: D. Transport Control Provider/ Internet Provider.
+Correct Answer: Transmision Control Protocol/ Internet Protocol.
+Correct Symbol: B
+--------------------
+Question 15: OSP là viết tắt của cụm từ tiếng Anh nào?
+Answer: A. Organization Service Protocol.
+Answer: B. Online Search Provider.
+Answer: C. Offline Service Provider.
+Answer: D. Online Service Provider.
+Correct Answer: Online Service Provider.
+Correct Symbol: D
+--------------------
+Question 16: Trong tên miền, dấu nào được sử dụng làm dấu phân cách?
+Answer: A. Dấu gạch dưới (_)
+Answer: B. Dấu hỏi (?)
+Answer: C. Dấu
+Answer: D. Dấu chấm (.)
+Correct Answer: Dấu chấm (.)
+Correct Symbol: D
+--------------------
+Question 17: Trong mỗi cụm số hệ 16 (mỗi phần) của địa chỉ IPv6 có bao nhiêu ký số hệ 16?
+Answer: A. 6
+Answer: B. 4
+Answer: C. 8
+Answer: D. 2
+Correct Answer: 4
+Correct Symbol: B
+--------------------
+Question 18: Địa chỉ IP nào không thể gán cho các thiết bị trên mạng?
+Answer: A. Địa chỉ quảng bá.
+Answer: B. Địa chỉ 10.10.10.10.
+Answer: C. Địa chỉ IP công cộng.
+Answer: D. Địa chỉ IP riêng.
+Correct Answer: Địa chỉ quảng bá.
+Correct Symbol: A
+--------------------
+Question 19: Khẳng định nào sau đây là SAI khi nói về trình duyệt web?
+Answer: A. Là một phần mềm ứng dụng được cài đặt để sử dụng dịch vụ WWW.
+Answer: B. Là một phần mềm hệ thống được cài đặt trên máy tính của người sử dụng.
+Answer: C. Là một phần mềm ứng dụng được cài đặt trên máy tính của người sử dụng.
+Answer: D. Cho phép người dùng duyệt các tài liệu siêu văn bản trên Web.
+Correct Answer: Là một phần mềm hệ thống được cài đặt trên máy tính của người sử dụng.
+Correct Symbol: B
+--------------------
+Question 20: Đâu không phải là một phương thức kết nối Internet?
+Answer: A. Wi-Fi
+Answer: B. Dial-up
+Answer: C. Leased-Line
+Answer: D. TCP/IP
+Correct Answer: TCP/IP
+Correct Symbol: D
+--------------------
+Question 21: Đâu là 1 bộ giao thức kết nối mạng?
+Answer: A. TCP/IP
+Answer: B. HTTP
+Answer: C. HTML
+Answer: D. HTTPS
+Correct Answer: TCP/IP
+Correct Symbol: A
+--------------------
+Question 22: Hệ thống quản lý tên miền DNS là viết tắt của cụm từ tiêng Anh nào?
+Answer: A. Dot Name Science.
+Answer: B. Domain Name System.
+Answer: C. Domain Name Science.
+Answer: D. Dot Name System.
+Correct Answer: Domain Name System.
+Correct Symbol: B
+--------------------
+Question 23: Có mấy phiên bản địa chỉ IP?
+Answer: A. 2
+Answer: B. 3
+Answer: C. 4
+Answer: D. 1
+Correct Answer: 2
+Correct Symbol: A
+--------------------
+Question 24: Có 2 khẳng định sau: KĐ1: Đây là công nghệ DSL đối xứng KĐ2: Để có thể kết nối Internet, người dùng sẽ cần phải lắp đặt một modem ADSL chuyên dụng. Nhận xét nào sau đây là đúng khi nói về công nghệ ADSL?
+Answer: A. KĐ1 đúng, KĐ2 đúng.
+Answer: B. KĐ1 đúng, KĐ2 sai.
+Answer: C. KĐ1 sai, KĐ2 sai.
+Answer: D. KĐ1 sai, KĐ2 đúng.
+Correct Answer: KĐ1 sai, KĐ2 đúng.
+Correct Symbol: D
+--------------------
+Question 25: Đâu là một địa chỉ IPv4 hợp lệ?
+Answer: A. 192.168.10.256
+Answer: B. 192:168:10:6
+Answer: C. 192.168.10.6
+Answer: D. 192:168:10:256
+Correct Answer: 192.168.10.6
+Correct Symbol: C
+--------------------
+Question 26: Khẳng định nào sau đây là đúng khi nói về phương thức kết nối quay số qua mạng điện thoại (Dial-up)?
+Answer: A. Đây là một công nghệ băng rộng.
+Answer: B. Kiểu kết nối này có tốc độ nhanh nhất trong các phương thức kết nối Internet.
+Answer: C. Để kết nối, người dùng cần có một đường điện thoại và một modem.
+Answer: D. Kết nối kiểu này luôn thường trực 24/24.
+Correct Answer: Để kết nối, người dùng cần có một đường điện thoại và một modem.
+Correct Symbol: C
+--------------------
+Question 27: Để truy nhập đến một máy chủ, người dùng có thể dùng?
+Answer: A. Địa chỉ IP hoặc tên miền hoặc địa chỉ vật lý.
+Answer: B. Địa chỉ IP hoặc tên miền.
+Answer: C. Bắt buộc phải dùng tên miền.
+Answer: D. Bắt buộc phải dùng địa chỉ IP.
+Correct Answer: Địa chỉ IP hoặc tên miền.
+Correct Symbol: B
+--------------------
+Question 28: Trong các khẳng định sau khẳng định nào là SAI?
+Answer: A. Tên miền là duy nhất.
+Answer: B. Tên miền khó nhớ hơn địa chỉ IP.
+Answer: C. Địa chỉ IP khó nhớ hơn tên miền.
+Answer: D. Địa chỉ IP là duy nhất.
+Correct Answer: Tên miền khó nhớ hơn địa chỉ IP.
+Correct Symbol: B
+--------------------
+Question 29: Domain Name là gì?
+Answer: A. Tên miền.
+Answer: B. Tên trang web.
+Answer: C. Địa chỉ IPv4.
+Answer: D. Địa chỉ IPv6.
+Correct Answer: Tên miền.
+Correct Symbol: A
+--------------------
+Question 30: Cho 2 khẳng định sau: KĐ1: DSL bất đối xứng có tốc độ tải xuống (download) chậm. KĐ2: DSL bất đối xứng có tốc độ tải lên (upload) nhanh.
+Answer: A. KĐ1 sai, KĐ2 sai.
+Answer: B. KĐ1 sai, KĐ2 đúng.
+Answer: C. KĐ1 đúng, KĐ2 sai.
+Answer: D. KĐ1 đúng, KĐ2 đúng.
+Correct Answer: KĐ1 sai, KĐ2 sai.
+Correct Symbol: A
+--------------------
+Question 31: Tên miền nào sau đây KHÔNG thuộc về quốc gia Việt Nam?
+Answer: A. tnu.edu.vn
+Answer: B. tnu.org.vn
+Answer: C. jnto.org.fr
+Answer: D. jnto.edu.vn
+Correct Answer: jnto.org.fr
+Correct Symbol: C
+--------------------
+Question 32: Phương thức kết nối nào là chậm nhất trong số các công nghệ truy cập Internet?
+Answer: A. Kết nối băng rộng.
+Answer: B. Quay số qua mạng điện thoại (Dial-up).
+Answer: C. Kết nối thông qua kênh thuê riêng (Leased-Line).
+Answer: D. Kết nối không dây.
+Correct Answer: Quay số qua mạng điện thoại (Dial-up).
+Correct Symbol: B
+--------------------
+Question 33: Hotspot là một địa điểm mà tại đó có cung cấp các dịch vụ:
+Answer: A. kết nối có dây và dịch vụ truy cập Internet tốc độ cao thông qua hoạt động của các thiết bị thu phát không dây
+Answer: B. kết nối không dây và dịch vụ truy cập Internet tốc độ cao thông qua hoạt động của các thiết bị thu phát không dây
+Answer: C. kết nối không dây và dịch vụ truy cập Internet tốc độ cao thông qua hoạt động của các thiết bị thu phát có dây
+Answer: D. kết nối có dây và dịch vụ truy cập Internet tốc độ cao thông qua hoạt động của các thiết bị thu phát có dây.
+Correct Answer: kết nối không dây và dịch vụ truy cập Internet tốc độ cao thông qua hoạt động của các thiết bị thu phát không dây
+Correct Symbol: B
+--------------------
+Question 34: Khẳng định nào sau đây là sai khi nói về địa chỉ IP công cộng?
+Answer: A. Là duy nhất.
+Answer: B. Được lấy từ nhà cung cấp dịch vụ hay đăng ký với 1 chi phí nào đó.
+Answer: C. Có tính toàn cầu và được tiêu chuẩn hóa.
+Answer: D. Không được định tuyến trên Internet Backbone.
+Correct Answer: Không được định tuyến trên Internet Backbone.
+Correct Symbol: D
+--------------------
+Question 35: Để các máy tính trên Internet có thể liên lạc với nhau, mỗi máy tính cần có một địa chỉ liên lạc và địa chỉ này được gọi là gì?
+Answer: A. Địa chỉ Web.
+Answer: B. Địa chỉ IP.
+Answer: C. Địa chỉ TCP.
+Answer: D. Địa chỉ URL
+Correct Answer: Địa chỉ IP.
+Correct Symbol: B
+--------------------
+Question 36: Có một tên miền như sau: tnu.edu.vn thì thành phần “edu” thường được gọi là tên miền cấp mấy?
+Answer: A. 1
+Answer: B. 3
+Answer: C. 2
+Answer: D. 0
+Correct Answer: 2
+Correct Symbol: C
+--------------------
+Question 37: Tất cả các Web Server đều hiểu và chạy được file nào?
+Answer: A. *.jsp
+Answer: B. *.asp
+Answer: C. *.htm
+Answer: D. *.php
+Correct Answer: *.htm
+Correct Symbol: C
+--------------------
+Question 38: Một tên miền đầy đủ có chiều dài không vượt quá 255 ký tự. Vậy chiều dài tối đa của tên miền ở mỗi cấp là bao nhiêu ký tự (bao gồm cả dấu “.”)?
+Answer: A. 60
+Answer: B. 62
+Answer: C. 63
+Answer: D. 61
+Correct Answer: 63
+Correct Symbol: C
+--------------------
+Question 39: Đâu là một địa chỉ IPv4 không hợp lệ?
+Answer: A. 102.254.200.25
+Answer: B. 192.182.10.254
+Answer: C. 162.198.101.69
+Answer: D. 256.168.254.50
+Correct Answer: 256.168.254.50
+Correct Symbol: D
+--------------------
+Question 40: Khẳng định nào sau đây là sai khi nói về phương thức kết nối quay số qua mạng điện thoại (Dial-up)?
+Answer: A. Máy tính của người dùng kết nối với Modem và modem được kết nối tới đường điện thoại.
+Answer: B. Để kết nối, người dùng cần có một đường điện thoại và một modem.
+Answer: C. Kết nối kiểu này luôn thường trực 24/24.
+Answer: D. Kiểu kết nối này có tốc độ chậm nhất trong các phương thức kết nối Internet.
+Correct Answer: Kết nối kiểu này luôn thường trực 24/24.
+Correct Symbol: C
+--------------------
+Question 41: Khẳng định nào sau đây là SAI?
+Answer: A. IPv6 hỗ trợ bảo mật tốt hơn IPv4.
+Answer: B. Không gian địa chỉ IPv4 lớn hơn và dễ dàng quản lý không gian địa chỉ IPv6.
+Answer: C. Cấu trúc định tuyến của IPv6 tốt hơn IPv4.
+Answer: D. Không gian địa chỉ Ipv6 lớn hơn và dễ dàng quản lý không gian địa chỉ IPv4.
+Correct Answer: Không gian địa chỉ IPv4 lớn hơn và dễ dàng quản lý không gian địa chỉ IPv6.
+Correct Symbol: B
+--------------------
+Question 42: Mỗi octet trong địa chỉ IPv4 có giá trị trong khoảng nào?
+Answer: A. Từ 0 đến 255.
+Answer: B. Từ 0 đến 64.
+Answer: C. Từ 0 đến 128.
+Answer: D. Từ 0 đến 32.
+Correct Answer: Từ 0 đến 255.
+Correct Symbol: A
+--------------------
+Question 43: Trong các tên dưới đây đâu là 1 tên miền không hợp lệ?
+Answer: A. tnu.edu&vn
+Answer: B. tnu.edu-vn
+Answer: C. tnu.edu.vn
+Answer: D. tnu-edu.vn
+Correct Answer: tnu.edu&vn
+Correct Symbol: A
+--------------------
+Question 44: Địa chỉ IP v6 sử dụng bao nhiêu bit để đánh địa chỉ?
+Answer: A. 128
+Answer: B. 64
+Answer: C. 256
+Answer: D. 32
+Correct Answer: 128
+Correct Symbol: A
+--------------------
+Question 45: Có 2 khẳng định sau: KĐ1: Có tốc độ kết nối cao hơn ADSL KĐ2: Cho phép chia sẻ chung với đường điện thoại Nhận xét nào sau đây là đúng khi nói về công nghệ HDSL?
+Answer: A. KĐ1 đúng, KĐ2 sai.
+Answer: B. KĐ1 sai, KĐ2 sai.
+Answer: C. KĐ1 đúng, KĐ2 đúng.
+Answer: D. KĐ1 sai, KĐ2 đúng.
+Correct Answer: KĐ1 đúng, KĐ2 sai.
+Correct Symbol: A
+--------------------
+Question 46: Trong cách biểu diễn địa chỉ IPv4 được chia thành bao nhiêu octet?
+Answer: A. 6
+Answer: B. 7
+Answer: C. 5
+Answer: D. 4
+Correct Answer: 4
+Correct Symbol: D
+--------------------
+Question 47: Khi đặt tên miền không được dùng ký tự nào dưới đây?
+Answer: A. Các chữ cái
+Answer: B. Các chữ số
+Answer: C. Ký tự “-”
+Answer: D. Ký tự @
+Correct Answer: Ký tự @
+Correct Symbol: D
+--------------------
+Question 48: Các cụm số hexa trong địa chỉ Ipv6 được tách biệt với nhau bằng dấu nào?
+Answer: A. Dấu chấm “.”
+Answer: B. Dấu hỏi “?”
+Answer: C. Dấu nhân “*”
+Answer: D. Dấu hai chấm “:”
+Correct Answer: Dấu hai chấm “:”
+Correct Symbol: D
+--------------------
+Question 49: Trong các tên dưới đây đâu là 1 tên miền hợp lệ?
+Answer: A. tnu.edu@vn
+Answer: B. tnu_edu@vn
+Answer: C. tnu@edu.vn
+Answer: D. tnu.edu.vn
+Correct Answer: tnu.edu.vn
+Correct Symbol: D
+--------------------
+Question 50: Chiều dài tối đa của một tên miền đầy đủ là bao nhiêu ký tự?
+Answer: A. 127
+Answer: B. 256
+Answer: C. 128
+Answer: D. 255
+Correct Answer: 255
+Correct Symbol: D
+--------------------
+Question 51: Địa chỉ IPv6 biểu diễn dưới dạng bao nhiêu cụm số hệ mười sáu phân cách bởi dấu hai chấm (:)?
+Answer: A. 4
+Answer: B. 8
+Answer: C. 32
+Answer: D. 16
+Correct Answer: 8
+Correct Symbol: B
+--------------------
+Question 52: Dấu:: xuất hiện tối đa là bao nhiêu lần trong địa chỉ IPv6?
+Answer: A. 4
+Answer: B. 1
+Answer: C. 3
+Answer: D. 2
+Correct Answer: 1
+Correct Symbol: B
+--------------------
+Question 53: Đâu là 1 địa chỉ IPv6 không hợp lệ?
+Answer: A. 2001:0DC8::1005:2F43::ABC6
+Answer: B. 2001:0DC8:1005:2F43::ABC6
+Answer: C. 2001:DC8::2F43:BCD:ABC6
+Answer: D. 2001:0DC8::1005:2F43:0BCD:ABC6
+Correct Answer: 2001:0DC8::1005:2F43::ABC6
+Correct Symbol: A
+--------------------
+Question 54: Đâu không phải là 1 bộ giao thức kết nối mạng?
+Answer: A. HTML
+Answer: B. TCP/IP
+Answer: C. NetBEUI
+Answer: D. IPX/SPX
+Correct Answer: HTML
+Correct Symbol: A
+--------------------
+Question 55: Đâu là một phương thức kết nối Internet?
+Answer: A. TCP/IP
+Answer: B. IPX/SPX
+Answer: C. Leased-Line
+Answer: D. NetBEUI
+Correct Answer: Leased-Line
+Correct Symbol: C
+--------------------
+Question 56: Địa chỉ IP v4 sử dụng bao nhiêu bit để đánh địa chỉ?
+Answer: A. 32
+Answer: B. 64
+Answer: C. 256
+Answer: D. 128
+Correct Answer: 32
+Correct Symbol: A
+--------------------
+Question 57: Đâu là tên của trình duyệt Web?
+Answer: A. Internet Browser.
+Answer: B. Web Explorer.
+Answer: C. Internet Explorer.
+Answer: D. Web Browser.
+Correct Answer: Internet Explorer.
+Correct Symbol: C
+--------------------
+Question 58: Có 2 khẳng định sau: KĐ1: là loại hình kết nối Internet tốc độ cao KĐ2: luôn trong trạng thái kết nối 24/24. Nhận xét nào sau đây là đúng khi nói về phương thức kết nối Internet băng rộng?
+Answer: A. KĐ1 sai, KĐ2 sai.
+Answer: B. KĐ1 sai, KĐ2 đúng.
+Answer: C. KĐ1 đúng, KĐ2 sai.
+Answer: D. KĐ1 đúng, KĐ2 đúng.
+Correct Answer: KĐ1 đúng, KĐ2 đúng.
+Correct Symbol: D
+--------------------
+Question 59: Địa chỉ IPv4 có cấu trúc như thế nào?
+Answer: A. A,B,C,D
+Answer: B. A.B.C.D
+Answer: C. A:B:C:D
+Answer: D. A?B?C?D
+Correct Answer: A.B.C.D
+Correct Symbol: B
+--------------------
+Question 60: Để khởi động trình duyệt web, bạn nhắp (click) chuột vào biểu tượng nào sau đây?
+Answer: A. Biểu tượng Internet Explorer.
+Answer: B. Biểu tượng Yahoo! Messenger.
+Answer: C. Biểu tượng Recycle Bin.
+Answer: D. Biểu tượng My Computer.
+Correct Answer: Biểu tượng Internet Explorer.
+Correct Symbol: A
+--------------------
+Question 61: RARP là viết tắt của cụm từ tiếng Anh nào?
+Answer: A. Replace Access Resolution Protocol.
+Answer: B. Reverse Address Resolution Protocol.
+Answer: C. Replace Address Resolution Protocol.
+Answer: D. Reverse Access Resolution Protocol.
+Correct Answer: Reverse Address Resolution Protocol.
+Correct Symbol: B
+--------------------
+Question 62: Giao thức nào dưới đây được sử dụng để truyền tải thư điện tử của MicroSoft Outlook?
+Answer: A. POP/IMAP
+Answer: B. HTTP
+Answer: C. TELNET
+Answer: D. FTP
+Correct Answer: POP/IMAP
+Correct Symbol: A
+--------------------
+Question 63: Trong các giao thức sau giao thức nào là giao thức cung cấp khả năng truy nhập từ xa vào các máy tính khác?
+Answer: A. FTP.
+Answer: B. NFS.
+Answer: C. SMTP.
+Answer: D. Telnet.
+Correct Answer: Telnet.
+Correct Symbol: D
+--------------------
+Question 64: Khi sử dụng công cụ tìm kiếm Google, nếu muốn kết quả trả về là các trang Web chỉ chứa cụm từ: kinh tế quốc dân, thì trong ô tìm kiếm bạn nhập vào từ khóa nào sau đây?
+Answer: A. kinh tế “quốc dân”
+Answer: B. “kinh tế quốc dân”
+Answer: C. kinh tế quốc dân
+Answer: D. “kinh tế” quốc dân
+Correct Answer: “kinh tế quốc dân”
+Correct Symbol: B
+--------------------
+Question 65: Để xem các trang tài liệu siêu văn bản (trang web) trên Internet, bạn sử dụng dịch vụ nào sau đây?
+Answer: A. Dịch vụ World Wide Web.
+Answer: B. Dịch vụ Chat.
+Answer: C. Dịch vụ thư điện tử.
+Answer: D. Dịch vụ tải tệp tin.
+Correct Answer: Dịch vụ World Wide Web.
+Correct Symbol: A
+--------------------
+Question 66: Dịch vụ Telnet trên mạng Internet là gì?
+Answer: A. Là dịch vụ Internet có khả năng duy trì hàng ngàn nhóm tin với sự tham gia của hàng triệu người.
+Answer: B. Là dịch vụ truyền các tệp từ máy tính này đến máy tính khác trên mạng Internet.
+Answer: C. Là dịch vụ thiết lập sự liên hệ giữa MTĐT của ta với một máy chủ ở xa để người dùng có thể sử dụng khả năng xử lý của máy chủ đó.
+Answer: D. Là dịch vụ giúp người dùng tìm kiếm thông tin trên Internet bằng bảng chọn.
+Correct Answer: Là dịch vụ thiết lập sự liên hệ giữa MTĐT của ta với một máy chủ ở xa để người dùng có thể sử dụng khả năng xử lý của máy chủ đó.
+Correct Symbol: C
+--------------------
+Question 67: Trong số các phần mềm sau, đâu không phải là phần mềm hỗ trợ tải tệp tin?
+Answer: A. SnagIt
+Answer: B. Free YouTube Downloader
+Answer: C. Flashget
+Answer: D. IDM
+Correct Answer: SnagIt
+Correct Symbol: A
+--------------------
+Question 68: Đâu là 1 bộ giao thức hệ thống file phân tán (được phát triển bởi Sun Microsystems) cho phép truy xuất file đến các thiết bị ở xa như 1 đĩa cứng trên mạng?
+Answer: A. Telnet
+Answer: B. FTP
+Answer: C. NFS
+Answer: D. SMTP
+Correct Answer: NFS
+Correct Symbol: C
+--------------------
+Question 69: Anh An muốn đồng gửi bức thư điện tử tới anh Hải và chị Huệ, tuy nhiên anh An không muốn chị Huệ biết mình đã gửi bức thư này cho anh Hải. Khi đó anh An phải nhập địa chỉ email của anh Hải vào ô nào?
+Answer: A. Cc
+Answer: B. To
+Answer: C. Re
+Answer: D. Bcc
+Correct Answer: Bcc
+Correct Symbol: D
+--------------------
+Question 70: Trong ô tìm kiếm nếu bạn gõ vào: Kinh tế quốc dân thì kết quả trả về sẽ là gì?
+Answer: A. Chỉ có các trang có từ Kinh tế quốc dân sẽ được hiển thị.
+Answer: B. Chỉ có các trang có từ Kinh tế và không có từ quốc dân sẽ được hiển thị.
+Answer: C. Chỉ có các trang có từ Kinh, các trang có từ tế, các trang có từ quốc và các trang có từ dân sẽ được hiển thị.
+Answer: D. Chỉ có các trang có từ Kinh tế, và các trang có từ quốc dân sẽ được hiển thị.
+Correct Answer: Chỉ có các trang có từ Kinh, các trang có từ tế, các trang có từ quốc và các trang có từ dân sẽ được hiển thị.
+Correct Symbol: C
+--------------------
+Question 71: Khi sử dụng Mail để đính kèm tệp tin bạn bấm vào nút nào sau đây?
+Answer: A. Attach Files
+Answer: B. Show Files
+Answer: C. Get Files
+Answer: D. Add Files
+Correct Answer: Attach Files
+Correct Symbol: A
+--------------------
+Question 72: Để đọc các trang siêu văn bản người ta thường sử dụng?
+Answer: A. Chương trình duyệt Web (Web Browser)
+Answer: B. Chương trình gửi nhận E-Mail
+Answer: C. Chương trình soạn thảo văn bản
+Answer: D. Tất cả các phương án trên
+Correct Answer: Chương trình duyệt Web (Web Browser)
+Correct Symbol: A
+--------------------
+Question 73: Khi sử dụng phần mềm Mail, thư mục nào dưới đây chứa các thư bạn đã gửi đi?
+Answer: A. Sent
+Answer: B. Inbox
+Answer: C. Drafts
+Answer: D. Deleted
+Correct Answer: Sent
+Correct Symbol: A
+--------------------
+Question 74: Dịch vụ web sử dụng giao thức nào?
+Answer: A. IPX/SPX
+Answer: B. HTTP
+Answer: C. TCP/IP
+Answer: D. NetBEUI
+Correct Answer: HTTP
+Correct Symbol: B
+--------------------
+Question 75: Hệ thống thư điện tử được chia làm hai phần: MUA và MTA. Chức năng của MTA là gì?
+Answer: A. Định tuyến bản tin và Tương tác trực tiếp với người dùng cuối, giúp họ nhận bản tin, soạn thảo bản tin, lưu các bản tin và gửi bản tin.
+Answer: B. Nhận bản tin, định tuyến bản tin và xử lý các bản tin đến từ hệ thống của người dùng sao cho các bản tin đó đến được đúng hệ thống đích.
+Answer: C. Tương tác trực tiếp với người dùng cuối, giúp họ nhận bản tin, soạn thảo bản tin, lưu các bản tin và gửi bản tin.
+Answer: D. Định tuyến bản tin và xử lý các bản tin đến từ hệ thống của người dùng sao cho các bản tin đó đến được đúng hệ thống đích.
+Correct Answer: Định tuyến bản tin và xử lý các bản tin đến từ hệ thống của người dùng sao cho các bản tin đó đến được đúng hệ thống đích.
+Correct Symbol: D
+--------------------
+Question 76: Mục nào trong cấu trúc của một email mô tả ngắn gọn nội dung của email?
+Answer: A. CC
+Answer: B. BCC
+Answer: C. Body
+Answer: D. Subject
+Correct Answer: Subject
+Correct Symbol: D
+--------------------
+Question 77: Hệ thống thư điện tử được chia làm hai phần: MUA và MTA. MUA là viết tắt của cụm từ tiếng Anh nào?
+Answer: A. Message Use Application.
+Answer: B. Mail User Agent.
+Answer: C. Mail Use Agent.
+Answer: D. Mail User Application.
+Correct Answer: Mail User Agent.
+Correct Symbol: B
+--------------------
+Question 78: Chương trình nào dưới đây KHÔNG cho phép bạn gửi và nhận thư điện tử?
+Answer: A. Gmail
+Answer: B. Outlook Express
+Answer: C. IDM
+Answer: D. Yahoo Mail
+Correct Answer: IDM
+Correct Symbol: C
+--------------------
+Question 79: Trong các giao thức sau giao thức nào là giao thức truyền thư điện tử?
+Answer: A. SMTP.
+Answer: B. NFS.
+Answer: C. Telnet.
+Answer: D. FTP.
+Correct Answer: SMTP.
+Correct Symbol: A
+--------------------
+Question 80: Khi tìm kiếm bằng Google để tìm kiếm chính xác bạn sử dụng dấu nào?
+Answer: A. Dấu trừ (-)
+Answer: B. Dấu và (&)
+Answer: C. Dấu cộng (+)
+Answer: D. Dấu nháy kép (“”)
+Correct Answer: Dấu nháy kép (“”)
+Correct Symbol: D
+--------------------
+Question 81: Trong các giao thức sau giao thức nào là giao thức truyền file (tệp)?
+Answer: A. FTP
+Answer: B. Telnet
+Answer: C. NFS
+Answer: D. SMTP
+Correct Answer: FTP
+Correct Symbol: A
+--------------------
+Question 82: Khi sử dụng các dịch vụ Webmail, khẳng định nào sau đây là đúng?
+Answer: A. Vấn đề bảo mật thư hoàn toàn phụ thuộc vào nhà cung cấp.
+Answer: B. Có thể sử dụng Webmail ngay cả khi không kết nối Internet.
+Answer: C. Kích thước hộp thư không bị hạn chế.
+Answer: D. Hầu hết các dịch vụ Webmail có tính phí.
+Correct Answer: Vấn đề bảo mật thư hoàn toàn phụ thuộc vào nhà cung cấp.
+Correct Symbol: A
+--------------------
+Question 83: Dịch vụ Telnet là gì?
+Answer: A. Là dịch vụ nhắn tin trên mạng Internet
+Answer: B. Là dịch vụ cho phép người sử dụng kết nối đến một máy chủ ở xa để sử dụng máy tính đó như máy của mình.
+Answer: C. Là dịch vụ tìm kiếm trên mạng Internet
+Answer: D. Là dịch vụ cung cấp thông tin qua mạng
+Correct Answer: Là dịch vụ cho phép người sử dụng kết nối đến một máy chủ ở xa để sử dụng máy tính đó như máy của mình.
+Correct Symbol: B
+--------------------
+Question 84: Chương trình nào dưới đây cho phép bạn tải tệp tin từ Intenet xuống máy tính của bạn?
+Answer: A. FOXIT READER
+Answer: B. DMI
+Answer: C. IDM
+Answer: D. MDI
+Correct Answer: IDM
+Correct Symbol: C
+--------------------
+Question 85: Khi sử dụng Google, nếu bạn chỉ muốn tìm kiếm các trang web thương mại mà có chứa cụm từ kinh tế thì trong ô tìm kiếm bạn gõ vào từ khóa nào sau đây?
+Answer: A. “kinh tế” site:org
+Answer: B. “kinh tế” site:com
+Answer: C. “kinh tế” type:org
+Answer: D. “kinh tế” type:com
+Correct Answer: “kinh tế” site:com
+Correct Symbol: B
+--------------------
+Question 86: Để có thể trò chuyện trực tuyến với bạn bè trên Internet bạn sử dụng dịch vụ nào sau đây?
+Answer: A. Dịch vụ diễn đàn.
+Answer: B. Dịch vụ Chat.
+Answer: C. Dịch vụ web.
+Answer: D. Dịch vụ thư điện tử.
+Correct Answer: Dịch vụ Chat.
+Correct Symbol: B
+--------------------
+Question 87: Hệ thống thư điện tử được chia làm hai phần: MUA và MTA. MTA là viết tắt của cụm từ tiếng Anh nào?
+Answer: A. Message Transfer Agent.
+Answer: B. Message Transfer Application.
+Answer: C. Mail Transfer Agent.
+Answer: D. Mail Transfer Application.
+Correct Answer: Message Transfer Agent.
+Correct Symbol: A
+--------------------
+Question 88: Dịch vụ tải tệp tin được dùng để làm gì?
+Answer: A. Để thảo luận trực tuyến với bạn học thông qua Internet.
+Answer: B. Để lấy dữ liệu từ trên mạng Internet xuống máy tính của bạn.
+Answer: C. Để tham gia thảo luận về những nội dung mình quan tâm.
+Answer: D. Để xem các trang tài liệu siêu văn bản (trang web) trên Internet.
+Correct Answer: Để lấy dữ liệu từ trên mạng Internet xuống máy tính của bạn.
+Correct Symbol: B
+--------------------
+Question 89: IM là viết tắt của từ tiếng Anh nào dưới đây?
+Answer: A. Invite Message.
+Answer: B. Important Message.
+Answer: C. Instant Message.
+Answer: D. Internet Message.
+Correct Answer: Instant Message.
+Correct Symbol: C
+--------------------
+Question 90: Khi sử dụng công cụ tìm kiếm Google, nếu muốn kết quả trả về là các trang Web vừa chứa cụm từ: kinh tế, vừa chứa cụm từ quốc dân thì trong ô tìm kiếm bạn nhập vào từ khóa nào sau đây?
+Answer: A. kinh tế quốc dân
+Answer: B. “kinh tế” - “quốc dân”
+Answer: C. “kinh tế quốc dân”
+Answer: D. “kinh tế” + “quốc dân”
+Correct Answer: “kinh tế” + “quốc dân”
+Correct Symbol: D
+--------------------
+Question 91: Trong số các phần mềm sau, phần mềm nào không hỗ trợ chức năng chat?
+Answer: A. Windows Live Messenger
+Answer: B. Yahoo Messenger
+Answer: C. Skype
+Answer: D. IDM
+Correct Answer: IDM
+Correct Symbol: D
+--------------------
+Question 92: Việc ghi nhớ địa chỉ email của người khác là khá khó khăn. Chức năng nào dưới đây của dịch vụ Mail hỗ trợ bạn trong việc ghi nhớ địa chỉ email?
+Answer: A. Đính kèm tệp tin.
+Answer: B. Kiểm tra thư.
+Answer: C. Danh bạ.
+Answer: D. Lịch.
+Correct Answer: Danh bạ.
+Correct Symbol: C
+--------------------
+Question 93: FTP là viết tắt của cụm từ tiếng Anh nào?
+Answer: A. File Transmission Program.
+Answer: B. File Transfer Protocol.
+Answer: C. File Transmission Protocol.
+Answer: D. File Transfer Program.
+Correct Answer: File Transfer Protocol.
+Correct Symbol: B
+--------------------
+Question 94: Chọn khẳng định đúng nhất và đầy đủ nhất?
+Answer: A. Sau khi đăng nhập Email của Google, sinh viên có thể đọc thư, trả lời thư; chuyển tiếp thư; và xóa thư do người khác gửi tới.
+Answer: B. Sau khi đăng nhập Email của Google, sinh viên có thể trả lời thư mà bạn cùng lớp gửi tới.
+Answer: C. Sau khi đăng nhập Email của Google, sinh viên có thể gửi thư tới bạn cùng lớp.
+Answer: D. Sau khi đăng nhập Email của Google, sinh viên có thể đọc thư mà bạn cùng lớp gửi tới.
+Correct Answer: Sau khi đăng nhập Email của Google, sinh viên có thể đọc thư, trả lời thư; chuyển tiếp thư; và xóa thư do người khác gửi tới.
+Correct Symbol: A
+--------------------
+Question 95: Để một máy tính nối mạng truy cập được đến một WebSite cụ thể cần biết thông tin gì?
+Answer: A. Nơi lưu trữ WebSite
+Answer: B. Nội dung của WebSite
+Answer: C. Địa chỉ đơn vị thiết lập trang Web
+Answer: D. Địa chỉ WebSite dưới dạng URL (địa chỉ nguồn thống nhất)
+Correct Answer: Địa chỉ WebSite dưới dạng URL (địa chỉ nguồn thống nhất)
+Correct Symbol: D
+--------------------
+Question 96: Để chia sẻ thông tin về những vấn đề cùng quan tâm thông qua việc tạo chủ đề, đăng bài, phản hồi… bạn sử dụng dịch vụ nào sau đây?
+Answer: A. Dịch vụ thư điện tử.
+Answer: B. Dịch vụ diễn đàn.
+Answer: C. Dịch vụ Chat.
+Answer: D. Dịch vụ Web.
+Correct Answer: Dịch vụ diễn đàn.
+Correct Symbol: B
+--------------------
+Question 97: Chọn khẳng định đúng?
+Answer: A. Một từ là sự kết hợp các chữ cái hoặc các số với nhau trong đó bao gồm các khoảng trống.
+Answer: B. Kết quả bạn tìm được khi sử dụng các trang web khác nhau là giống nhau.
+Answer: C. Trong câu điều kiện được nhập số kí tự trống giữa các từ làm thay đổi kết quả tìm kiếm.
+Answer: D. Máy tìm kiếm không phân biệt chữ hoa và chữ thường trong câu điều kiện.
+Correct Answer: Máy tìm kiếm không phân biệt chữ hoa và chữ thường trong câu điều kiện.
+Correct Symbol: D
+--------------------
+Question 98: Khi sử dụng ứng dụng Mail, thư mục nào dưới đây chứa các thư được gửi đến cho bạn?
+Answer: A. Inbox
+Answer: B. Drafts
+Answer: C. Sent
+Answer: D. Deleted
+Correct Answer: Inbox
+Correct Symbol: A
+--------------------
+Question 99: Trong số các chương trình gửi và nhận thư điện tử dưới đây, chương trình nào được phát triển bởi Microsoft?
+Answer: A. Gmail
+Answer: B. Neo Mail
+Answer: C. Outlook
+Answer: D. Yahoo Mail
+Correct Answer: Outlook
+Correct Symbol: C
+--------------------
+Question 100: Khi tìm kiếm bằng Google để tìm kiếm kết hợp bạn sử dụng dấu nào?
+Answer: A. Dấu và (&)
+Answer: B. Dấu nháy kép (“”)
+Answer: C. Dấu trừ (-)
+Answer: D. Dấu cộng (+)
+Correct Answer: Dấu cộng (+)
+Correct Symbol: D
+--------------------
+Question 101: Sau khi hiển thị trang web, bạn có thể bấm chuột vào các liên kết trên trang web để xem tiếp các nội dung bên trong. Nếu muốn nội dung của các trang Web sau hiển thị trong một cửa sổ mới bạn làm như thế nào?
+Answer: A. Click chuột phải vào liên kết, sau đó chọn Open in New Window.
+Answer: B. Click chuột phải vào liên kết, sau đó chọn Open.
+Answer: C. Click chuột phải vào liên kết, sau đó chọn Browser in New Window.
+Answer: D. Click chuột trái vào liên kết, sau đó chọn Open in New Window.
+Correct Answer: Click chuột phải vào liên kết, sau đó chọn Open in New Window.
+Correct Symbol: A
+--------------------
+Question 102: Trong quá trình duyệt Web, bạn không thể thực hiện thao tác nào dưới đây?
+Answer: A. Lưu trang Web.
+Answer: B. In trang Web.
+Answer: C. Chỉnh sửa nội dung trang Web.
+Answer: D. Đưa trang Web vào danh mục các trang yêu thích.
+Correct Answer: Chỉnh sửa nội dung trang Web.
+Correct Symbol: C
+--------------------
+Question 103: Theo Sloan Consortium lớp học nào dưới đây là lớp học truyền thống?
+Answer: A. Không có nội dung được truyền tải bằng công nghệ Internet.
+Answer: B. Kết hợp giữa công nghệ Internet và truyền thống. Sinh viên và thầy có những gặp gỡ, trao đổi trên Internet và có cả những buổi gặp trực tiếp.
+Answer: C. Tất cả nội dung trên Internet; không có gặp trực tiếp.
+Answer: D. Sử dụng Internet để đăng tải các học liệu như đề cương; bài tập; bài giảng. Sinh viên và thầy gặp gỡ trực tiếp(mặt giáp mặt).
+Correct Answer: Không có nội dung được truyền tải bằng công nghệ Internet.
+Correct Symbol: A
+--------------------
+Question 104: Theo quan điểm của cơ sở đào tạo, đâu KHÔNG phải là ưu điểm khi chuyển đổi các khoá học truyền thống sang khoá học e-learning?
+Answer: A. Giảng viên và sinh viên không phải đi lại nhiều.
+Answer: B. Lợi ích của việc học trên mạng vẫn chưa được khẳng định.
+Answer: C. Giảm chi phí tổ chức và quản lý đào tạo.
+Answer: D. Tổng hợp được kiến thức.
+Correct Answer: Lợi ích của việc học trên mạng vẫn chưa được khẳng định.
+Correct Symbol: B
+--------------------
+Question 105: Trong quá trình học e-learning, đâu không phải là 1 trong 4 hoạt động chính của sinh viên e-learning?
+Answer: A. Thực hành.
+Answer: B. Lướt web.
+Answer: C. Thảo luận.
+Answer: D. Thi cử.
+Correct Answer: Lướt web.
+Correct Symbol: B
+--------------------
+Question 106: Theo Sloan Consortium thì lớp học áp dụng Internet ở mức nào KHÔNG phải là lớp học E-learning?
+Answer: A. Nhóm A và nhóm B.
+Answer: B. Nhóm B và nhóm C.
+Answer: C. Chỉ có nhóm D.
+Answer: D. Nhóm C và nhóm D.
+Correct Answer: Nhóm A và nhóm B.
+Correct Symbol: A
+--------------------
+Question 107: Khi sử dụng Website của chương trình elearning, sinh viên KHÔNG thể làm gì?
+Answer: A. Thay đổi tên đăng nhập.
+Answer: B. Tìm kiếm lớp học.
+Answer: C. Thay đổi thông tin cá nhân.
+Answer: D. Thay đổi mật khẩu.
+Correct Answer: Thay đổi tên đăng nhập.
+Correct Symbol: A
+--------------------
+Question 108: Trong quy trình học tập E-learning của sinh viên, ở bước Học tập gồm có bốn hoạt động chính, đó là những hoạt động nào?
+Answer: A. Tiếp thu bài giảng; Gặp gỡ giáo viên; Luyện tập; Thi cử.
+Answer: B. Tìm hiểu thông tin lớp học; Tiếp thu bài giảng; Thảo luận; Kiểm tra và thi kết thúc môn học.
+Answer: C. Tham gia câu lạc bộ học tập; Thảo luận, Luyện tập; Thi cử.
+Answer: D. Tiếp thu bài giảng; Tương tác; Luyện tập; Kiểm tra và thi kết thúc môn học.
+Correct Answer: Tiếp thu bài giảng; Tương tác; Luyện tập; Kiểm tra và thi kết thúc môn học.
+Correct Symbol: D
+--------------------
+Question 109: Hệ thống TNU-Elearing sẽ gửi thông tin tài khoản đăng nhập cho học viên theo hình thức nào?
+Answer: A. Cuộc gọi qua điện thoại
+Answer: B. Thư điện tử vào hộp mail.
+Answer: C. Tin nhắn SMS
+Answer: D. Thư giấy qua đường bưu điện
+Correct Answer: Thư điện tử vào hộp mail.
+Correct Symbol: B
+--------------------
+Question 110: Đâu là định nghĩa của Lance Dublin, hướng tới e-learning trong doanh nghiệp?
+Answer: A. “E-learning nghĩa là việc học tập hay đào tạo được chuẩn bị, truyền tải hoặc quản lý sử dụng nhiều công cụ của công nghệ thông tin, truyền thông khác nhau và được thực hiện ở mức cục bộ hay toàn cục”.
+Answer: B. “E-learning là một thuật ngữ dùng để mô tả việc học tập, đào tạo dựa trên công nghệ thông tin và truyền thông”.
+Answer: C. “Việc sử dụng công nghệ để tạo ra, đưa các dữ liệu có giá trị, thông tin, học tập và kiến thức với mục đích nâng cao hoạt động của tổ chức và phát triển khả năng cá nhân”.
+Answer: D. “Việc học tập được truyền tải hoặc hỗ trợ qua công nghệ điện tử. Việc truyền tải qua nhiều kĩ thuật khác nhau như Internet, TV, video tape, các hệ thống giảng dạy thông minh, và việc đào tạo dựa trên máy tính”.
+Correct Answer: “Việc sử dụng công nghệ để tạo ra, đưa các dữ liệu có giá trị, thông tin, học tập và kiến thức với mục đích nâng cao hoạt động của tổ chức và phát triển khả năng cá nhân”.
+Correct Symbol: C
+--------------------
+Question 111: Để đánh giá kiến thức của sinh viên, các lớp học E-Learning chủ yếu dựa vào loại bài tập nào dưới đây?
+Answer: A. Bài tập nhóm.
+Answer: B. Bài tập trắc nghiệm trực tuyến.
+Answer: C. Bài tập thực hành kỹ năng làm tại nhà.
+Answer: D. Bài tập tự luận làm tại nhà.
+Correct Answer: Bài tập trắc nghiệm trực tuyến.
+Correct Symbol: B
+--------------------
+Question 112: Trong số các đặc điểm sau, đâu không phải là đặc điểm của hệ thống E-Learning?
+Answer: A. Học mọi lúc, mọi nơi.
+Answer: B. Học không có sự hợp tác, phối hợp.
+Answer: C. Cập nhật mới nhanh.
+Answer: D. Nội dung thay đổi phù hợp cho từng cá nhân.
+Correct Answer: Học không có sự hợp tác, phối hợp.
+Correct Symbol: B
+--------------------
+Question 113: Đâu không phải là một trong các yêu cầu kỹ thuật của một hệ thống LMS điển hình?
+Answer: A. Có khả năng tích hợp ứng dụng thư điện tử.
+Answer: B. Sử dụng lại, quản lý và phân phối nội dung học tập trong môi trường số từ một kho dữ liệu trung tâm.
+Answer: C. Được thiết kế theo module để có thể dễ dàng nâng cấp trong tương lai.
+Answer: D. Tương thích với các trình duyệt chuẩn.
+Correct Answer: Sử dụng lại, quản lý và phân phối nội dung học tập trong môi trường số từ một kho dữ liệu trung tâm.
+Correct Symbol: B
+--------------------
+Question 114: Chọn phát biểu SAI?
+Answer: A. E-learning là một thuật ngữ dùng để mô tả việc học tập không dựa trên công nghệ thông tin và truyền thông.
+Answer: B. E-learning nghĩa là việc học tập hay đào tạo được chuẩn bị, truyền tải hoặc quản lý sử dụng nhiều công cụ của công nghệ thông tin, truyền thông khác nhau và được thực hiện ở mức cục bộ hay toàn cục.
+Answer: C. E-learning là sử dụng các công nghệ Web và Internet trong học tập.
+Answer: D. E-learning là viết tắt của từ Electronic Learning.
+Correct Answer: E-learning là một thuật ngữ dùng để mô tả việc học tập không dựa trên công nghệ thông tin và truyền thông.
+Correct Symbol: A
+--------------------
+Question 115: Trong quá trình phát triển E-learning, ở giai đoạn 1984-1993, có thể tạo ra các bài giảng có tích hợp hình ảnh và âm thanh dựa trên công nghệ CBT. CBT là viết tắt của cụm từ tiếng Anh nào?
+Answer: A. Computer Based Training.
+Answer: B. Content Based Training.
+Answer: C. Computer Basic Technology
+Answer: D. Content Big Technology.
+Correct Answer: Computer Based Training.
+Correct Symbol: A
+--------------------
+Question 116: Đâu là đặc điểm của E-Learning?
+Answer: A. Nội dung khóa học không được cập nhật.
+Answer: B. Sinh viên và giảng viên thường xuyên gặp mặt trực tiếp ở lớp học.
+Answer: C. Học không có sự hợp tác, phối hợp.
+Answer: D. Tiến trình học được theo dõi chặt chẽ và cung cấp công cụ tự đánh giá.
+Correct Answer: Tiến trình học được theo dõi chặt chẽ và cung cấp công cụ tự đánh giá.
+Correct Symbol: D
+--------------------
+Question 117: Theo định nghĩa của Compare Infobase Inc thì E-Learning là gì?
+Answer: A. E-learning là sử dụng các công nghệ Web và Internet trong học tập.
+Answer: B. E-learning là viết tắt của từ Electronic Learning.
+Answer: C. E-learning nghĩa là việc học tập hay đào tạo được chuẩn bị, truyền tải hoặc quản lý sử dụng nhiều công cụ của công nghệ thông tin, truyền thông khác nhau và được thực hiện ở mức cục bộ hay toàn cục.
+Answer: D. E-learning là một thuật ngữ dùng để mô tả việc học tập, đào tạo dựa trên công nghệ thông tin và truyền thông.
+Correct Answer: E-learning là một thuật ngữ dùng để mô tả việc học tập, đào tạo dựa trên công nghệ thông tin và truyền thông.
+Correct Symbol: D
+--------------------
+Question 118: Đâu KHÔNG phải là hệ thống hỗ trợ học tập trong môi trường elearning?
+Answer: A. Hệ thống gửi tin nhắn đến giảng viên.
+Answer: B. Hệ thống phần mềm quản lý truy cập mạng Internet.
+Answer: C. Hệ thống thư điện tử của NEU-ELEARNING.
+Answer: D. Hệ thống diễn đàn.
+Correct Answer: Hệ thống phần mềm quản lý truy cập mạng Internet.
+Correct Symbol: B
+--------------------
+Question 119: Đối với các lớp học E-Learning, khẳng định nào dưới đây là đúng?
+Answer: A. Sinh viên có thể làm các bài tập về nhà tính điểm mà không bị giới hạn thời gian làm bài.
+Answer: B. Sinh viên chỉ có thể làm các bài luyện tập trắc nghiệm không tính điểm tối đa là 10 lần.
+Answer: C. Sinh viên có thể làm các bài luyện tập trắc nghiệm không tính điểm bất cứ lúc nào.
+Answer: D. Sinh viên có thể làm các bài tập về nhà tính điểm bất cứ lúc nào.
+Correct Answer: Sinh viên có thể làm các bài luyện tập trắc nghiệm không tính điểm bất cứ lúc nào.
+Correct Symbol: C
+--------------------
+Question 120: Theo định nghĩa của William Horton thì E-Learning là gì?
+Answer: A. E-learning là sử dụng các công nghệ Web và Internet trong học tập.
+Answer: B. E-learning là viết tắt của từ Electronic Learning.
+Answer: C. E-learning là một thuật ngữ dùng để mô tả việc học tập, đào tạo dựa trên công nghệ thông tin và truyền thông.
+Answer: D. E-learning nghĩa là việc học tập hay đào tạo được chuẩn bị, truyền tải hoặc quản lý sử dụng nhiều công cụ của công nghệ thông tin, truyền thông khác nhau và được thực hiện ở mức cục bộ hay toàn cục.
+Correct Answer: E-learning là sử dụng các công nghệ Web và Internet trong học tập.
+Correct Symbol: A
+--------------------
+Question 121: Khi nói về kiến trúc Web để phát triển hệ thống E-learning, có 2 phát biểu như sau: PB1: Mô hình kiến trúc Web không cho phép tăng cường sự tương hợp và mở rộng trên cơ sở hạ tầng mạng và các ứng dụng khác nhau sẵn có trên thị trường e-learning. PB2: Mô hình kiến trúc Web cho phép phát triển và sử dụng Intranet cũng như các dịch vụ Internet công cộng. Điều đó cho phép việc lựa chọn các công nghệ mạng là hoàn toàn trong suốt đối với các đơn vị phát triển nội dung và các nhà cung cấp dịch vụ. Hỏi khẳng định nào sau đây là đúng?
+Answer: A. PB1 sai, PB2 sai.
+Answer: B. PB1 đúng, PB2 sai.
+Answer: C. PB1 sai, PB2 đúng.
+Answer: D. PB1 đúng, PB2 đúng.
+Correct Answer: PB1 sai, PB2 đúng.
+Correct Symbol: C
+--------------------
+Question 122: Trong quá trình sử dụng diễn đàn lớp học, sinh viên KHÔNG thể thực hiện thao tác nào dưới đây?
+Answer: A. Cho điểm đánh giá chủ đề thảo luận.
+Answer: B. Tải tệp tin kèm theo nội dung thảo luận.
+Answer: C. Tạo chủ đề mới để thảo luận.
+Answer: D. Xóa chủ đề thảo luận.
+Correct Answer: Xóa chủ đề thảo luận.
+Correct Symbol: D
+--------------------
+Question 123: Đâu không phải là một trong các yêu cầu giao diện người dùng của một hệ thống LMS điển hình?
+Answer: A. Hỗ trợ chức năng trợ giúp và hướng dẫn trực tuyến.
+Answer: B. Không cho phép thiết lập nhiều giao diện riêng biệt cho các nhóm người dùng khác nhau.
+Answer: C. Hỗ trợ giao diện người dùng trên cơ sở trình duyệt Web.
+Answer: D. Có khả năng tùy chỉnh và thân thiện người dùng.
+Correct Answer: Không cho phép thiết lập nhiều giao diện riêng biệt cho các nhóm người dùng khác nhau.
+Correct Symbol: B
+--------------------
+Question 124: Đâu không phải là một trong các yêu cầu điều khiển truy nhập và bảo mật của một hệ thống LMS điển hình?
+Answer: A. Không có khả năng hạn chế truy nhập tới dữ liệu/nội dung theo người dùng.
+Answer: B. Hỗ trợ các giao thức truy nhập và chứng thực, hạn chế truy nhập bằng ID người dùng và mật khẩu truy nhập.
+Answer: C. Hỗ trợ kiến trúc bảo mật đa lớp cho ứng dụng Web.
+Answer: D. Ngăn chặn các đăng ký trái phép.
+Correct Answer: Không có khả năng hạn chế truy nhập tới dữ liệu/nội dung theo người dùng.
+Correct Symbol: A
+--------------------
+Question 125: Khi nói về quá trình phát triển E-learning, có 2 phát biểu như sau: PB1: Trước năm 1983: phương pháp giáo dục “Lấy giảng viên làm trung tâm” là phương pháp phổ biến nhất trong các trường học. PB2: Giai đoạn 1984-1993: Khi công nghệ Web được phát minh ra, các nhà cung cấp dịch vụ đào tạo bắt đầu nghiên cứu cách thức cải tiến phương pháp giáo dục bằng công nghệ này. Hỏi khẳng định nào sau đây là đúng?
+Answer: A. PB1 đúng, PB2 đúng.
+Answer: B. PB1 sai, PB2 sai.
+Answer: C. PB1 sai, PB2 đúng.
+Answer: D. PB1 đúng, PB2 sai.
+Correct Answer: PB1 đúng, PB2 sai.
+Correct Symbol: D
+--------------------
+Question 126: Theo Sloan Consortium lớp học nào dưới đây là lớp học trực tuyến?
+Answer: A. Sử dụng Internet để đăng tải các học liệu như đề cương; bài tập; bài giảng. Sinh viên và thầy gặp gỡ trực tiếp (mặt giáp mặt).
+Answer: B. Tất cả nội dung trên Internet; không có gặp mặt trực tiếp.
+Answer: C. Không có nội dung được truyền tải bằng công nghệ Internet.
+Answer: D. Kết hợp giữa Internet và truyền thống. Sinh viên và thầy trao đổi trên Internet và có những buổi gặp trực tiếp.
+Correct Answer: Tất cả nội dung trên Internet; không có gặp mặt trực tiếp.
+Correct Symbol: B
+--------------------
+Question 127: Theo Sloan Consortium lớp học nào dưới đây được coi là lớp học sử dụng công nghệ Internet?
+Answer: A. Lớp học tập trung, thầy và trò gặp trực tiếp.
+Answer: B. Lớp học có 30 – 79% nội dung được truyền tải qua Internet.
+Answer: C. Lớp học có 0% nội dung được truyền tải qua Internet.
+Answer: D. Lớp học có 1-29% nội dung được truyền tải qua Internet.
+Correct Answer: Lớp học có 1-29% nội dung được truyền tải qua Internet.
+Correct Symbol: D
+--------------------
+Question 128: Trong mô hình hệ thống E-Learning không bao gồm thành phần nào?
+Answer: A. Hạ tầng truyền thông và mạng.
+Answer: B. Đội ngũ kỹ sư công nghệ thông tin.
+Answer: C. Nội dung đào tạo.
+Answer: D. Hạ tầng phần mềm.
+Correct Answer: Đội ngũ kỹ sư công nghệ thông tin.
+Correct Symbol: B
+--------------------
+Question 129: Chữ E trong cụm từ E-learning là viết tắt của từ tiêng Anh nào dưới đây?
+Answer: A. External
+Answer: B. Extent
+Answer: C. Email
+Answer: D. Electronic
+Correct Answer: Electronic
+Correct Symbol: D
+--------------------
+Question 130: Đâu không là mục đích khi phổ biến mục tiêu học tập trong e-learning?
+Answer: A. Để bạn biết được giảng viên nào sẽ giảng dạy.
+Answer: B. Tập trung vào những phần của nội dung bài học.
+Answer: C. Mô tả chính xác những gì bạn phải đạt được sau khi hoàn thành lớp học.
+Answer: D. Mô tả chi tiết kết quả mà người dạy muốn bạn phải hướng tới sau từng bài học.
+Correct Answer: Để bạn biết được giảng viên nào sẽ giảng dạy.
+Correct Symbol: A
+--------------------
+Question 131: LMS là viết tắt của cụm từ tiếng Anh nào?
+Answer: A. Learning Model Sharable.
+Answer: B. Learning Model Site.
+Answer: C. Learning Management Site.
+Answer: D. Learning Management System.
+Correct Answer: Learning Management System.
+Correct Symbol: D
+--------------------
+Question 132: Quy trình sinh viên học tập trên hệ thống e-learning KHÔNG bao gồm bước nào?
+Answer: A. Đăng ký học tập.
+Answer: B. Tìm hiểu thông tin lớp học.
+Answer: C. Học tập.
+Answer: D. Gặp gỡ giáo viên.
+Correct Answer: Gặp gỡ giáo viên.
+Correct Symbol: D
+--------------------
+Question 133: SCORM là viết tắt của cụm từ tiếng Anh nào?
+Answer: A. Site Content Object Reference Management.
+Answer: B. System Content Object Reference Management.
+Answer: C. School Communication Online Reference Model.
+Answer: D. Sharable Content Object Reference Model.
+Correct Answer: Sharable Content Object Reference Model.
+Correct Symbol: D
+--------------------
+Question 134: LCMS là viết tắt của cụm từ tiếng Anh nào?
+Answer: A. Learning Content Managerment System.
+Answer: B. Lecture Control Model Sharable.
+Answer: C. Learning Content Model Site.
+Answer: D. Lecture Content Management Site.
+Correct Answer: Learning Content Managerment System.
+Correct Symbol: A
+--------------------
+Question 135: Theo đánh giá chung của Sloan Consortium thì các lớp học có áp dụng công nghệ Internet ở nhóm nào thì được coi là những lớp học E-learning?
+Answer: A. Nhóm A và nhóm B.
+Answer: B. Chỉ có nhóm D.
+Answer: C. Nhóm B và nhóm C.
+Answer: D. Nhóm C và nhóm D.
+Correct Answer: Nhóm C và nhóm D.
+Correct Symbol: D
+--------------------
+Question 136: Mô hình SCORM do tổ chức nào đưa ra?
+Answer: A. Quỹ khoa học quốc gia Mỹ (NSF).
+Answer: B. Trường đại học tổng hợp Utah.
+Answer: C. Viện Nghiên cứu Standford.
+Answer: D. Viện nghiên cứu công nghệ giáo dục từ xa (ADL).
+Correct Answer: Viện nghiên cứu công nghệ giáo dục từ xa (ADL).
+Correct Symbol: D
+--------------------
