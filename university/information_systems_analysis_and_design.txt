@@ -1,0 +1,416 @@
+Question 1: Hệ thống là:
+Answer: A. Một tập hợp của nhiều thành phần độc lập với nhau.
+Answer: B. Một phần mềm hoàn chỉnh để phục vụ cho một tổ chức.
+Answer: C. Một tập hợp các phần tử có trao đổi tương tác với nhau và tương tác với môi trường nhằm đạt được mục tiêu chung.
+Answer: D. Một tập hợp của nhiều tổ chức có mối liên hệ với nhau.
+Correct Answer: Một tập hợp các phần tử có trao đổi tương tác với nhau và tương tác với môi trường nhằm đạt được mục tiêu chung.
+Correct Symbol: C
+--------------------
+Question 2: Những mục đích của việc thiết kế hệ thống thông tin được thiết lập trong giai đoạn nào của dự án?
+Answer: A. Giai đoạn phân tích của dự án.
+Answer: B. Giai đoạn khởi tạo thiết kế của dự án.
+Answer: C. Giai đoạn kết thúc dự án.
+Answer: D. Giai đoạn tiền phân tích của dự án.
+Correct Answer: Giai đoạn phân tích của dự án.
+Correct Symbol: A
+--------------------
+Question 3: Nếu coi một hệ thống máy tính là một hệ thống thông tin thì người sử dụng của hệ thống máy tính đó là một phần của:
+Answer: A. Những người quản lý hệ Thống thông tin.
+Answer: B. Những người bảo trì hệ thống thông tin
+Answer: C. Những người sử dụng của hệ thống thông tin.
+Answer: D. Môi trường của hệ thống thông tin.
+Correct Answer: Môi trường của hệ thống thông tin.
+Correct Symbol: D
+--------------------
+Question 4: Trong một hệ thống thông tin, thông tin đúng, tới đúng người, vào đúng lúc, được đảm bảo bởi:
+Answer: A. Các thiết bị của hệ thống.
+Answer: B. Các thủ tục của hệ thống.
+Answer: C. Con người của hệ thống.
+Answer: D. Môi trường của hệ thống
+Correct Answer: Các thủ tục của hệ thống.
+Correct Symbol: B
+--------------------
+Question 5: Thứ tự của những hoạt động chủ yếu của một dự án hệ thống thông tin là:
+Answer: A. Phân tích, thiết kế, xây dựng. 
+Answer: B. Thiết kế, phân tích, xây dựng. 
+Answer: C. Phân tích, xây dựng, thiết kế. 
+Answer: D. Thiết kế, xây dựng, phân tích. 
+Correct Answer: Phân tích, thiết kế, xây dựng.
+Correct Symbol: A
+--------------------
+Question 6: Chức năng chính của một hệ thống thông tin là:
+Answer: A. Chức năng phục vụ.
+Answer: B. Chức năng mua sắm. 
+Answer: C. Chức năng thao tác.
+Answer: D. Chức năng kỹ thuật.
+Correct Answer: Chức năng phục vụ.
+Correct Symbol: A
+--------------------
+Question 7: Mọi hệ thống thông tin cần liên tục nâng cấp vì:
+Answer: A. Nhu cầu của người sử dụng tiếp tục phát triển.
+Answer: B. Các thiết bị phần cứng bị hỏng hóc thường xuyên. 
+Answer: C. Các kế hoạch của người sử dụng tiếp tục thay đổi.
+Answer: D. Một hệ thống phát triển đầy đủ ngay từ khi bắt đầu là điều không thể.
+Correct Answer: Nhu cầu của người sử dụng tiếp tục phát triển.
+Correct Symbol: A
+--------------------
+Question 8: Quá trình phát triển Hệ Thống thông tin gồm các giai đoạn:
+Answer: A. Lập kế hoạch dự án, phân tích hệ thống, thiết kế hệ thống, thiết lập các chương trình và thử nghiệm, cài đặt và chuyển đổi hệ thống, vận hành và bảo trì
+Answer: B. Phân tích hệ thống, thiết kế hệ thống, vận hành và bảo trì
+Answer: C. Phân tích hệ thống, thiết kế hệ thống, các chương trình và thử nghiệm.
+Answer: D. Lập kế hoạch dự án, phân tích hệ thống, thiết kế hệ thống, vận hành và bảo trì
+Correct Answer: Lập kế hoạch dự án, phân tích hệ thống, thiết kế hệ thống, thiết lập các chương trình và thử nghiệm, cài đặt và chuyển đổi hệ thống, vận hành và bảo trì
+Correct Symbol: A
+--------------------
+Question 9: Một hệ thống thông tin được tạo thành bởi:
+Answer: A. Cơ sở dữ liệu, xử lý và con người.
+Answer: B. Con người, thủ tục và môi trường. 
+Answer: C. Thiết bị, thủ tục và môi trường. 
+Answer: D. Con người, thiết bị và các thủ tục. 
+Correct Answer: Con người, thiết bị và các thủ tục.
+Correct Symbol: D
+--------------------
+Question 10: Môi trường của một hệ thống thông tin:
+Answer: A. Tác động đến Hệ thống và nhận tác động từ hệ thống.
+Answer: B. Tác động đến Hệ thống nhưng không nhận tác động từ Hệ thống.
+Answer: C. Không tác động đến hệ thống và không nhận sự tác động từ hệ thống
+Answer: D. Không tác động đến Hệ thống nhưng nhận tác động từ Hệ thống.
+Correct Answer: Tác động đến Hệ thống nhưng không nhận tác động từ Hệ thống.
+Correct Symbol: B
+--------------------
+Question 11: Các hoạt động bảo trì và phát triển hệ thống thông tin cần ba loại chuyên gia:
+Answer: A. Cài đặt, sửa chữa, phân tích.
+Answer: B. Phân tích, thiết kế, lập trình.
+Answer: C. Phân tích, lập trình, cài đặt.
+Answer: D. Sửa chữa, phân tích, cài đặt.
+Correct Answer: Phân tích, lập trình, cài đặt.
+Correct Symbol: C
+--------------------
+Question 12: Phân tích hệ thống thông tin cố gắng tìm kiếm…
+Answer: A. Những vấn đề tồn tại của hệ thống thông tin hiện tại.
+Answer: B. Phương pháp để được chấp nhận đối với việc thiết kế.
+Answer: C. Yêu cầu của người dùng.
+Answer: D. Những vấn đề của hệ thống được đề xuất.
+Correct Answer: Những vấn đề tồn tại của hệ thống thông tin hiện tại.
+Correct Symbol: A
+--------------------
+Question 13: Hai trong số những thành phần cơ bản của hệ thống thông tin?
+Answer: A. Các điều khiển và các xử lý.
+Answer: B. Các dữ liệu và các thông tin.
+Answer: C. Các dữ liệu và các xử lý.
+Answer: D. Các dữ liệu và các điều khiển.
+Correct Answer: Các dữ liệu và các xử lý.
+Correct Symbol: C
+--------------------
+Question 14: Một hệ thống con của một hệ thống thông tin có thể được xem là một hệ thống thông tin độc lập. Giống như vậy, một hệ thống con của một hệ thống máy tính có thể được coi là một:
+Answer: A. Hệ thống máy tính.
+Answer: B. Hệ thống mở.
+Answer: C. Hệ thống phần cứng.
+Answer: D. Hệ thống thông tin.
+Correct Answer: Hệ thống thông tin.
+Correct Symbol: D
+--------------------
+Question 15: Sự khác nhau giữa Biểu đồ phân cấp chức năng với sơ đồ tổ chức của một cơ quan là?
+Answer: A. Tên mỗi chức năng được thể hiện trong sơ đồ.
+Answer: B. Không có sự khác nhau giữa hai biểu đồ.
+Answer: C. Cấu trúc sơ đồ phân cấp của hệ thống
+Answer: D. Tên chức năng và cấu trúc cây phân cấp.
+Correct Answer: Tên chức năng và cấu trúc cây phân cấp.
+Correct Symbol: D
+--------------------
+Question 16: Phân tích hệ thống thông tin cố gắng tìm kiếm:
+Answer: A. Yêu cầu của người dùng.
+Answer: B. Phương pháp để được chấp nhận đối với việc thiết kế.
+Answer: C. Những vấn đề tồn tại của hệ thống thông tin hiện tại.
+Answer: D. Những vấn đề của hệ thống được đề xuất.
+Correct Answer: Những vấn đề tồn tại của hệ thống thông tin hiện tại.
+Correct Symbol: C
+--------------------
+Question 17: Thuật ngữ “Sổ tay hoạt động” được dùng trong tài liệu hệ thống cho:
+Answer: A. Người sử dụng hệ thống.
+Answer: B. Nhà tài trợ.
+Answer: C. Nhà quản trị người sử dụng.
+Answer: D. Nhân viên hệ thống.
+Correct Answer: Nhân viên hệ thống.
+Correct Symbol: D
+--------------------
+Question 18: Về sự phát triển của hệ thống lớn, chu kỳ phát triển hệ thống tuyến tính được sửa đổi để trở thành:
+Answer: A. Chu kỳ tuyến tính vòng 
+Answer: B. Chu kỳ thiết kế giai đoạn
+Answer: C. Chu kỳ thiết kế tiến triển
+Answer: D. Chu trình thiết kế lặp
+Correct Answer: Chu kỳ thiết kế giai đoạn
+Correct Symbol: B
+--------------------
+Question 19: SQL là một ngôn ngữ đặc biệt có lợi cho việc thiết kế nào dưới đây?
+Answer: A. Các tiến trình.
+Answer: B. Các file dữ liệu.
+Answer: C. Các câu hỏi.
+Answer: D. Các báo cáo.
+Correct Answer: Các câu hỏi.
+Correct Symbol: C
+--------------------
+Question 20: Tên của chức năng trong mô hình phân cấp chức năng thường được khuyến cáo nên dùng là:
+Answer: A. Danh từ
+Answer: B. Động từ
+Answer: C. Trạng từ
+Answer: D. Tính từ
+Correct Answer: Động từ
+Correct Symbol: B
+--------------------
+Question 21: Các bảng cấu trúc bao gồm các mức hệ thống con trong đó
+Answer: A. Các hệ thống con mức thấp hơn là phần mở rộng của các hệ thống mức cao hơn.
+Answer: B. Các hệ thống mức thấp hơn cung cấp đầu vào cho các hệ thống mức cao hơn.
+Answer: C. Các hệ thống ngang hàng đồng mức.
+Answer: D. Các hệ thống mức cao hơn sử dụng các hệ thống con mức thấp hơn.
+Correct Answer: Các hệ thống mức cao hơn sử dụng các hệ thống con mức thấp hơn.
+Correct Symbol: D
+--------------------
+Question 22: Hai thành phần cơ bản của hệ thống thông tin
+Answer: A. Các dữ liệu và các xử lý
+Answer: B. Các dữ liệu và các điều khiển
+Answer: C. Các dữ liệu và các thông tin.
+Answer: D. Các điều khiển và các xử lý.
+Correct Answer: Các dữ liệu và các xử lý
+Correct Symbol: A
+--------------------
+Question 23: Sự không thuận lợi của chu kỳ tuyến tính vòng là:
+Answer: A. Sự phức tạp trong bổ sung.
+Answer: B. Làm chậm tiến độ làm việc do lặp lại. 
+Answer: C. Lỗi được lờ đi. 
+Answer: D. Phát hiện lỗi kịp thời.  
+Correct Answer: Làm chậm tiến độ làm việc do lặp lại.
+Correct Symbol: B
+--------------------
+Question 24: Trong chu kỳ phát triển hệ thống tuyến tính, Việc nghiên cứu tính khả thi được tiến hành theo thứ tự:
+Answer: A. Kỹ thuật, kinh tế, sự hoạt động.
+Answer: B. Sự hoạt động, kỹ thuật, kinh tế.
+Answer: C. Kỹ thuật, sự hoạt động, kinh tế.
+Answer: D. Kinh tế, kỹ thuật, sự hoạt động.
+Correct Answer: Kỹ thuật, sự hoạt động, kinh tế.
+Correct Symbol: C
+--------------------
+Question 25: Quá trình phát triển Hệ Thống thông tin gồm các công đoạn
+Answer: A. Phân tích hệ thống, thiết kế hệ thống, vận hành và bảo trì
+Answer: B. Phân tích hệ thống, thiết kế hệ thống, các chương trình và thử nghiệm.
+Answer: C. Lập kế hoạch dự án, phân tích hệ thống, thiết kế hệ thống, vận hành và bảo trì
+Answer: D. Lập kế hoạch dự án, phân tích hệ thống, thiết kế hệ thống, thiết lập các chương trình và thử nghiệm, cài đặt và chuyển đổi hệ thống, vận hành và bảo trì
+Correct Answer: Lập kế hoạch dự án, phân tích hệ thống, thiết kế hệ thống, thiết lập các chương trình và thử nghiệm, cài đặt và chuyển đổi hệ thống, vận hành và bảo trì
+Correct Symbol: D
+--------------------
+Question 26: Những hệ thống con của một hệ thống thông tin phải có:
+Answer: A. Mức độ độc lập toàn thể cao.
+Answer: B. Phụ thuộc hoàn toàn vào nhau.
+Answer: C. Mức độ độc lập với mỗi phần tử cao
+Answer: D. Tách biệt toàn bộ khỏi nhau.
+Correct Answer: Mức độ độc lập với mỗi phần tử cao
+Correct Symbol: C
+--------------------
+Question 27: Việc đưa một hệ thống thông tin vào một tổ chức là:
+Answer: A. Đầu tư phần cứng và đồng thời tiến hành thay đổi thói quen, kỹ năng làm việc, công tác quản lý, cơ cấu tổ chức.
+Answer: B. Không đơn thuần đầu tư phần cứng, phần mềm mà còn tiến hành thay đổi thói quen, kỹ năng làm việc, công tác quản lý, cơ cấu tổ chức
+Answer: C. Đầu tư  phần mềm và đồng thời tiến hành thay đổi thói quen, kỹ năng làm việc, công tác quản lý, cơ cấu tổ chức.
+Answer: D. Tiến hành thay đổi thói quen, kỹ năng làm việc, công tác quản lý, cơ cấu tổ chức.
+Correct Answer: Không đơn thuần đầu tư phần cứng, phần mềm mà còn tiến hành thay đổi thói quen, kỹ năng làm việc, công tác quản lý, cơ cấu tổ chức
+Correct Symbol: B
+--------------------
+Question 28: Trong biểu đồ luồng dữ liệu, một chức năng được biểu diễn bởi:
+Answer: A. Một hình tròn hay một hình ôvan 
+Answer: B. Một hình vuông 
+Answer: C. Một hình thoi 
+Answer: D. Một hình chữ nhật 
+Correct Answer: Một hình tròn hay một hình ôvan 
+Correct Symbol: A
+--------------------
+Question 29: Để biểu diễn một kho dữ liệu trong biểu đồ luồng dữ liệu người ta thường?
+Answer: A. Vẽ một hình chữ nhật trong đó ghi tên của kho  
+Answer: B. Vẽ một hình tròn có ghi tên kho trong đó  
+Answer: C. Vẽ 2 đoạn thẳng nằm ngang, kẹp giữa ghi tên của kho dữ liệu 
+Answer: D. Vẽ một hình thoi trong đó ghi tên của kho  
+Correct Answer: Vẽ 2 đoạn thẳng nằm ngang, kẹp giữa ghi tên của kho dữ liệu 
+Correct Symbol: C
+--------------------
+Question 30: Đặc điểm của biểu đồ phân cấp chức năng là?
+Answer: A. Rất dễ thành lập bằng cách phân rã dần dần các chức năng từ trên xuống của các tổ chức hợp thành cơ quan
+Answer: B. Sơ đồ tổ chức thể hiện mức phân bố các chức năng từ cao xuống thấp
+Answer: C. Cho cách nhìn tổng quát, dễ hiểu từng nhiệm vụ cần thực hiện và rất dễ thành lập bằng cách phân rã dần dần các chức năng từ trên xuống
+Answer: D. Cho cách nhìn tổng quát, dễ hiểu,  từng nhiệm vụ cần thực hiện của các tổ chức hợp thành cơ quan
+Correct Answer: Cho cách nhìn tổng quát, dễ hiểu từng nhiệm vụ cần thực hiện và rất dễ thành lập bằng cách phân rã dần dần các chức năng từ trên xuống
+Correct Symbol: C
+--------------------
+Question 31: Vấn đề chính của chu kỳ tuyến tính là:
+Answer: A. Sự rắc rối  khi thực hiện nó.
+Answer: B. Tính không khả thi về hệ thống phổ biến. 
+Answer: C. Một lỗi được lờ đi cho đến giai đoạn cuối cùng.
+Answer: D. Dừng lại khi Hệ Thống phát hiện ra lỗi. 
+Correct Answer: Một lỗi được lờ đi cho đến giai đoạn cuối cùng.
+Correct Symbol: C
+--------------------
+Question 32: Đào tạo người sử dụng điều hành hệ thống là trách nhiệm của:
+Answer: A. Nhà cung cấp phần cứng.
+Answer: B. Phòng tổ chức. 
+Answer: C. Nhà phát triển hệ thống.
+Answer: D. Người sử dụng.
+Correct Answer: Nhà phát triển hệ thống.
+Correct Symbol: C
+--------------------
+Question 33: Để khắc phục vấn đề chu kỳ tuyến tính khi một lỗi được bỏ qua, sự thay đổi chu kỳ tuyến tính được gọi là:
+Answer: A. Chu kỳ thiết kế nguyên mẫu.
+Answer: B. Chu kỳ thiết kế lặp.
+Answer: C. Chu kỳ tuyến tính vòng.
+Answer: D. Chu kỳ thiết kế giai đoạn.
+Correct Answer: Chu kỳ tuyến tính vòng.
+Correct Symbol: C
+--------------------
+Question 34: Một dự án phát triển Hệ thống thông tin được xác định khi xác định được:
+Answer: A. Mục tiêu, phạm vi, nguồn tài nguyên của dự án.
+Answer: B. Phạm vi, nguồn tài nguyên, nguồn nhân lực của dự án.
+Answer: C. Mục tiêu, nguồn tài chính, nguồn nhân lực của dự án. 
+Answer: D. Mục tiêu, phạm vi, nguồn tài chính của dự án.
+Correct Answer: Mục tiêu, phạm vi, nguồn tài nguyên của dự án.
+Correct Symbol: A
+--------------------
+Question 35: Chu kỳ phát triển hệ thống tuyến tính là phù hợp với:
+Answer: A. Hệ thống thông tin thực nghiệm 
+Answer: B. Hệ thống thông tin thường.
+Answer: C. Hệ thống thông tin không xác định (Hệ thống mờ) 
+Answer: D. Hệ thống thông tin phức tạp 
+Correct Answer: Hệ thống thông tin thường.
+Correct Symbol: B
+--------------------
+Question 36: Sự thuận lợi chủ yếu của chu kỳ tuyến tính vòng là bảo đảm:
+Answer: A. Chất lượng lỗi bảo đảm hơn.
+Answer: B. Sự giải quyết vấn đề nhanh hơn.
+Answer: C. Trở về được giai đoạn trước để sửa lỗi.
+Answer: D. Sự giải quyết vấn đề rẻ hơn.
+Correct Answer: Trở về được giai đoạn trước để sửa lỗi.
+Correct Symbol: C
+--------------------
+Question 37: Sơ đồ khối có đặc điểm gì trong những đặc điểm sau đây?
+Answer: A. Không thể phân mức được.
+Answer: B. Không được phân mức.
+Answer: C. Cũng được phân mức.
+Answer: D. Phân mức được nhưng khó.
+Correct Answer: Không được phân mức.
+Correct Symbol: B
+--------------------
+Question 38: Các tác nhân ngoài được chỉ ra trong biểu đồ luồng dữ liệu là
+Answer: A. Không là trường hợp nào kể trên.
+Answer: B. Môi trường của hệ thống thông tin.
+Answer: C. Đặt dưới sự điều khiển của hệ thống thông tin.
+Answer: D. Các thành phần của hệ thống thông tin.
+Correct Answer: Các thành phần của hệ thống thông tin.
+Correct Symbol: D
+--------------------
+Question 39: Tác nhân ngoài có định danh là
+Answer: A. Động từ (Động từ là một từ (thành phần câu) dùng để biểu thị hoạt động (chạy, đi, đọc), trạng thái (tồn tại, ngồi).)
+Answer: B. Tính từ (tính từ là những từ chỉ đặc điểm, tính chất của sự vật, hành động , trạng thái.)
+Answer: C. Trạng từ (Trạng từ hay còn được gọi là phó từ là từ dùng để bổ nghĩa cho các động từ, tính từ hay các trạng từ khác.)
+Answer: D. Danh từ (Danh từ là những từ chỉ người, sự vật, con vật, sự việc, khái niệm… ) và tính  từ nếu cần thiết
+Correct Answer: Danh từ (Danh từ là những từ chỉ người, sự vật, con vật, sự việc, khái niệm… ) và tính  từ nếu cần thiết
+Correct Symbol: D
+--------------------
+Question 40: Nhiệm vụ của giai đoạn phân tích là
+Answer: A. Phát triển mô hình quan niệm dữ liệu và các mô hình  xử lý 
+Answer: B. Phát triển mô hình quan niệm dữ liệu và các mô hình  kiểm tra HT 
+Answer: C. Phát triển mô hình tri thức  và các mô hình  xử lý 
+Answer: D. Phát triển mô hình trừu tượng và các mô hình  xử lý 
+Correct Answer: Phát triển mô hình quan niệm dữ liệu và các mô hình  xử lý
+Correct Symbol: A
+--------------------
+Question 41: Không có sự thay đổi nào trong kho dữ liệu do
+Answer: A. Cập nhật dữ liệu.
+Answer: B. Lưu giữ dữ liệu.
+Answer: C. Nhập vào dữ liệu.
+Answer: D. Truy xuất dữ liệu.
+Correct Answer: Truy xuất dữ liệu.
+Correct Symbol: D
+--------------------
+Question 42: Thuật ngữ “nổi bọt” (bubble) trong biểu đồ luồng dữ liệu được sử dụng cho
+Answer: A. Luồng dữ liệu.
+Answer: B. Phạm vi hệ thống.
+Answer: C. Tác nhân ngoài.
+Answer: D. Các vòng tròn biểu diễn tiến trình.
+Correct Answer: Các vòng tròn biểu diễn tiến trình.
+Correct Symbol: D
+--------------------
+Question 43: Phát triển mô hình quan niệm dữ liệu là
+Answer: A. Xây dựng biểu đồ thực thể quan hệ và xây dựng từ điển dữ liệu
+Answer: B. Xây dựng các đối tượng quản lý
+Answer: C. Xây dựng các dữ liệu phức hợp
+Answer: D. Xây dựng tương tác các dữ liệu
+Correct Answer: Xây dựng biểu đồ thực thể quan hệ và xây dựng từ điển dữ liệu
+Correct Symbol: A
+--------------------
+Question 44: Mô hình phân cấp chức năng (BFD) là
+Answer: A. Xác định chức năng nghiệp vụ được tiến hành sau khi có tổ chức 
+Answer: B. Mô hình các hoạt động chủ yếu của hệ thống
+Answer: C. Mô hình chức năng nghiệp vụ phân rã có thứ bậc một cách đơn giản các chức năng của tổ chức
+Answer: D. Sơ đồ tổ chức các chức năng của hệ thống
+Correct Answer: Mô hình chức năng nghiệp vụ phân rã có thứ bậc một cách đơn giản các chức năng của tổ chức
+Correct Symbol: C
+--------------------
+Question 45: Số lượng mức của các DFD của hệ thống thông tin là:
+Answer: A. Được quy định khắt khe bởi cấu trúc hệ thống.
+Answer: B. Được quy định bởi việc quản lý tổ chức.
+Answer: C. Được quy định bởi các nhà phân tích hệ thống.
+Answer: D. Do yêu cầu của người sử dụng.
+Correct Answer: Được quy định bởi các nhà phân tích hệ thống.
+Correct Symbol: C
+--------------------
+Question 46: Sơ đồ luồng dữ liệu mức ngữ cảnh là
+Answer: A. Đặc tả Hệ thống theo ngữ cảnh
+Answer: B. Mô hình hệ thống ở mức tổng quát nhất. Hệ thống chỉ có một chức năng duy nhất. Các tác nhân ngoài cùng các luồng dữ  liệu vào/ra từ tác nhân ngoài
+Answer: C. Mô tả các luồng dữ liệu vào ra hệ thống
+Answer: D. Các thành phần dữ liệu của hệ thống
+Correct Answer: Câu trả lời đúng là: Mô hình hệ thống ở mức tổng quát nhất. Hệ thống chỉ có một chức năng duy nhất. Các tác nhân ngoài cùng các luồng dữ  liệu vào/ra từ tác nhân ngoài
+Correct Symbol: 
+--------------------
+Question 47: Trong mô hình dữ liệu, bảng quan hệ dữ liệu rút ra:
+Answer: A. Chỉ từ tập liên kết.
+Answer: B. Từ tập thực thể và tập liên kết.
+Answer: C. Từ các tiến trình hệ thống 
+Answer: D. Chỉ từ tập thực thể.
+Correct Answer: Từ tập thực thể và tập liên kết.
+Correct Symbol: B
+--------------------
+Question 48: Trong sơ đồ khối của hệ thống thông tin, các mũi tên giữa các khối biểu diễn
+Answer: A. Luồng dữ liệu.
+Answer: B. Trình tự tiến trình.
+Answer: C. Các kho dữ liệu.
+Answer: D. Các tiến trình.
+Correct Answer: Trình tự tiến trình.
+Correct Symbol: B
+--------------------
+Question 49: Quá trình lập kế hoạch bao gồm các công việc?
+Answer: A. Xác định các sản phẩm sẽ xây dựng, lập kế hoạch phát triển HTTT
+Answer: B. Xác định  các nhân tố kế hoạch chiến lược, xác định các đối tượng lập kế hoạch, xây dựng các mô hình nghiệp vụ, lập kế hoạch phát triển HTTT
+Answer: C. Xác định  mục tiêu ,  các nhân tố nguồn lực  xác định  kinh phí và lập lịch biểu 
+Answer: D. Xác định các đối tượng quản lý,  các nhân tố quyết định đến  sống còn của doanh nghiệp, .
+Correct Answer: Xác định  các nhân tố kế hoạch chiến lược, xác định các đối tượng lập kế hoạch, xây dựng các mô hình nghiệp vụ, lập kế hoạch phát triển HTTT
+Correct Symbol: B
+--------------------
+Question 50: Xây dựng các thành phần của CSDL là
+Answer: A. Chuẩn hóa CSDL
+Answer: B. Xây dựng các khóa truy cập và xác định các thành phần truy cập
+Answer: C. Xác định phương pháp truy cập các file CSDL
+Answer: D. Xây dựng các bảng, các file chỉ dẫn, các thành phần phân tán dữ liệu
+Correct Answer: Xây dựng các bảng, các file chỉ dẫn, các thành phần phân tán dữ liệu
+Correct Symbol: D
+--------------------
+Question 51: Trong biểu đồ luồng dữ liệu, tiến trình lặp được biểu diễn bằng:
+Answer: A. Mũi tên quay vòng trên tiến trình hình tròn.   
+Answer: B. Một phần của tiến trình hình tròn.  
+Answer: C. Nhiều đường luồng dữ liệu.  
+Answer: D. Toàn bộ tiến trình. 
+Correct Answer: Một phần của tiến trình hình tròn. 
+Correct Symbol: B
+--------------------
+Question 52: Sơ đồ E-R của hệ thống thông tin được tập trung vào…
+Answer: A. Các dữ liệu đầu vào cho HT.
+Answer: B. Các tiến trình hệ thống.
+Answer: C. Dữ liệu hệ thống.
+Answer: D. Dữ liệu và các tiến trình hệ thống
+Correct Answer: Dữ liệu hệ thống.
+Correct Symbol: C
+--------------------

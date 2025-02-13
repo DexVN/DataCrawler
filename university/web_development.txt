@@ -1,0 +1,480 @@
+Question 1: Namespace nào chứa các class mô tả các cấu trúc dữ liệu?
+Answer: A. System.Collections
+Answer: B. System.Data
+Answer: C. System.Web
+Answer: D. System.Xml
+Correct Answer: Câu trả lời đúng là: System.Collections
+Correct Symbol: 
+--------------------
+Question 2: Để sử dụng được đối tượng XmlTextReader cần sử dụng namespace nào?
+Answer: A. System.Xml 
+Answer: B. System.Data
+Answer: C. System.Web
+Answer: D. System.Collecti ons
+Correct Answer: System.Xml
+Correct Symbol: A
+--------------------
+Question 3: Biểu thức nào sau đây là sai nếu chưa chỉ định sử dụng namespace System.Web.UI.WebControls?
+Answer: A. DataTable table = (DataTable)listBox1.DataSource;
+Answer: B. XmlTextReader rdr;
+Answer: C. Button button = (Button)form1.Controls[0];
+Answer: D. Stack stack = new Stack();
+Correct Answer: Button button = (Button)form1.Controls[0];
+Correct Symbol: C
+--------------------
+Question 4: Thành phần nào của file ASPX chỉ có trong ASP.NET ?
+Answer: A. Client Side Code
+Answer: B. Html Control Tag
+Answer: C. Web Control Tag
+Answer: D. Static Text
+Correct Answer: Web Control Tag
+Correct Symbol: C
+--------------------
+Question 5: Biểu thức nào sau đây là sai nếu chưa chỉ định sử dụng namespace System.Collections ?
+Answer: A. DataTable table = (DataTable)listBox1.DataSource;
+Answer: B. Stack stack = new Stack();
+Answer: C. Button button = (Button)form1.Controls[0];
+Answer: D. XmlTextReader rdr;
+Correct Answer: Stack stack = new Stack();
+Correct Symbol: B
+--------------------
+Question 6: Một class được xây dựng ở đâu?
+Answer: A. Trong đoạn script với thuộc tính language = “C#”
+Answer: B. Trong file .cs
+Answer: C. Trong file .xml
+Answer: D. Trong đoạn script với thuộc tính runat = “server”
+Correct Answer: Câu trả lời đúng là: Trong file .cs
+Correct Symbol: 
+--------------------
+Question 7: Namespace nào chứa các class làm việc với cơ sở dữ liệu?
+Answer: A. System.Data
+Answer: B. System.Web
+Answer: C. System.Xml
+Answer: D. System.Collections
+Correct Answer: Câu trả lời đúng là: System.Data
+Correct Symbol: 
+--------------------
+Question 8: Biểu thức nào sau đây là sai nếu chưa chỉ định sử dụng namespace System.Web.UI.WebControls?
+Answer: A. XmlTextReader rdr;
+Answer: B. DataTable table = (DataTable)listB ox1.DataSource;
+Answer: C. Button button = (Button)form1.Controls[0]; 
+Answer: D. Stack stack = new Stack();
+Correct Answer: Button button = (Button)form1.Controls[0];
+Correct Symbol: C
+--------------------
+Question 9: Bổ sung các thuộc tính phù hợp vào dấu 3 chấm cho tag <asp:Button … />
+Answer: A. ID=“Button1” Width=“120px”
+Answer: B. ID=“\“Button1” OnClick=“Button1_Click” ”
+Answer: C. ID=“Button1”
+Answer: D. ID=“Button1” runat=“server”
+Correct Answer: Câu trả lời đúng là: ID=“Button1” runat=“server”
+Correct Symbol: 
+--------------------
+Question 10: ASP là viết tắt bởi:
+Answer: A. ActiveX Server Pages
+Answer: B. Active Server Pages
+Answer: C. ActiveX Service Protocol
+Answer: D. Association of Software Professionals
+Correct Answer: Active Server Pages
+Correct Symbol: B
+--------------------
+Question 11: Để sử dụng các đối tượng IDbCommand, IDbConnection cần sử dụng namespace nào?
+Answer: A. System.Collections
+Answer: B. System.Web
+Answer: C. System.Xml
+Answer: D. System.Data
+Correct Answer: Câu trả lời đúng là: System.Data
+Correct Symbol: 
+--------------------
+Question 12: Đối tượng nào được server trả về khi có yêu cầu một trang .aspx?
+Answer: A. Responce
+Answer: B. Session
+Answer: C. Request
+Answer: D. Application
+Correct Answer: Responce
+Correct Symbol: A
+--------------------
+Question 13: Sử dụng các namespace trong file .aspx thì ta dùng directive nào? 
+Answer: A. Register
+Answer: B. Reference
+Answer: C. Page
+Answer: D. Import
+Correct Answer: Câu trả lời đúng là: Import
+Correct Symbol: 
+--------------------
+Question 14: Để sử dụng được đối tượng XmlTextReader cần sử dụng namespace nào?
+Answer: A. System.Collections
+Answer: B. System.Xml
+Answer: C. System.Web
+Answer: D. System.Data
+Correct Answer: Câu trả lời đúng là: System.Xml
+Correct Symbol: 
+--------------------
+Question 15: Đối tượng nào được server trả về khi có yêu cầu một trang .aspx?
+Answer: A. Responce
+Answer: B. Request
+Answer: C. Application
+Answer: D. Session
+Correct Answer: Câu trả lời đúng là: Responce
+Correct Symbol: 
+--------------------
+Question 16: Directive nào cho phép dùng một namespace?
+Answer: A. Page
+Answer: B. Register
+Answer: C. Import
+Answer: D. Reference
+Correct Answer: Import
+Correct Symbol: C
+--------------------
+Question 17: Để sử dụng được đối tượng Stack cần sử dụng namespace nào?
+Answer: A. System.Xml
+Answer: B. System.Web
+Answer: C. System.Data
+Answer: D. System.Collections
+Correct Answer: Câu trả lời đúng là: System.Collections
+Correct Symbol: 
+--------------------
+Question 18: Biểu thức nào sau đây là sai nếu chưa chỉ định sử dụng namespace System.Xml?
+Answer: A. DataTable table = (DataTable)listBox1.DataSource;
+Answer: B. XmlTextReader rdr;
+Answer: C. Button button = (Button)form1.Controls[0];
+Answer: D. Stack stack = new Stack();
+Correct Answer: XmlTextReader rdr;
+Correct Symbol: B
+--------------------
+Question 19: Thuộc tính nào quyết định một thành phần được xử lý phía Server?
+Answer: A. runat = “server” 
+Answer: B. runin = “server”
+Answer: C. runin = “client”
+Answer: D. runat = “client”
+Correct Answer: runat = “server”
+Correct Symbol: A
+--------------------
+Question 20: Biểu thức nào sau đây là sai nếu chưa chỉ định sử dụng namespace System.Data?
+Answer: A. Stack stack = new Stack();
+Answer: B. Button button = (Button)form1.Controls[0];
+Answer: C. XmlTextReader rdr;
+Answer: D. DataTable table = (DataTable)listBox1.DataSource;
+Correct Answer: DataTable table = (DataTable)listBox1.DataSource;
+Correct Symbol: D
+--------------------
+Question 21: Thuộc tính nào quyết định một thành phần được xử lý phía Server?
+Answer: A. runat = “server”
+Answer: B. runin = “client”
+Answer: C. runat = “client”
+Answer: D. runin = “server”
+Correct Answer: Câu trả lời đúng là: runat = “server”
+Correct Symbol: 
+--------------------
+Question 22: Tag <textarea> tạo ra control nào?
+Answer: A. Một ô nhập một dòng ký tự
+Answer: B. Một ô nhập nhiều dòng ký tự 
+Answer: C. Một nút cho phép chọn giá trị dạng boolean
+Answer: D. Một dòng link đến một web page
+Correct Answer: Một ô nhập nhiều dòng ký tự
+Correct Symbol: B
+--------------------
+Question 23: Tag <textarea> tạo ra control nào?
+Answer: A. Một dòng link đến một web page
+Answer: B. Một ô nhập nhiều dòng ký tự
+Answer: C. Một ô nhập một dòng ký tự
+Answer: D. Một nút cho phép chọn giá trị dạng boolean
+Correct Answer: Một ô nhập nhiều dòng ký tự
+Correct Symbol: B
+--------------------
+Question 24: Các bước bắt buộc để đưa một DataTable lên một đối tượng DataList gồm:
+Answer: A. Gọi DataList.DataBind(), gán DataList.DataSource = DataTable và lưu DataTable vào Application
+Answer: B. Gán DataList.DataSource = DataTable và gọi DataList.DataBind()
+Answer: C. Gọi DataList.DataBind() và gán DataList.DataSource = DataTable
+Answer: D. Gán DataList.DataSource = DataTable, lưu DataTable vào Application và gọi DataList.DataBind()
+Correct Answer: Gán DataList.DataSource = DataTable và gọi DataList.DataBind()
+Correct Symbol: B
+--------------------
+Question 25: Cho đoạn tag sau:<asp:RadioButton ID= “Radio1”  GroupName= “Group1” runat= “server” Checked= “true” /><asp:RadioButton ID= “Radio2”  GroupName=“Group1” runat= “server” />Vì sao hai RadioButton này không thể cùng có thuộc tính Checked bằng “true”?
+Answer: A. Chỉ Radio1 có Checked= “true”
+Answer: B. Chúng có tên khác nhau
+Answer: C. Chúng có cùng GroupName
+Answer: D. Radio2 không đặt giá trị cho thuộc tính Checked
+Correct Answer: Câu trả lời đúng là: Chúng có cùng GroupName
+Correct Symbol: 
+--------------------
+Question 26: Đâu là tag xác định một Web Server Control?                       
+Answer: A. <aspx: …>
+Answer: B. <asp: …>
+Answer: C. <wsc: …>
+Answer: D. <html: …>
+Correct Answer: Câu trả lời đúng là: <asp: …>
+Correct Symbol: 
+--------------------
+Question 27: Control nào kiểm tra giá trị trong khoảng cho trước?
+Answer: A. <asp:RegularExpressionValidator>
+Answer: B. <asp:CompareValidator>
+Answer: C. < asp:ValidatorSummary>
+Answer: D. < asp:RangeValidator>
+Correct Answer: Câu trả lời đúng là: < asp:RangeValidator>
+Correct Symbol: 
+--------------------
+Question 28: Tag <a> tạo ra control nào?
+Answer: A. Một dòng link đến một web page 
+Answer: B. Một nút cho phép chọn giá trị dạng boolean
+Answer: C. Một ô nhập nhiều dòng ký tự 
+Answer: D. Một ô nhập một dòng ký tự 
+Correct Answer: Một dòng link đến một web page
+Correct Symbol: A
+--------------------
+Question 29: Control nào KHÔNG thể hiện thông tin có tính chất danh sách?
+Answer: A. <asp:DropDownList> 
+Answer: B. <table> 
+Answer: C. <select> 
+Answer: D. <asp:DataGrid>
+Correct Answer: <table>
+Correct Symbol: B
+--------------------
+Question 30: Cho control sau:<asp:CheckBoxList ID=“CheckBoxList1” runat=“server”>Biểu thức nào cho phép truy cập đến item đang được chọn của control?
+Answer: A. CheckBoxList1.Items[CheckBoxList1.SelectedIndex] 
+Answer: B. checkBoxList1.Items[SelectedIndex]
+Answer: C. CheckBoxList1.Selected Index
+Answer: D. checkBoxList1.SelectedIndex
+Correct Answer: Câu trả lời đúng là: CheckBoxList1.Items[CheckBoxList1.SelectedIndex]
+Correct Symbol: 
+--------------------
+Question 31: Tag <input type=“text”> tạo ra control nào?
+Answer: A. Một ô nhập một dòng ký tự
+Answer: B. Một ô nhập nhiều dòng ký tự
+Answer: C. Một nút cho phép chọn giá trị dạng boolean
+Answer: D. Một dòng link đến một web page
+Correct Answer: Một ô nhập một dòng ký tự
+Correct Symbol: A
+--------------------
+Question 32: Cho control sau: <asp:CheckBoxList ID=”CheckBoxList1” runat=”server”> Biểu thức nào cho phép truy cập đến danh sách các item của control?
+Answer: A. CheckBoxList1.Items 
+Answer: B. CheckBoxList1.S electedItem
+Answer: C. CheckBoxList1.It ems
+Answer: D. CheckBoxList1. SelectedItem
+Correct Answer: CheckBoxList1.Items
+Correct Symbol: A
+--------------------
+Question 33: Đối tượng nào KHÔNG cho phép người sử dụng chọn dữ liệu từ một danh sách cho trước?
+Answer: A. <asp:CheckBoxList>
+Answer: B. <select>
+Answer: C. <asp:DropDownList>
+Answer: D. <asp:TextBox>
+Correct Answer: Câu trả lời đúng là: <asp:TextBox>
+Correct Symbol: 
+--------------------
+Question 34: Các HTML control gồm các nhóm nào?
+Answer: A. HtmlInputControl
+Answer: B. HtmlInputControl và HtmlContainerControl
+Answer: C. HtmlInputControl, HtmlContainerControl và HtmlImage
+Answer: D. HtmlInputControl, HtmlContainerControl, HtmlImage và HtmlAnchorControl
+Correct Answer: HtmlInputControl, HtmlContainerControl và HtmlImage
+Correct Symbol: C
+--------------------
+Question 35: Thuộc tính nào quyết định số lượng Item được thể hiện trên DataList?
+Answer: A. Items.Count
+Answer: B. Size
+Answer: C. Controls
+Answer: D. DataSource
+Correct Answer: Câu trả lời đúng là: DataSource
+Correct Symbol: 
+--------------------
+Question 36: Tag <input type=”text”> tạo ra control nào?
+Answer: A. Một nút cho phép chọn giá trị dạng boolean
+Answer: B. Một dòng link đến một web page
+Answer: C. Một ô nhập một dòng ký tự 
+Answer: D. Một ô nhập nhiều dòng ký tự
+Correct Answer: Một ô nhập một dòng ký tự
+Correct Symbol: C
+--------------------
+Question 37: Web User Control có control  <asp:label ID=”Label1”>. Biểu thức trong thuộc tính đặt dòng chữ hiện trên control sẽ được viết thế nào?
+Answer: A. set { Label1.Value = value; }
+Answer: B. get { Label1.Value = value; }
+Answer: C. set { Lable1.Text = value; }
+Answer: D. get { Lable1.Text = value; }
+Correct Answer: Câu trả lời đúng là: set { Lable1.Text = value; }
+Correct Symbol: 
+--------------------
+Question 38: Để tạo ra một combobox cần dùng tag nào?                                                       
+Answer: A. <combo>
+Answer: B. <a>
+Answer: C. <table>
+Answer: D. <select>
+Correct Answer: Câu trả lời đúng là: <select>
+Correct Symbol: 
+--------------------
+Question 39: Một Web User Control được xây dựng trong file “MyTable.ascx”. Directive nào cho phép sử dụng control này trong file .ascx
+Answer: A. <%@ Register TagPrefix="myControl" TagName="MyTable" Src="MyTable.ascx" %> 
+Answer: B. <%@ Register TagPrefix="myControl" TagName="MyTable" %>
+Answer: C. <%@ Register TagPrefix="myControl" Src="MyTable.ascx" %> 
+Answer: D. <%@ Register TagName="MyTable" Src="Login.ascx" %> 
+Correct Answer: Câu trả lời đúng là: <%@ Register TagPrefix="myControl" TagName="MyTable" Src="MyTable.ascx" %>
+Correct Symbol: 
+--------------------
+Question 40: Cho control sau:<asp:CheckBoxList ID=“CheckBoxList1” runat=“server”>Biểu thức nào cho phép truy cập đến danh sách các item của control?
+Answer: A. CheckBoxList1.It ems
+Answer: B. CheckBoxList1.Items[SelectedIndex]
+Answer: C. CheckBoxList1.SelectedItem
+Answer: D. CheckBoxList1.Items 
+Correct Answer: Câu trả lời đúng là: CheckBoxList1.Items
+Correct Symbol: 
+--------------------
+Question 41: Phương thức nào của SqlCommand dùng để thực hiện một procedure?
+Answer: A. RunProcedure()
+Answer: B. ExecuteReader()
+Answer: C. ExecuteScalar()
+Answer: D. ExecuteNonQuery()
+Correct Answer: Câu trả lời đúng là: ExecuteNonQuery()
+Correct Symbol: 
+--------------------
+Question 42: Thành phần nào của Provider cho phép kết nối đến cơ sở dữ liệu?
+Answer: A. DataAdapter
+Answer: B. Command
+Answer: C. Connection
+Answer: D. DataReader
+Correct Answer: Câu trả lời đúng là: Connection
+Correct Symbol: 
+--------------------
+Question 43: Phương thức nào của SqlCommand dùng để lấy một giá trị từ một bảng?
+Answer: A. ExecuteScalar()
+Answer: B. ExecuteNonQuery()
+Answer: C. RunProcedure()
+Answer: D. ExecuteReader()
+Correct Answer: Câu trả lời đúng là: ExecuteScalar()
+Correct Symbol: 
+--------------------
+Question 44: Phương thức nào của DataAdapter dùng để cập nhật sự thay đổi của dữ liệu từ DataTable vào cơ sở dữ liệu?
+Answer: A. Update()
+Answer: B. Load()
+Answer: C. SendData()
+Answer: D. Fill()
+Correct Answer: Câu trả lời đúng là: Update()
+Correct Symbol: 
+--------------------
+Question 45: Phương thức nào của SqlCommand dùng để đọc một bảng dữ liệu?
+Answer: A. ExecuteScalar()
+Answer: B. ExecuteNonQuery()
+Answer: C. ReadTable()
+Answer: D. ExecuteReader()
+Correct Answer: Câu trả lời đúng là: ExecuteReader()
+Correct Symbol: 
+--------------------
+Question 46: Đâu là tập con của DataSet
+Answer: A. DataTables
+Answer: B. Tables
+Answer: C. Columns
+Answer: D. Rows
+Correct Answer: Tables
+Correct Symbol: B
+--------------------
+Question 47: Thuộc tính nào của DataAdapter chứa câu SQL cập nhật dữ liệu trong cơ sở dữ liệu?
+Answer: A. Insertcommand
+Answer: B. SelectCommand
+Answer: C. UpdateCommand 
+Answer: D. DeleteCommand
+Correct Answer: Câu trả lời đúng là: UpdateCommand
+Correct Symbol: 
+--------------------
+Question 48: Thuộc tính nào của DataAdapter chứa câu SQL thêm  dữ liệu vào cơ sở dữ liệu?
+Answer: A. DeleteCommand
+Answer: B. SelectCommand
+Answer: C. UpdateCommand 
+Answer: D. Insertcommand
+Correct Answer: Câu trả lời đúng là: Insertcommand
+Correct Symbol: 
+--------------------
+Question 49: Thành phần nào của Provider dùng để chạy một câu SQL?
+Answer: A. DataReader
+Answer: B. DataAdapter
+Answer: C. Connection
+Answer: D. Command
+Correct Answer: Câu trả lời đúng là: Command
+Correct Symbol: 
+--------------------
+Question 50: Thuộc tính nào của Session quyết định thời gian tồn tại các vùng nhớ của nó?
+Answer: A. StaticObjects
+Answer: B. TimeOut
+Answer: C. Count
+Answer: D. Keys
+Correct Answer: Câu trả lời đúng là: TimeOut
+Correct Symbol: 
+--------------------
+Question 51: Tập tham số của SqlCommand là?
+Answer: A. CommandText
+Answer: B. Connection
+Answer: C. CommandType
+Answer: D. Parameters
+Correct Answer: Câu trả lời đúng là: Parameters
+Correct Symbol: 
+--------------------
+Question 52: Giả sử trong cơ sở dữ liệu BookShop có procedure được tạo ra bằng script: CREATE PROCEDURE InsertOrder (@ID int = NULL output, @BookID int, @Quantity int) … Cho biết nguyên nhân sinh ra lỗi khi chạy đoạn code dưới đây? SqlConnection connection = new SqlConnection(“Data source=localhost;Initial catalog=BookShop”); SqlCommand command = new SqlCommand(“InsertOrder”, connection); command.Parameters.Add(“@ID”, SqlDbType.Int);  command.Parameters.Add(“@BookID”, SqlDbType.Int).Value = bookID; command.Parameters.Add(“@Quantity” , SqlDbType.Int) = quantity;  connection.Open();  command.ExecuteNonQuery();  connection.Close();
+Answer: A. Không mở được connection
+Answer: B. command.commandType không phù hợp
+Answer: C. Chưa thiết lập Value cho Parameter @ID
+Answer: D. Không thể thực hiện command.Execut eReader() để chạy một Stored Procedure 
+Correct Answer: command.commandType không phù hợp
+Correct Symbol: B
+--------------------
+Question 53: Thuộc tính nào của DataAdapter chứa câu SQL xóa dữ liệu trong cơ sở dữ liệu?
+Answer: A. Insertcommand
+Answer: B. SelectCommand
+Answer: C. DeleteCommand
+Answer: D. UpdateCommand 
+Correct Answer: Câu trả lời đúng là: DeleteCommand
+Correct Symbol: 
+--------------------
+Question 54: Giả sử trong cơ sở dữ liệu BookShop có procedure được tạo ra bằng script:  CREATE PROCEDURE InsertOrder (@ID int = NULL output, @BookID int, @Quantity int) … Cho biết nguyên nhân sinh ra lỗi khi chạy đoạn code dưới đây?  SqlConnection connection = new SqlConnection(“Data source=localhost;Initial catalog=BookShop”);  SqlCommand command = new SqlCommand(“InsertOrder”, connection);   command.CommandType=CommandType.StoredProcedure;  command.Parameters.Add(“@ID”, SqlDbType.Int);  command.Parameters.Add(“@BookID”, SqlDbType.Int).Value = bookID;  command.Parameters.Add(“@Quantity”, SqlDbType.Int) = quantity; connection.Open();  command.ExecuteReader();  connection.Close();
+Answer: A. Không thể thực hiện command.ExecuteReader() để chạy một Stored Procedure 
+Answer: B. command.comm andType không phù hợp
+Answer: C. Không mở được connection
+Answer: D. Chưa thiết lập Value cho Parameter @ID
+Correct Answer: Không thể thực hiện command.ExecuteReader() để chạy một Stored Procedure
+Correct Symbol: A
+--------------------
+Question 55: Thuộc tính nào của Parameter quyết định nó là tham số đầu vào hoặc ra?
+Answer: A. Direction 
+Answer: B. DbType 
+Answer: C. Value
+Answer: D. TypeName
+Correct Answer: Direction
+Correct Symbol: A
+--------------------
+Question 56: Phương thức nào của DataAdapter dùng để đưa dữ liệu vào DataTable?
+Answer: A. SendData()
+Answer: B. Update()
+Answer: C. Fill()
+Answer: D. Load()
+Correct Answer: Câu trả lời đúng là: Fill()
+Correct Symbol: 
+--------------------
+Question 57: Thuộc tính nào của DataAdapter chứa câu SQL đọc dữ liệu vào DataSet?
+Answer: A. Insertcommand
+Answer: B. UpdateCommand 
+Answer: C. DeleteCommand
+Answer: D. SelectCommand
+Correct Answer: Câu trả lời đúng là: SelectCommand
+Correct Symbol: 
+--------------------
+Question 58: Câu lệnh SQL được thực hiện bởi SqlCommand được đặt vào thuộc tính nào?
+Answer: A. Parameters
+Answer: B. CommandText
+Answer: C. CommandType
+Answer: D. Connection
+Correct Answer: Câu trả lời đúng là: CommandText
+Correct Symbol: 
+--------------------
+Question 59: Để duyệt qua tất cả các giá trị trong một DataRow cần sử dụng thuộc tính nào?
+Answer: A. ItemArray
+Answer: B. Values
+Answer: C. Items
+Answer: D. Columns
+Correct Answer: Câu trả lời đúng là: ItemArray
+Correct Symbol: 
+--------------------
+Question 60: Cho đoạn thẻ sau đây: <asp:DropDownList ID=”DropDownList1” runat=”server”> … < /asp:DropDownList> Lệnh C# nào tương đương với tag <asp:ListItem Text=”Item 1” Value=”1” />
+Answer: A. DropDownList1. Items.Add(“Item 1”) 
+Answer: B. DropDownList1.Items.Add(new ListItem(“Item 1”, “1”))
+Answer: C. DropDownList1. Items.Add(new ListItem(“Item 1”))
+Answer: D. DropDownList1. Items.Add(“Item 1”, “1”) 
+Correct Answer: DropDownList1.Items.Add(new ListItem(“Item 1”, “1”))
+Correct Symbol: B
+--------------------
